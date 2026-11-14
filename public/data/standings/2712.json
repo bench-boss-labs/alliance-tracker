@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-08T23:57:02.024Z",
+ "updatedAt": "2026-11-14T19:11:16.595Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97181",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 5,
+     "gp": 10,
+     "w": 6,
      "l": 3,
      "t": 1,
-     "pts": 11,
-     "gf": 29,
-     "ga": 26,
-     "diff": 3,
-     "l10": "5-3-1",
-     "strk": "T1"
+     "pts": 13,
+     "gf": 33,
+     "ga": 27,
+     "diff": 6,
+     "l10": "6-3-1",
+     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97183",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 9,
-     "gf": 27,
-     "ga": 18,
-     "diff": 9,
-     "l10": "4-3-1",
-     "strk": "L1"
+     "gf": 28,
+     "ga": 22,
+     "diff": 6,
+     "l10": "4-4-1",
+     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",

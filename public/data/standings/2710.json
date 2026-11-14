@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-14T18:40:38.243Z",
+ "updatedAt": "2026-11-14T19:10:47.327Z",
  "regular": [
   {
    "name": "East Division",
@@ -89,16 +89,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96943",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 58,
-     "ga": 22,
-     "diff": 36,
-     "l10": "6-1-1",
-     "strk": "W6"
+     "pts": 15,
+     "gf": 66,
+     "ga": 24,
+     "diff": 42,
+     "l10": "7-1-1",
+     "strk": "W7"
     },
     {
      "team": "Sun County Panthers",
@@ -164,16 +164,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96946",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 32,
-     "ga": 49,
-     "diff": -17,
-     "l10": "2-6",
-     "strk": "L5"
+     "gf": 34,
+     "ga": 57,
+     "diff": -23,
+     "l10": "2-7",
+     "strk": "L6"
     }
    ]
   }

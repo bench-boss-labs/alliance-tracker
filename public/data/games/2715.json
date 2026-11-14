@@ -1046,14 +1046,17 @@
   "start": "2026-11-14T12:00:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U11BR64",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-14/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165773
+  }
  },
  {
   "id": 2379360,
@@ -1061,14 +1064,17 @@
   "start": "2026-11-14T13:00:00-05:00",
   "away": "North London Nationals",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U11BR77",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-14/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166420
+  }
  },
  {
   "id": 2379397,
