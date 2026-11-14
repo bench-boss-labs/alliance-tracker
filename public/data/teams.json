@@ -1632,6 +1632,14 @@
   "logo": "logos/b0bd0d065caa.png"
  },
  {
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2725:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2725,
@@ -1646,14 +1654,6 @@
   "division": "U15 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
- },
- {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2725:sarnia-lambton-jr-sting",

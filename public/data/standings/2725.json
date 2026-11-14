@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-14T15:08:09.962Z",
+ "updatedAt": "2026-11-14T20:53:33.041Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W1"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96996",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 10,
+     "w": 7,
+     "l": 2,
+     "t": 1,
+     "pts": 15,
+     "gf": 42,
+     "ga": 15,
+     "diff": 27,
+     "l10": "7-2-1",
+     "strk": "W5"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96998",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -64,21 +79,6 @@
      "diff": 10,
      "l10": "6-3-1",
      "strk": "W3"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96996",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 6,
-     "l": 2,
-     "t": 1,
-     "pts": 13,
-     "gf": 41,
-     "ga": 15,
-     "diff": 26,
-     "l10": "6-2-1",
-     "strk": "W4"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -144,16 +144,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97002",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
      "gf": 14,
-     "ga": 32,
-     "diff": -18,
-     "l10": "2-7",
-     "strk": "W1"
+     "ga": 33,
+     "diff": -19,
+     "l10": "2-8",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",
