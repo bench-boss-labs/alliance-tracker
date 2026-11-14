@@ -632,20 +632,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2715:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2715:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
+ },
+ {
+  "id": "2715:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2715:london-bandits",
@@ -1816,20 +1816,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2727:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2727:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2727:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2727:st-thomas-jr-stars",
