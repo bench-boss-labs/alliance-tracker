@@ -1100,14 +1100,17 @@
   "start": "2026-11-14T14:15:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Gretzky Center (#4)",
   "code": "U11BR74",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-11-14/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166424
+  }
  },
  {
   "id": 2379367,

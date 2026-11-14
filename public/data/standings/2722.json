@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-14T20:01:38.922Z",
+ "updatedAt": "2026-11-14T20:42:27.483Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96987",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 9,
-     "w": 5,
+     "gp": 10,
+     "w": 6,
      "l": 4,
      "t": 0,
-     "pts": 10,
-     "gf": 30,
-     "ga": 22,
-     "diff": 8,
-     "l10": "5-4",
-     "strk": "W1"
+     "pts": 12,
+     "gf": 35,
+     "ga": 24,
+     "diff": 11,
+     "l10": "6-4",
+     "strk": "W2"
     },
     {
      "team": "London Jr Knights",
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96986",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 13,
+     "gp": 14,
      "w": 5,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 10,
-     "gf": 25,
-     "ga": 50,
-     "diff": -25,
+     "gf": 27,
+     "ga": 55,
+     "diff": -28,
      "l10": "4-6",
-     "strk": "L2"
+     "strk": "L3"
     },
     {
      "team": "Brantford 99ers",
