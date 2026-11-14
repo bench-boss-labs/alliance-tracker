@@ -668,14 +668,17 @@
   "start": "2026-11-14T12:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U12P141",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-14/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3165814
+  }
  },
  {
   "id": 2374235,
@@ -683,14 +686,17 @@
   "start": "2026-11-14T12:30:00-05:00",
   "away": "Sun County Panthers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U12P69",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-14/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3166774
+  }
  },
  {
   "id": 2374283,

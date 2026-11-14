@@ -1292,14 +1292,17 @@
   "start": "2026-11-13T18:50:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Petrolia Oilers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Greenwood (Greenwood)",
   "code": "U10BRS-27",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3165221
+  }
  },
  {
   "id": 2379415,
