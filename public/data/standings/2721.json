@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-14T18:42:37.551Z",
+ "updatedAt": "2026-11-14T21:38:24.883Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,31 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97233",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
+     "gp": 9,
      "w": 7,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 14,
-     "gf": 39,
-     "ga": 12,
-     "diff": 27,
-     "l10": "7-1",
-     "strk": "W6"
+     "gf": 41,
+     "ga": 15,
+     "diff": 26,
+     "l10": "7-2",
+     "strk": "L1"
+    },
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97229",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 9,
+     "w": 6,
+     "l": 3,
+     "t": 0,
+     "pts": 12,
+     "gf": 33,
+     "ga": 25,
+     "diff": 8,
+     "l10": "6-3",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -77,21 +92,6 @@
      "gf": 30,
      "ga": 17,
      "diff": 13,
-     "l10": "5-3",
-     "strk": "L1"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97229",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 8,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 10,
-     "gf": 30,
-     "ga": 23,
-     "diff": 7,
      "l10": "5-3",
      "strk": "L1"
     },
