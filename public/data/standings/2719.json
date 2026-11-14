@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-14T15:05:35.134Z",
+ "updatedAt": "2026-11-14T17:40:44.785Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96969",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 10,
-     "w": 7,
+     "gp": 11,
+     "w": 8,
      "l": 3,
      "t": 0,
-     "pts": 14,
-     "gf": 45,
-     "ga": 27,
-     "diff": 18,
+     "pts": 16,
+     "gf": 49,
+     "ga": 28,
+     "diff": 21,
      "l10": "7-3",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Sun County Panthers",
@@ -84,16 +84,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96976",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 9,
-     "gf": 28,
-     "ga": 21,
-     "diff": 7,
-     "l10": "4-4-1",
-     "strk": "L2"
+     "gf": 29,
+     "ga": 25,
+     "diff": 4,
+     "l10": "4-5-1",
+     "strk": "L3"
     },
     {
      "team": "Kitchener Jr Rangers",
