@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-13T03:09:07.598Z",
+ "updatedAt": "2026-11-14T23:21:42.177Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 10,
-     "w": 9,
+     "gp": 11,
+     "w": 10,
      "l": 0,
      "t": 1,
-     "pts": 19,
-     "gf": 60,
-     "ga": 13,
-     "diff": 47,
+     "pts": 21,
+     "gf": 67,
+     "ga": 14,
+     "diff": 53,
      "l10": "9-0-1",
-     "strk": "W8"
+     "strk": "W9"
     },
     {
      "team": "North London Nationals",
@@ -39,16 +39,16 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-98141",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 6,
-     "l": 1,
+     "l": 2,
      "t": 2,
      "pts": 14,
-     "gf": 33,
-     "ga": 19,
-     "diff": 14,
-     "l10": "6-1-2",
-     "strk": "L1"
+     "gf": 34,
+     "ga": 26,
+     "diff": 8,
+     "l10": "6-2-2",
+     "strk": "L2"
     },
     {
      "team": "Oakridge Aeros",
