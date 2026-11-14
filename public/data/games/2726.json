@@ -941,14 +941,17 @@
   "start": "2026-11-14T15:45:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U15S14",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-11-14/15:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3166674
+  }
  },
  {
   "id": 2375675,
