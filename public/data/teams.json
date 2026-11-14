@@ -1520,6 +1520,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2724:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2724:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2724,
@@ -1536,20 +1544,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2724:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2724:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2724:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2724:lambeth-lancers",
@@ -1582,14 +1590,6 @@
   "division": "U14 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
- },
- {
-  "id": "2724:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2724:west-london-hawks",

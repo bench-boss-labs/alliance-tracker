@@ -1349,14 +1349,17 @@
   "start": "2026-11-14T15:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Gretzky Center (#3)",
   "code": "U14BR107",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-11-14/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166726
+  }
  },
  {
   "id": 2378136,
@@ -1364,14 +1367,17 @@
   "start": "2026-11-14T16:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U14BR98",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-14/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166727
+  }
  },
  {
   "id": 2378197,
@@ -1379,14 +1385,17 @@
   "start": "2026-11-14T16:00:00-05:00",
   "away": "North London Nationals",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U14BR49",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-14/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166728
+  }
  },
  {
   "id": 2378130,
