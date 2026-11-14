@@ -1120,20 +1120,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2720:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2720:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2720:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2720:london-jr-knights-white",
@@ -1192,20 +1192,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2721:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2721:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2721:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2721:brantford-99ers",
