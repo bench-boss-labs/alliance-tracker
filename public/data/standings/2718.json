@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-14T01:27:55.369Z",
+ "updatedAt": "2026-11-14T19:02:03.665Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97210",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 9,
+     "gp": 10,
+     "w": 10,
      "l": 0,
      "t": 0,
-     "pts": 18,
-     "gf": 61,
-     "ga": 14,
-     "diff": 47,
-     "l10": "9-0",
-     "strk": "W9"
+     "pts": 20,
+     "gf": 68,
+     "ga": 15,
+     "diff": 53,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -39,16 +39,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97220",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 12,
+     "gp": 13,
      "w": 8,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 18,
-     "gf": 56,
-     "ga": 35,
-     "diff": 21,
-     "l10": "6-2-2",
-     "strk": "L1"
+     "gf": 57,
+     "ga": 42,
+     "diff": 15,
+     "l10": "5-3-2",
+     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs Gold",
