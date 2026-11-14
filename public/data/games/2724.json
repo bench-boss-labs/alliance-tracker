@@ -1331,15 +1331,15 @@
  {
   "id": 2378121,
   "divisionId": 2724,
-  "start": "2026-11-14T13:30:00-05:00",
+  "start": "2026-11-14T15:00:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Burlington Bulldogs White",
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Central (Central)",
+  "venue": "Aldershot (Aldershot)",
   "code": "U14BR120",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-11-14/13:30",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-14/15:00",
   "type": "regular",
   "gamesheet": null
  },
