@@ -1460,14 +1460,17 @@
   "start": "2026-11-14T13:15:00-05:00",
   "away": "North London Nationals",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U12BR50",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-14/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166816
+  }
  },
  {
   "id": 2377901,
@@ -1475,14 +1478,17 @@
   "start": "2026-11-14T13:30:00-05:00",
   "away": "London Bandits",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Aldershot (Aldershot)",
   "code": "U12BR24",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-14/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165856
+  }
  },
  {
   "id": 2377939,
