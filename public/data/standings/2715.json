@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-14T20:41:37.476Z",
+ "updatedAt": "2026-11-14T21:12:05.687Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 30,
      "l10": "7-1",
      "strk": "W3"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97196",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 9,
+     "w": 7,
+     "l": 2,
+     "t": 0,
+     "pts": 14,
+     "gf": 47,
+     "ga": 18,
+     "diff": 29,
+     "l10": "7-2",
+     "strk": "W1"
     },
     {
      "team": "North London Nationals",
@@ -79,21 +94,6 @@
      "diff": 4,
      "l10": "6-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97196",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
-     "w": 6,
-     "l": 2,
-     "t": 0,
-     "pts": 12,
-     "gf": 35,
-     "ga": 16,
-     "diff": 19,
-     "l10": "6-2",
-     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -189,16 +189,16 @@
      "team": "London Bandits",
      "teamId": "odb-97200",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
-     "gf": 22,
-     "ga": 48,
-     "diff": -26,
-     "l10": "1-8",
-     "strk": "L3"
+     "gf": 24,
+     "ga": 60,
+     "diff": -36,
+     "l10": "1-9",
+     "strk": "L4"
     },
     {
      "team": "Oakridge Aeros",

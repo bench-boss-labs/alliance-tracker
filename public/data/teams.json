@@ -264,6 +264,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2712:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
+ },
+ {
   "id": "2712:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2712,
@@ -278,14 +286,6 @@
   "division": "U10 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2712:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2712:london-bandits",
@@ -568,6 +568,14 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
+  "id": "2715:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2715:north-london-nationals",
   "name": "North London Nationals",
   "divisionId": 2715,
@@ -590,14 +598,6 @@
   "division": "U11 BB",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2715:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2715:woodstock-jr-navy-vets",
@@ -1400,20 +1400,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2723:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2723:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2723:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2723:woodstock-jr-navy-vets",

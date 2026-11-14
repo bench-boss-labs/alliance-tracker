@@ -1118,14 +1118,17 @@
   "start": "2026-11-14T14:30:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 12,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U11BR52",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166426
+  }
  },
  {
   "id": 2379349,
