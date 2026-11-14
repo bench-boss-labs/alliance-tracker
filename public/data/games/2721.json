@@ -1139,14 +1139,17 @@
   "start": "2026-11-14T16:45:00-05:00",
   "away": "Stratford Warriors",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Gretzky Center (#4)",
   "code": "U13BR12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-11-14/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166425
+  }
  },
  {
   "id": 2378048,
