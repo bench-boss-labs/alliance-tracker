@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-14T21:13:35.572Z",
+ "updatedAt": "2026-11-14T22:49:23.664Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "L3"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97084",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 9,
+     "w": 4,
+     "l": 4,
+     "t": 1,
+     "pts": 9,
+     "gf": 22,
+     "ga": 23,
+     "diff": -1,
+     "l10": "4-4-1",
+     "strk": "W3"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97289",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -109,21 +124,6 @@
      "diff": 6,
      "l10": "4-2",
      "strk": "W3"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97084",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
-     "w": 3,
-     "l": 4,
-     "t": 1,
-     "pts": 7,
-     "gf": 19,
-     "ga": 23,
-     "diff": -4,
-     "l10": "3-4-1",
-     "strk": "W2"
     },
     {
      "team": "Stratford Warriors",
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97089",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 0,
      "gf": 5,
-     "ga": 71,
-     "diff": -66,
-     "l10": "0-8",
-     "strk": "L8"
+     "ga": 74,
+     "diff": -69,
+     "l10": "0-9",
+     "strk": "L9"
     }
    ]
   }
