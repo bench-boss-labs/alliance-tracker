@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-14T15:09:27.336Z",
+ "updatedAt": "2026-11-14T23:00:54.867Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97008",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 8,
+     "gp": 10,
+     "w": 9,
      "l": 0,
      "t": 1,
-     "pts": 17,
-     "gf": 55,
-     "ga": 14,
-     "diff": 41,
-     "l10": "8-0-1",
-     "strk": "W5"
+     "pts": 19,
+     "gf": 68,
+     "ga": 15,
+     "diff": 53,
+     "l10": "9-0-1",
+     "strk": "W6"
     },
     {
      "team": "Waterloo Wolves",
@@ -129,16 +129,16 @@
      "team": "Cambridge Jr RedHawks",
      "teamId": "odb-97006",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 19,
-     "ga": 44,
-     "diff": -25,
-     "l10": "1-6",
-     "strk": "L3"
+     "gf": 20,
+     "ga": 57,
+     "diff": -37,
+     "l10": "1-7",
+     "strk": "L4"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
