@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-14T22:49:23.664Z",
+ "updatedAt": "2026-11-14T23:39:53.257Z",
  "regular": [
   {
    "name": "",
@@ -111,33 +111,33 @@
      "strk": "W3"
     },
     {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97289",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 18,
-     "ga": 12,
-     "diff": 6,
-     "l10": "4-2",
-     "strk": "W3"
-    },
-    {
      "team": "Stratford Warriors",
      "teamId": "odb-97085",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
-     "w": 2,
+     "gp": 9,
+     "w": 3,
      "l": 4,
      "t": 2,
-     "pts": 6,
-     "gf": 16,
-     "ga": 16,
-     "diff": 0,
-     "l10": "2-4-2",
+     "pts": 8,
+     "gf": 18,
+     "ga": 17,
+     "diff": 1,
+     "l10": "3-4-2",
+     "strk": "W1"
+    },
+    {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97289",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 19,
+     "ga": 14,
+     "diff": 5,
+     "l10": "4-3",
      "strk": "L1"
     },
     {

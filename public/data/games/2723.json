@@ -980,14 +980,17 @@
   "start": "2026-11-14T17:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U14S7",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3166488
+  }
  },
  {
   "id": 2375596,

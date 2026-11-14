@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-14T22:39:58.340Z",
+ "updatedAt": "2026-11-14T23:40:20.882Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97246",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 10,
-     "w": 9,
+     "gp": 11,
+     "w": 10,
      "l": 0,
      "t": 1,
-     "pts": 19,
-     "gf": 54,
+     "pts": 21,
+     "gf": 60,
      "ga": 10,
-     "diff": 44,
+     "diff": 50,
      "l10": "9-0-1",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "team": "Stratford Warriors",
@@ -219,16 +219,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97433",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 11,
+     "gp": 12,
      "w": 0,
-     "l": 11,
+     "l": 12,
      "t": 0,
      "pts": 0,
      "gf": 17,
-     "ga": 90,
-     "diff": -73,
+     "ga": 96,
+     "diff": -79,
      "l10": "0-10",
-     "strk": "L11"
+     "strk": "L12"
     },
     {
      "team": "Burlington Bulldogs Blue",
