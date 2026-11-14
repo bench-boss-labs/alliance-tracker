@@ -104,20 +104,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2711:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2711:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2711:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2711:woodstock-jr-navy-vets",

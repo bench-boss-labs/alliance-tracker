@@ -908,14 +908,17 @@
   "start": "2026-11-14T13:30:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U10S21",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-14/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3166541
+  }
  },
  {
   "id": 2376148,
