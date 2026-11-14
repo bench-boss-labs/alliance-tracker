@@ -1496,14 +1496,17 @@
   "start": "2026-11-14T14:15:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U12BR108",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-14/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166817
+  }
  },
  {
   "id": 2377998,
