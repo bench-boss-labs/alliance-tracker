@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-14T23:00:54.867Z",
+ "updatedAt": "2026-11-15T01:55:11.310Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97014",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 8,
+     "gp": 9,
+     "w": 9,
      "l": 0,
      "t": 0,
-     "pts": 16,
-     "gf": 47,
+     "pts": 18,
+     "gf": 55,
      "ga": 14,
-     "diff": 33,
-     "l10": "8-0",
-     "strk": "W8"
+     "diff": 41,
+     "l10": "9-0",
+     "strk": "W9"
     },
     {
      "team": "London Jr Knights",
@@ -144,16 +144,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-97011",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 5,
-     "ga": 31,
-     "diff": -26,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 39,
+     "diff": -34,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }
