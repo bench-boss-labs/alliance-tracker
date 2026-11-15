@@ -977,14 +977,17 @@
   "start": "2026-11-15T12:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P141",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169880
+  }
  },
  {
   "id": 2375216,

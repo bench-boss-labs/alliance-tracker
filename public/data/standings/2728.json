@@ -1,39 +1,39 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-15T03:15:14.642Z",
+ "updatedAt": "2026-11-15T19:22:56.622Z",
  "regular": [
   {
    "name": "",
    "rows": [
     {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-97008",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 10,
-     "w": 9,
-     "l": 0,
-     "t": 1,
-     "pts": 19,
-     "gf": 68,
-     "ga": 15,
-     "diff": 53,
-     "l10": "9-0-1",
-     "strk": "W6"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97014",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 9,
+     "gp": 10,
+     "w": 10,
      "l": 0,
      "t": 0,
-     "pts": 18,
-     "gf": 55,
-     "ga": 14,
-     "diff": 41,
-     "l10": "9-0",
-     "strk": "W9"
+     "pts": 20,
+     "gf": 62,
+     "ga": 15,
+     "diff": 47,
+     "l10": "10-0",
+     "strk": "W10"
+    },
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-97008",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 11,
+     "w": 9,
+     "l": 1,
+     "t": 1,
+     "pts": 19,
+     "gf": 69,
+     "ga": 22,
+     "diff": 47,
+     "l10": "8-1-1",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights",
