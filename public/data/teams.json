@@ -2048,6 +2048,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2729:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
+ },
+ {
   "id": "2729:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2729,
@@ -2086,14 +2094,6 @@
   "division": "U16 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2729:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
@@ -2456,20 +2456,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2733:west-london-hawks-black",
-  "name": "West London Hawks Black",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2733:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2733:west-london-hawks-black",
+  "name": "West London Hawks Black",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2733:burlington-raiders",
