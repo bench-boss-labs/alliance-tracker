@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-15T03:14:14.759Z",
+ "updatedAt": "2026-11-15T23:39:35.223Z",
  "regular": [
   {
    "name": "",
@@ -129,31 +129,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97242",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 10,
-     "w": 3,
+     "gp": 11,
+     "w": 4,
      "l": 5,
      "t": 2,
-     "pts": 8,
-     "gf": 23,
-     "ga": 24,
-     "diff": -1,
-     "l10": "3-5-2",
-     "strk": "W1"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-97249",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 13,
-     "w": 3,
-     "l": 8,
-     "t": 2,
-     "pts": 8,
-     "gf": 38,
-     "ga": 64,
-     "diff": -26,
-     "l10": "3-6-1",
-     "strk": "L2"
+     "pts": 10,
+     "gf": 25,
+     "ga": 25,
+     "diff": 0,
+     "l10": "4-4-2",
+     "strk": "W2"
     },
     {
      "team": "Brantford 99ers",
@@ -169,6 +154,21 @@
      "diff": -17,
      "l10": "4-5",
      "strk": "L3"
+    },
+    {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-97249",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 13,
+     "w": 3,
+     "l": 8,
+     "t": 2,
+     "pts": 8,
+     "gf": 38,
+     "ga": 64,
+     "diff": -26,
+     "l10": "3-6-1",
+     "strk": "L2"
     },
     {
      "team": "Oakridge Aeros",
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97247",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 11,
+     "gp": 12,
      "w": 3,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 7,
-     "gf": 22,
-     "ga": 45,
-     "diff": -23,
+     "gf": 23,
+     "ga": 47,
+     "diff": -24,
      "l10": "3-6-1",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "team": "West London Hawks",

@@ -1457,14 +1457,17 @@
   "start": "2026-11-15T17:00:00-05:00",
   "away": "Burlington Raiders",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Stronach (B)",
   "code": "U14BR99",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170158
+  }
  },
  {
   "id": 2378174,

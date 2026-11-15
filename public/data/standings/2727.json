@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-15T22:50:06.548Z",
+ "updatedAt": "2026-11-15T23:40:25.062Z",
  "regular": [
   {
    "name": "",
@@ -186,34 +186,34 @@
      "strk": "L2"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97261",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
-     "w": 1,
-     "l": 7,
-     "t": 0,
-     "pts": 2,
-     "gf": 15,
-     "ga": 47,
-     "diff": -32,
-     "l10": "1-7",
-     "strk": "L1"
-    },
-    {
      "team": "Lambeth Lancers",
      "teamId": "odb-97267",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 9,
-     "w": 0,
+     "gp": 10,
+     "w": 1,
      "l": 9,
      "t": 0,
-     "pts": 0,
-     "gf": 16,
-     "ga": 49,
-     "diff": -33,
-     "l10": "0-9",
-     "strk": "L9"
+     "pts": 2,
+     "gf": 21,
+     "ga": 51,
+     "diff": -30,
+     "l10": "1-9",
+     "strk": "W1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97261",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 9,
+     "w": 1,
+     "l": 8,
+     "t": 0,
+     "pts": 2,
+     "gf": 17,
+     "ga": 52,
+     "diff": -35,
+     "l10": "1-8",
+     "strk": "L2"
     }
    ]
   }

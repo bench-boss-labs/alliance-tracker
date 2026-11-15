@@ -827,14 +827,17 @@
   "start": "2026-11-15T17:00:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U11P85",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-15/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170185
+  }
  },
  {
   "id": 2373666,
