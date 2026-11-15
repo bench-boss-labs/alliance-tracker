@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-15T22:30:38.028Z",
+ "updatedAt": "2026-11-15T23:30:15.503Z",
  "regular": [
   {
    "name": "",
@@ -51,19 +51,34 @@
      "strk": "L1"
     },
     {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97095",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 9,
+     "w": 5,
+     "l": 2,
+     "t": 2,
+     "pts": 12,
+     "gf": 24,
+     "ga": 9,
+     "diff": 15,
+     "l10": "5-2-2",
+     "strk": "W2"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97097",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 10,
+     "gp": 11,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 12,
      "gf": 27,
-     "ga": 24,
-     "diff": 3,
+     "ga": 29,
+     "diff": -2,
      "l10": "5-3-2",
-     "strk": "W2"
+     "strk": "L1"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -81,19 +96,19 @@
      "strk": "W1"
     },
     {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97095",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97099",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
      "gp": 8,
-     "w": 4,
-     "l": 2,
-     "t": 2,
+     "w": 5,
+     "l": 3,
+     "t": 0,
      "pts": 10,
-     "gf": 19,
-     "ga": 9,
-     "diff": 10,
-     "l10": "4-2-2",
-     "strk": "W1"
+     "gf": 20,
+     "ga": 20,
+     "diff": 0,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights White",
@@ -109,21 +124,6 @@
      "diff": 8,
      "l10": "4-3-2",
      "strk": "T1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97099",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 10,
-     "gf": 20,
-     "ga": 20,
-     "diff": 0,
-     "l10": "5-3",
-     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
