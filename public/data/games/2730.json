@@ -1508,14 +1508,17 @@
   "start": "2026-11-14T20:30:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U16BR3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-14/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3167314
+  }
  },
  {
   "id": 2379000,
