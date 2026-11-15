@@ -1136,14 +1136,17 @@
   "start": "2026-11-15T13:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U11BR17",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-15/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170383
+  }
  },
  {
   "id": 2379351,

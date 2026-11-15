@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-14T21:12:05.687Z",
+ "updatedAt": "2026-11-15T19:11:23.263Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W9"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97196",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 10,
+     "w": 8,
+     "l": 2,
+     "t": 0,
+     "pts": 16,
+     "gf": 51,
+     "ga": 19,
+     "diff": 32,
+     "l10": "8-2",
+     "strk": "W2"
+    },
+    {
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97204",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -34,21 +49,6 @@
      "diff": 30,
      "l10": "7-1",
      "strk": "W3"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97196",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 9,
-     "w": 7,
-     "l": 2,
-     "t": 0,
-     "pts": 14,
-     "gf": 47,
-     "ga": 18,
-     "diff": 29,
-     "l10": "7-2",
-     "strk": "W1"
     },
     {
      "team": "North London Nationals",
@@ -174,16 +174,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97199",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 3,
-     "gf": 21,
-     "ga": 37,
-     "diff": -16,
-     "l10": "1-6-1",
-     "strk": "L3"
+     "gf": 22,
+     "ga": 41,
+     "diff": -19,
+     "l10": "1-7-1",
+     "strk": "L4"
     },
     {
      "team": "London Bandits",

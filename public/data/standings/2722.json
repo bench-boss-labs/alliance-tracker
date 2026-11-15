@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-15T18:52:08.525Z",
+ "updatedAt": "2026-11-15T19:13:23.076Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 13,
-     "w": 10,
+     "gp": 14,
+     "w": 11,
      "l": 1,
      "t": 2,
-     "pts": 22,
-     "gf": 66,
-     "ga": 18,
-     "diff": 48,
+     "pts": 24,
+     "gf": 70,
+     "ga": 20,
+     "diff": 50,
      "l10": "8-1-1",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves",
@@ -39,16 +39,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 12,
+     "gp": 13,
      "w": 9,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 19,
-     "gf": 48,
-     "ga": 22,
-     "diff": 26,
+     "gf": 50,
+     "ga": 26,
+     "diff": 24,
      "l10": "7-2-1",
-     "strk": "W2"
+     "strk": "L1"
     },
     {
      "team": "Sun County Panthers",

@@ -560,20 +560,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2715:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2715:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2715:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:north-london-nationals",
@@ -712,20 +712,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2716:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2716:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2716:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2716:sault-major-jr-greyhounds",
@@ -1688,20 +1688,20 @@
   "logo": "logos/91cb455aba29.png"
  },
  {
-  "id": "2725:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2725:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2725:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2725:windsor-jr-spitfires",

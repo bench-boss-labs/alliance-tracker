@@ -722,14 +722,17 @@
   "start": "2026-11-15T12:30:00-05:00",
   "away": "Sun County Panthers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U12P119",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-15/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169991
+  }
  },
  {
   "id": 2374278,
