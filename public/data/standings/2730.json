@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-15T00:40:30.395Z",
+ "updatedAt": "2026-11-15T01:12:10.576Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97268",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 11,
+     "w": 7,
+     "l": 3,
+     "t": 1,
+     "pts": 15,
+     "gf": 47,
+     "ga": 21,
+     "diff": 26,
+     "l10": "6-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97434",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -66,19 +81,19 @@
      "strk": "L2"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97268",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97276",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
      "gp": 10,
      "w": 6,
      "l": 3,
      "t": 1,
      "pts": 13,
-     "gf": 43,
-     "ga": 20,
-     "diff": 23,
+     "gf": 34,
+     "ga": 27,
+     "diff": 7,
      "l10": "6-3-1",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -96,34 +111,19 @@
      "strk": "L1"
     },
     {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97276",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 10,
-     "w": 6,
-     "l": 3,
-     "t": 1,
-     "pts": 13,
-     "gf": 34,
-     "ga": 27,
-     "diff": 7,
-     "l10": "6-3-1",
-     "strk": "L2"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97275",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 6,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 12,
-     "gf": 28,
-     "ga": 14,
-     "diff": 14,
-     "l10": "6-2",
-     "strk": "W3"
+     "gf": 29,
+     "ga": 18,
+     "diff": 11,
+     "l10": "6-3",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

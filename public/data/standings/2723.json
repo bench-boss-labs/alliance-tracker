@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-14T23:39:53.257Z",
+ "updatedAt": "2026-11-15T01:10:20.570Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 41,
      "l10": "9-0-1",
      "strk": "T1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97077",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 9,
+     "w": 6,
+     "l": 1,
+     "t": 2,
+     "pts": 14,
+     "gf": 27,
+     "ga": 21,
+     "diff": 6,
+     "l10": "6-1-2",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -51,34 +66,19 @@
      "strk": "T1"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97077",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 5,
-     "l": 1,
-     "t": 2,
-     "pts": 12,
-     "gf": 23,
-     "ga": 19,
-     "diff": 4,
-     "l10": "5-1-2",
-     "strk": "W1"
-    },
-    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97087",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 10,
-     "gf": 38,
-     "ga": 25,
-     "diff": 13,
-     "l10": "5-4",
-     "strk": "L2"
+     "gf": 40,
+     "ga": 29,
+     "diff": 11,
+     "l10": "5-5",
+     "strk": "L3"
     },
     {
      "team": "London Jr Knights White",

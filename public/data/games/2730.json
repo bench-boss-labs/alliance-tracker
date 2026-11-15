@@ -1490,14 +1490,17 @@
   "start": "2026-11-14T18:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Gretzky Center (#4)",
   "code": "U16BR58",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-11-14/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3167313
+  }
  },
  {
   "id": 2378978,
