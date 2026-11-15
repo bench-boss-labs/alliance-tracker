@@ -1433,14 +1433,17 @@
   "start": "2026-11-15T14:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U10BE88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-15/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170223
+  }
  },
  {
   "id": 2411539,

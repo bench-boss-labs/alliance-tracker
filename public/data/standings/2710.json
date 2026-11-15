@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-15T20:11:11.351Z",
+ "updatedAt": "2026-11-15T20:41:17.480Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96945",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 7,
+     "gp": 10,
+     "w": 8,
      "l": 1,
      "t": 1,
-     "pts": 15,
-     "gf": 47,
-     "ga": 16,
-     "diff": 31,
-     "l10": "7-1-1",
-     "strk": "W1"
+     "pts": 17,
+     "gf": 55,
+     "ga": 17,
+     "diff": 38,
+     "l10": "8-1-1",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -69,16 +69,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96941",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 2,
-     "gf": 28,
-     "ga": 50,
-     "diff": -22,
-     "l10": "1-7",
-     "strk": "L2"
+     "gf": 29,
+     "ga": 58,
+     "diff": -29,
+     "l10": "1-8",
+     "strk": "L3"
     }
    ]
   },

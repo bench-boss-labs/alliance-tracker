@@ -842,14 +842,17 @@
   "start": "2026-11-15T14:00:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 8,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U10P24",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170504
+  }
  },
  {
   "id": 2374033,

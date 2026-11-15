@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-15T17:40:38.904Z",
+ "updatedAt": "2026-11-15T20:41:47.117Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97184",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
-     "w": 8,
+     "gp": 11,
+     "w": 9,
      "l": 1,
      "t": 1,
-     "pts": 17,
-     "gf": 38,
-     "ga": 14,
-     "diff": 24,
+     "pts": 19,
+     "gf": 42,
+     "ga": 17,
+     "diff": 25,
      "l10": "8-1-1",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Burlington Raiders",
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97183",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 9,
-     "gf": 28,
-     "ga": 22,
-     "diff": 6,
-     "l10": "4-4-1",
-     "strk": "L2"
+     "gf": 31,
+     "ga": 26,
+     "diff": 5,
+     "l10": "4-5-1",
+     "strk": "L3"
     },
     {
      "team": "Cambridge Hawks",

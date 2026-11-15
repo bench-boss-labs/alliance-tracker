@@ -1001,14 +1001,17 @@
   "start": "2026-11-15T12:00:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Blenheim (Blenheim)",
   "code": "U13P14",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-15/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169838
+  }
  },
  {
   "id": 2374659,

@@ -740,14 +740,17 @@
   "start": "2026-11-15T14:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U12P15",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-15/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169992
+  }
  },
  {
   "id": 2374263,
