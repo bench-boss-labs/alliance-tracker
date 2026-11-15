@@ -1139,14 +1139,17 @@
   "start": "2026-11-14T13:45:00-05:00",
   "away": "Sun County Panthers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U14P46",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-14/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3166777
+  }
  },
  {
   "id": 2374821,

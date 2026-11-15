@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-14T20:42:27.483Z",
+ "updatedAt": "2026-11-15T03:44:05.082Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96989",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 12,
+     "w": 7,
+     "l": 5,
+     "t": 0,
+     "pts": 14,
+     "gf": 47,
+     "ga": 28,
+     "diff": 19,
+     "l10": "6-4",
+     "strk": "W2"
+    },
+    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96984",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -64,21 +79,6 @@
      "diff": 15,
      "l10": "6-2-1",
      "strk": "W5"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96989",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 11,
-     "w": 6,
-     "l": 5,
-     "t": 0,
-     "pts": 12,
-     "gf": 41,
-     "ga": 28,
-     "diff": 13,
-     "l10": "5-5",
-     "strk": "W1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -129,16 +129,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 12,
+     "gp": 13,
      "w": 2,
-     "l": 8,
+     "l": 9,
      "t": 2,
      "pts": 6,
      "gf": 19,
-     "ga": 52,
-     "diff": -33,
+     "ga": 58,
+     "diff": -39,
      "l10": "1-7-2",
-     "strk": "T1"
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
