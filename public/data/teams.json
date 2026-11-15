@@ -568,6 +568,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2715:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2715:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2715,
@@ -582,14 +590,6 @@
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/41275c8a7241.png"
- },
- {
-  "id": "2715:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:cambridge-hawks",
@@ -1416,6 +1416,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2723:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2723:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2723,
@@ -1430,14 +1438,6 @@
   "division": "U14 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2723:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2723:stratford-warriors",

@@ -827,14 +827,17 @@
   "start": "2026-11-15T15:45:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U11S66",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-15/15:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170369
+  }
  },
  {
   "id": 2375398,
