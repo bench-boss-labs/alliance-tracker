@@ -1424,6 +1424,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2723:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2723:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2723,
@@ -1446,14 +1454,6 @@
   "division": "U14 AA-A",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2723:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2723:kitchener-jr-rangers-blue",

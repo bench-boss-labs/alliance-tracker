@@ -1052,14 +1052,17 @@
   "start": "2026-11-15T16:15:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U14S44",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-15/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170280
+  }
  },
  {
   "id": 2375611,
