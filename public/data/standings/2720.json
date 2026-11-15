@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-15T01:43:46.578Z",
+ "updatedAt": "2026-11-15T21:22:48.068Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W2"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97068",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 11,
+     "w": 7,
+     "l": 4,
+     "t": 0,
+     "pts": 14,
+     "gf": 41,
+     "ga": 32,
+     "diff": 9,
+     "l10": "7-3",
+     "strk": "W4"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97073",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -49,21 +64,6 @@
      "diff": 7,
      "l10": "5-2-2",
      "strk": "W1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97068",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
-     "w": 6,
-     "l": 4,
-     "t": 0,
-     "pts": 12,
-     "gf": 36,
-     "ga": 30,
-     "diff": 6,
-     "l10": "6-4",
-     "strk": "W3"
     },
     {
      "team": "Brantford 99ers",
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97299",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
+     "gp": 11,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 2,
      "pts": 2,
-     "gf": 17,
-     "ga": 39,
-     "diff": -22,
-     "l10": "0-8-2",
-     "strk": "L4"
+     "gf": 19,
+     "ga": 44,
+     "diff": -25,
+     "l10": "0-9-1",
+     "strk": "L5"
     }
    ]
   }
