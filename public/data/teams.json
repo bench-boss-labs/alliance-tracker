@@ -864,20 +864,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2718:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2718:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2718:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2718:kitchener-jr-rangers",

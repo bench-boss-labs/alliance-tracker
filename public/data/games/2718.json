@@ -1568,14 +1568,17 @@
   "start": "2026-11-15T13:15:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U12BR47",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170624
+  }
  },
  {
   "id": 2377931,
