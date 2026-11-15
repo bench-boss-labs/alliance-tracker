@@ -1472,14 +1472,17 @@
   "start": "2026-11-14T18:00:00-05:00",
   "away": "Burlington Bulldogs Gold",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U16BR57",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-14/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3167312
+  }
  },
  {
   "id": 2378932,
