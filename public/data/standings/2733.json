@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-15T02:46:21.646Z",
+ "updatedAt": "2026-11-15T03:25:05.079Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97128",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 4,
+     "gp": 9,
+     "w": 5,
      "l": 2,
      "t": 2,
-     "pts": 10,
-     "gf": 29,
+     "pts": 12,
+     "gf": 35,
      "ga": 17,
-     "diff": 12,
-     "l10": "4-2-2",
-     "strk": "W2"
+     "diff": 18,
+     "l10": "5-2-2",
+     "strk": "W3"
     },
     {
      "team": "Waterloo Wolves Gold",
@@ -141,6 +141,21 @@
      "strk": "W1"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97131",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 9,
+     "w": 3,
+     "l": 4,
+     "t": 2,
+     "pts": 8,
+     "gf": 22,
+     "ga": 36,
+     "diff": -14,
+     "l10": "3-4-2",
+     "strk": "W2"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-98275",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -156,34 +171,19 @@
      "strk": "L1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97131",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
-     "w": 2,
-     "l": 4,
-     "t": 2,
-     "pts": 6,
-     "gf": 17,
-     "ga": 32,
-     "diff": -15,
-     "l10": "2-4-2",
-     "strk": "W1"
-    },
-    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 5,
-     "gf": 19,
-     "ga": 40,
-     "diff": -21,
-     "l10": "2-5-1",
-     "strk": "L1"
+     "gf": 23,
+     "ga": 45,
+     "diff": -22,
+     "l10": "2-6-1",
+     "strk": "L2"
     },
     {
      "team": "Lambeth Lancers",
@@ -234,16 +234,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 11,
+     "gp": 12,
      "w": 1,
-     "l": 9,
+     "l": 10,
      "t": 1,
      "pts": 3,
      "gf": 19,
-     "ga": 58,
-     "diff": -39,
+     "ga": 64,
+     "diff": -45,
      "l10": "1-8-1",
-     "strk": "L7"
+     "strk": "L8"
     }
    ]
   }
