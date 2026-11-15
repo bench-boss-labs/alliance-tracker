@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-09T18:46:24.282Z",
+ "updatedAt": "2026-11-15T15:40:03.948Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97038",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 4,
+     "gp": 9,
+     "w": 5,
      "l": 4,
      "t": 0,
-     "pts": 8,
-     "gf": 29,
+     "pts": 10,
+     "gf": 32,
      "ga": 31,
-     "diff": -2,
-     "l10": "4-4",
-     "strk": "W1"
+     "diff": 1,
+     "l10": "5-4",
+     "strk": "W2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -174,16 +174,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97046",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 12,
-     "ga": 38,
-     "diff": -26,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 41,
+     "diff": -29,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }

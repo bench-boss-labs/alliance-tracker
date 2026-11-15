@@ -1,10 +1,25 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-14T21:47:45.970Z",
+ "updatedAt": "2026-11-15T15:39:38.275Z",
  "regular": [
   {
    "name": "East Division",
    "rows": [
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96952",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 7,
+     "l": 2,
+     "t": 0,
+     "pts": 14,
+     "gf": 41,
+     "ga": 25,
+     "diff": 16,
+     "l10": "7-2",
+     "strk": "W2"
+    },
     {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96951",
@@ -19,21 +34,6 @@
      "diff": 12,
      "l10": "6-2-1",
      "strk": "W3"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96952",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 6,
-     "l": 2,
-     "t": 0,
-     "pts": 12,
-     "gf": 37,
-     "ga": 24,
-     "diff": 13,
-     "l10": "6-2",
-     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves",
@@ -164,16 +164,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97284",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 0,
-     "gf": 13,
-     "ga": 33,
-     "diff": -20,
-     "l10": "0-7",
-     "strk": "L7"
+     "gf": 14,
+     "ga": 37,
+     "diff": -23,
+     "l10": "0-8",
+     "strk": "L8"
     }
    ]
   }

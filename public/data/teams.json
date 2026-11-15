@@ -368,20 +368,20 @@
   "logo": null
  },
  {
-  "id": "2713:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2713:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2713:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2713:waterloo-wolves",
@@ -784,20 +784,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2717:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2717:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2717:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2717:stratford-warriors",
@@ -1744,6 +1744,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2726:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2726:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2726,
@@ -1766,14 +1774,6 @@
   "division": "U15 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2726:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2726:kitchener-jr-rangers-blue",
@@ -2144,6 +2144,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2730:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2730:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2730,
@@ -2166,14 +2174,6 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
- },
- {
-  "id": "2730:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2730:waterloo-wolves",

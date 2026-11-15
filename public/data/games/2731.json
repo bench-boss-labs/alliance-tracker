@@ -1263,21 +1263,6 @@
   "gamesheet": null
  },
  {
-  "id": 2373386,
-  "divisionId": 2731,
-  "start": "2026-12-11T20:30:00-05:00",
-  "away": "Sarnia-Lambton Jr Sting",
-  "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Central Park (North)",
-  "code": "U18P38",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2373397,
   "divisionId": 2731,
   "start": "2026-12-11T20:30:00-05:00",
@@ -1378,6 +1363,21 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U18P119",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2373386,
+  "divisionId": 2731,
+  "start": "2026-12-18T20:30:00-05:00",
+  "away": "Sarnia-Lambton Jr Sting",
+  "home": "Windsor Jr Spitfires",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Central Park (North)",
+  "code": "U18P38",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
