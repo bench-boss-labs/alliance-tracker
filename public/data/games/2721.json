@@ -1175,14 +1175,17 @@
   "start": "2026-11-15T14:15:00-05:00",
   "away": "West London Hawks",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U13BR11",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-15/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170655
+  }
  },
  {
   "id": 2378037,
@@ -1190,14 +1193,17 @@
   "start": "2026-11-15T14:15:00-05:00",
   "away": "Stratford Warriors",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U13BR4",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-15/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170656
+  }
  },
  {
   "id": 2378069,
