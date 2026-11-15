@@ -1454,14 +1454,17 @@
   "start": "2026-11-14T17:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U16BR98",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-14/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3166841
+  }
  },
  {
   "id": 2379003,

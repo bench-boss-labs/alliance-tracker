@@ -806,14 +806,17 @@
   "start": "2026-11-14T17:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U10P51",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-14/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3167296
+  }
  },
  {
   "id": 2374017,
