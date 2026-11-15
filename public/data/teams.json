@@ -1000,20 +1000,20 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2719:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2719:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2719:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2719:london-jr-knights",
@@ -1040,20 +1040,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2719:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": null,
-  "logo": "logos/91cb455aba29.png"
- },
- {
   "id": "2719:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2719:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": null,
+  "logo": "logos/91cb455aba29.png"
  },
  {
   "id": "2719:chatham-kent-cyclones",

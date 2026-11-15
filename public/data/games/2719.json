@@ -947,14 +947,17 @@
   "start": "2026-11-14T15:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U13P55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-14/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3166478
+  }
  },
  {
   "id": 2374670,
@@ -980,14 +983,17 @@
   "start": "2026-11-15T10:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U13P10",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-15/10:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169837
+  }
  },
  {
   "id": 2374629,

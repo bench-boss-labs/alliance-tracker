@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-15T01:18:39.731Z",
+ "updatedAt": "2026-11-15T17:41:18.890Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "Windsor Jr Spitfires",
+     "teamId": "odb-96979",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
+     "gp": 9,
+     "w": 6,
+     "l": 2,
+     "t": 1,
+     "pts": 13,
+     "gf": 45,
+     "ga": 26,
+     "diff": 19,
+     "l10": "6-2-1",
+     "strk": "W2"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96975",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
@@ -64,21 +79,6 @@
      "diff": 8,
      "l10": "4-2-4",
      "strk": "L2"
-    },
-    {
-     "team": "Windsor Jr Spitfires",
-     "teamId": "odb-96979",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 8,
-     "w": 5,
-     "l": 2,
-     "t": 1,
-     "pts": 11,
-     "gf": 37,
-     "ga": 26,
-     "diff": 11,
-     "l10": "5-2-1",
-     "strk": "W1"
     },
     {
      "team": "London Jr Knights",
@@ -126,6 +126,21 @@
      "strk": "L1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-96970",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 9,
+     "w": 1,
+     "l": 5,
+     "t": 3,
+     "pts": 5,
+     "gf": 11,
+     "ga": 25,
+     "diff": -14,
+     "l10": "1-5-3",
+     "strk": "L1"
+    },
+    {
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96980",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
@@ -141,34 +156,19 @@
      "strk": "L1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-96970",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
-     "w": 1,
-     "l": 4,
-     "t": 2,
-     "pts": 4,
-     "gf": 10,
-     "ga": 16,
-     "diff": -6,
-     "l10": "1-4-2",
-     "strk": "T1"
-    },
-    {
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96971",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
      "l": 8,
-     "t": 0,
-     "pts": 2,
-     "gf": 14,
-     "ga": 57,
+     "t": 1,
+     "pts": 3,
+     "gf": 15,
+     "ga": 58,
      "diff": -43,
-     "l10": "1-8",
-     "strk": "L4"
+     "l10": "1-8-1",
+     "strk": "T1"
     },
     {
      "team": "Elgin-Middlesex Canucks",

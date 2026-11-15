@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-14T22:57:44.927Z",
+ "updatedAt": "2026-11-15T17:40:38.904Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97181",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 10,
-     "w": 6,
+     "gp": 11,
+     "w": 7,
      "l": 3,
      "t": 1,
-     "pts": 13,
-     "gf": 33,
+     "pts": 15,
+     "gf": 40,
      "ga": 27,
-     "diff": 6,
-     "l10": "6-3-1",
-     "strk": "W1"
+     "diff": 13,
+     "l10": "7-2-1",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -99,16 +99,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97186",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
      "gf": 9,
-     "ga": 29,
-     "diff": -20,
-     "l10": "1-6",
-     "strk": "L5"
+     "ga": 36,
+     "diff": -27,
+     "l10": "1-7",
+     "strk": "L6"
     },
     {
      "team": "Woodstock Jr Navy Vets",
