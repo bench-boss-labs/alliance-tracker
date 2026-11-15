@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-14T23:59:32.930Z",
+ "updatedAt": "2026-11-15T01:43:46.578Z",
  "regular": [
   {
    "name": "",
@@ -174,31 +174,31 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97075",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
-     "w": 1,
+     "gp": 8,
+     "w": 2,
      "l": 6,
      "t": 0,
-     "pts": 2,
-     "gf": 14,
-     "ga": 33,
-     "diff": -19,
-     "l10": "1-6",
-     "strk": "L3"
+     "pts": 4,
+     "gf": 21,
+     "ga": 38,
+     "diff": -17,
+     "l10": "2-6",
+     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97299",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 2,
      "pts": 2,
-     "gf": 12,
-     "ga": 32,
-     "diff": -20,
-     "l10": "0-7-2",
-     "strk": "L3"
+     "gf": 17,
+     "ga": 39,
+     "diff": -22,
+     "l10": "0-8-2",
+     "strk": "L4"
     }
    ]
   }
