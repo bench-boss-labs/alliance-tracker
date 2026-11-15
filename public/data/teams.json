@@ -424,20 +424,20 @@
   "logo": "logos/b0bd0d065caa.png"
  },
  {
-  "id": "2713:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
- },
- {
   "id": "2713:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2713:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2713:sarnia-lambton-jr-sting",
