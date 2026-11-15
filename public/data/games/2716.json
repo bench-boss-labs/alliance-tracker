@@ -704,14 +704,17 @@
   "start": "2026-11-14T17:45:00-05:00",
   "away": "Sun County Panthers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U12P132",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-14/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3167307
+  }
  },
  {
   "id": 2374348,
