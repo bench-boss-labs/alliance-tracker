@@ -959,14 +959,17 @@
   "start": "2026-11-14T16:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Gretzky Center (#3)",
   "code": "U15S5",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-11-14/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3166675
+  }
  },
  {
   "id": 2375685,
@@ -974,14 +977,17 @@
   "start": "2026-11-14T17:30:00-05:00",
   "away": "London Jr Knights Green",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U15S21",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-14/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3166676
+  }
  },
  {
   "id": 2375682,
