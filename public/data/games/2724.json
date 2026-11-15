@@ -1424,14 +1424,17 @@
   "start": "2026-11-14T18:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U14BR10",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3167310
+  }
  },
  {
   "id": 2378117,

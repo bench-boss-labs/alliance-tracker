@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-15T00:19:22.278Z",
+ "updatedAt": "2026-11-15T03:14:14.759Z",
  "regular": [
   {
    "name": "",
@@ -24,31 +24,31 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98140",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
-     "w": 9,
+     "gp": 10,
+     "w": 10,
      "l": 0,
      "t": 0,
-     "pts": 18,
-     "gf": 69,
-     "ga": 10,
-     "diff": 59,
-     "l10": "9-0",
-     "strk": "W9"
+     "pts": 20,
+     "gf": 72,
+     "ga": 11,
+     "diff": 61,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "London Bandits",
      "teamId": "odb-97241",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 12,
+     "gp": 13,
      "w": 8,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 18,
-     "gf": 53,
-     "ga": 18,
-     "diff": 35,
-     "l10": "6-2-2",
-     "strk": "W2"
+     "gf": 54,
+     "ga": 21,
+     "diff": 33,
+     "l10": "5-3-2",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
