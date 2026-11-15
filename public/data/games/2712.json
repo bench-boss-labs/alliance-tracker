@@ -1451,14 +1451,17 @@
   "start": "2026-11-15T15:00:00-05:00",
   "away": "London Bandits",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Medway (Medway)",
   "code": "U10BW29",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170224
+  }
  },
  {
   "id": 2411528,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-15T19:13:23.076Z",
+ "updatedAt": "2026-11-15T21:13:14.782Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96990",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 11,
-     "w": 10,
+     "gp": 12,
+     "w": 11,
      "l": 1,
      "t": 0,
-     "pts": 20,
-     "gf": 62,
-     "ga": 5,
-     "diff": 57,
+     "pts": 22,
+     "gf": 70,
+     "ga": 7,
+     "diff": 63,
      "l10": "9-1",
-     "strk": "W1"
+     "strk": "W2"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -66,34 +66,34 @@
      "strk": "W3"
     },
     {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96984",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 6,
-     "l": 2,
-     "t": 1,
-     "pts": 13,
-     "gf": 28,
-     "ga": 13,
-     "diff": 15,
-     "l10": "6-2-1",
-     "strk": "W5"
-    },
-    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96987",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 10,
-     "w": 6,
+     "gp": 11,
+     "w": 7,
      "l": 4,
      "t": 0,
-     "pts": 12,
-     "gf": 35,
+     "pts": 14,
+     "gf": 40,
      "ga": 24,
-     "diff": 11,
-     "l10": "6-4",
-     "strk": "W2"
+     "diff": 16,
+     "l10": "7-3",
+     "strk": "W3"
+    },
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96984",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 10,
+     "w": 6,
+     "l": 3,
+     "t": 1,
+     "pts": 13,
+     "gf": 30,
+     "ga": 21,
+     "diff": 9,
+     "l10": "6-3-1",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights",
@@ -129,16 +129,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 13,
+     "gp": 14,
      "w": 2,
-     "l": 9,
+     "l": 10,
      "t": 2,
      "pts": 6,
      "gf": 19,
-     "ga": 58,
-     "diff": -39,
-     "l10": "1-7-2",
-     "strk": "L1"
+     "ga": 63,
+     "diff": -44,
+     "l10": "0-8-2",
+     "strk": "L2"
     },
     {
      "team": "Sault Major Jr Greyhounds",

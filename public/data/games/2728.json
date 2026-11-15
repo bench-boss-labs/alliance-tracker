@@ -995,14 +995,17 @@
   "start": "2026-11-15T14:00:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Cambridge Jr RedHawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U16P58",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-15/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170284
+  }
  },
  {
   "id": 2375232,

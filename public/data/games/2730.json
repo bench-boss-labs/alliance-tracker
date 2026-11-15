@@ -1526,14 +1526,17 @@
   "start": "2026-11-15T14:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Carling (B)",
   "code": "U16BR7",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5028/2026-11-15/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170607
+  }
  },
  {
   "id": 2379008,
