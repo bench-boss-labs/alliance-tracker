@@ -791,14 +791,17 @@
   "start": "2026-11-15T13:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U11P19",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170183
+  }
  },
  {
   "id": 2373747,

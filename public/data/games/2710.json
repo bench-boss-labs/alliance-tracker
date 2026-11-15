@@ -824,14 +824,17 @@
   "start": "2026-11-15T13:30:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U10P138",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-15/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170503
+  }
  },
  {
   "id": 2373913,
