@@ -2064,6 +2064,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2729:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2729:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2729,
@@ -2086,14 +2094,6 @@
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2729:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
