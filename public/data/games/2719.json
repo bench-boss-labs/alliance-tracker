@@ -1019,14 +1019,17 @@
   "start": "2026-11-15T15:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U13P99",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-15/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170296
+  }
  },
  {
   "id": 2374606,

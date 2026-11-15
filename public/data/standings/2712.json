@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-15T21:11:35.114Z",
+ "updatedAt": "2026-11-15T22:11:36.968Z",
  "regular": [
   {
    "name": "East Division",
@@ -146,34 +146,34 @@
      "strk": "W3"
     },
     {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97178",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 7,
-     "w": 3,
-     "l": 2,
-     "t": 2,
-     "pts": 8,
-     "gf": 30,
-     "ga": 32,
-     "diff": -2,
-     "l10": "3-2-2",
-     "strk": "W1"
-    },
-    {
      "team": "West London Hawks",
      "teamId": "odb-97180",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 0,
      "t": 1,
-     "pts": 7,
-     "gf": 11,
+     "pts": 9,
+     "gf": 15,
      "ga": 8,
-     "diff": 3,
-     "l10": "3-0-1",
-     "strk": "T1"
+     "diff": 7,
+     "l10": "4-0-1",
+     "strk": "W1"
+    },
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97178",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 8,
+     "w": 3,
+     "l": 3,
+     "t": 2,
+     "pts": 8,
+     "gf": 30,
+     "ga": 36,
+     "diff": -6,
+     "l10": "3-3-2",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",

@@ -1586,14 +1586,17 @@
   "start": "2026-11-15T15:30:00-05:00",
   "away": "North London Nationals",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U12BR4",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-15/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170625
+  }
  },
  {
   "id": 2377950,

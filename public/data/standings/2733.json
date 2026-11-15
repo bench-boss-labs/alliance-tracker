@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-15T03:25:05.079Z",
+ "updatedAt": "2026-11-15T22:15:36.613Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "W3"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97132",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 9,
+     "w": 4,
+     "l": 3,
+     "t": 2,
+     "pts": 10,
+     "gf": 28,
+     "ga": 22,
+     "diff": 6,
+     "l10": "4-3-2",
+     "strk": "T1"
+    },
+    {
      "team": "Waterloo Wolves Gold",
      "teamId": "odb-97130",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -94,21 +109,6 @@
      "diff": -8,
      "l10": "3-5-2",
      "strk": "L2"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97132",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 8,
-     "w": 4,
-     "l": 3,
-     "t": 1,
-     "pts": 9,
-     "gf": 26,
-     "ga": 20,
-     "diff": 6,
-     "l10": "4-3-1",
-     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -171,6 +171,21 @@
      "strk": "L1"
     },
     {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-98279",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 11,
+     "w": 1,
+     "l": 6,
+     "t": 4,
+     "pts": 6,
+     "gf": 20,
+     "ga": 48,
+     "diff": -28,
+     "l10": "1-5-4",
+     "strk": "T1"
+    },
+    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -183,21 +198,6 @@
      "ga": 45,
      "diff": -22,
      "l10": "2-6-1",
-     "strk": "L2"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-98279",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 10,
-     "w": 1,
-     "l": 6,
-     "t": 3,
-     "pts": 5,
-     "gf": 18,
-     "ga": 46,
-     "diff": -28,
-     "l10": "1-6-3",
      "strk": "L2"
     },
     {
