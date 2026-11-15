@@ -1157,14 +1157,17 @@
   "start": "2026-11-15T11:45:00-05:00",
   "away": "North London Nationals",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U13BR81",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-11-15/11:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3169828
+  }
  },
  {
   "id": 2378031,
