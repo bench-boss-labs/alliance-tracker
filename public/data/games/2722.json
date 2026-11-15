@@ -1157,14 +1157,17 @@
   "start": "2026-11-15T12:00:00-05:00",
   "away": "Sun County Panthers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U14P100",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3169868
+  }
  },
  {
   "id": 2374846,

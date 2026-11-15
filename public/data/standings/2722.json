@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-15T03:44:05.082Z",
+ "updatedAt": "2026-11-15T18:52:08.525Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96989",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 12,
-     "w": 7,
+     "gp": 13,
+     "w": 8,
      "l": 5,
      "t": 0,
-     "pts": 14,
-     "gf": 47,
+     "pts": 16,
+     "gf": 53,
      "ga": 28,
-     "diff": 19,
-     "l10": "6-4",
-     "strk": "W2"
+     "diff": 25,
+     "l10": "7-3",
+     "strk": "W3"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96986",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 14,
+     "gp": 15,
      "w": 5,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 10,
      "gf": 27,
-     "ga": 55,
-     "diff": -28,
+     "ga": 61,
+     "diff": -34,
      "l10": "4-6",
-     "strk": "L3"
+     "strk": "L4"
     },
     {
      "team": "Brantford 99ers",

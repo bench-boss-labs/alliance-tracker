@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-15T01:10:20.570Z",
+ "updatedAt": "2026-11-15T18:52:38.426Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97077",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 6,
+     "gp": 10,
+     "w": 7,
      "l": 1,
      "t": 2,
-     "pts": 14,
-     "gf": 27,
+     "pts": 16,
+     "gf": 35,
      "ga": 21,
-     "diff": 6,
-     "l10": "6-1-2",
-     "strk": "W2"
+     "diff": 14,
+     "l10": "7-1-2",
+     "strk": "W3"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97089",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 9,
+     "gp": 10,
      "w": 0,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 0,
      "gf": 5,
-     "ga": 74,
-     "diff": -69,
-     "l10": "0-9",
-     "strk": "L9"
+     "ga": 82,
+     "diff": -77,
+     "l10": "0-10",
+     "strk": "L10"
     }
    ]
   }
