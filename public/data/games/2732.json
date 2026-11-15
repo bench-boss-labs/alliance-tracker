@@ -899,14 +899,17 @@
   "start": "2026-11-15T16:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U18S145",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170534
+  }
  },
  {
   "id": 2376117,
@@ -914,14 +917,17 @@
   "start": "2026-11-15T16:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U18S153",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-15/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170535
+  }
  },
  {
   "id": 2376008,

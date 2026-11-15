@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-15T22:39:00.484Z",
+ "updatedAt": "2026-11-15T23:08:18.886Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 53,
      "l10": "10-0",
      "strk": "W10"
+    },
+    {
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97432",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 11,
+     "w": 9,
+     "l": 0,
+     "t": 2,
+     "pts": 20,
+     "gf": 66,
+     "ga": 21,
+     "diff": 45,
+     "l10": "8-0-2",
+     "strk": "W4"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -49,21 +64,6 @@
      "diff": 16,
      "l10": "6-3-1",
      "strk": "W1"
-    },
-    {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97432",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
-     "w": 8,
-     "l": 0,
-     "t": 2,
-     "pts": 18,
-     "gf": 59,
-     "ga": 20,
-     "diff": 39,
-     "l10": "8-0-2",
-     "strk": "W3"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -174,16 +174,16 @@
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 11,
+     "gp": 12,
      "w": 3,
-     "l": 6,
+     "l": 7,
      "t": 2,
      "pts": 8,
-     "gf": 25,
-     "ga": 46,
-     "diff": -21,
+     "gf": 26,
+     "ga": 53,
+     "diff": -27,
      "l10": "2-6-2",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "team": "North London Nationals",

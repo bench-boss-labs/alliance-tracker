@@ -1364,14 +1364,17 @@
   "start": "2026-11-15T16:00:00-05:00",
   "away": "West London Hawks Black",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Stronach (A)",
   "code": "U18BR14",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170494
+  }
  },
  {
   "id": 2379313,

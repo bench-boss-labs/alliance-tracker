@@ -1118,14 +1118,17 @@
   "start": "2026-11-15T16:30:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U15P130",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3170635
+  }
  },
  {
   "id": 2374961,

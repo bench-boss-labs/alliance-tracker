@@ -856,6 +856,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2718:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2718:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2718,
@@ -870,14 +878,6 @@
   "division": "U12 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2718:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2718:kitchener-jr-rangers",
@@ -1624,20 +1624,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2725:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
- },
- {
   "id": "2725:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
+ },
+ {
+  "id": "2725:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
  },
  {
   "id": "2725:kitchener-jr-rangers",
@@ -2320,22 +2320,6 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2732:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2732:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2732:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2732,
@@ -2344,12 +2328,28 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2732:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2732:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2732:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2732:waterloo-wolves",
@@ -2440,6 +2440,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2733:west-london-hawks-black",
+  "name": "West London Hawks Black",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2733:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2733,
@@ -2470,14 +2478,6 @@
   "division": "U18 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2733:west-london-hawks-black",
-  "name": "West London Hawks Black",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2733:burlington-raiders",
