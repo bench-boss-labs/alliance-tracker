@@ -1172,14 +1172,17 @@
   "start": "2026-11-15T14:30:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U11BR85",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-15/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170385
+  }
  },
  {
   "id": 2379332,
@@ -1223,14 +1226,17 @@
   "start": "2026-11-15T16:00:00-05:00",
   "away": "London Bandits",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Carling (A)",
   "code": "U11BR87",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-15/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170388
+  }
  },
  {
   "id": 2379341,

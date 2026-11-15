@@ -1013,14 +1013,17 @@
   "start": "2026-11-15T15:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U15S36",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-15/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170579
+  }
  },
  {
   "id": 2375725,

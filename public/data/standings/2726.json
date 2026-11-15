@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-15T15:45:12.365Z",
+ "updatedAt": "2026-11-15T22:30:38.028Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 16,
      "l10": "7-0-1",
      "strk": "W2"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97090",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 9,
+     "w": 6,
+     "l": 2,
+     "t": 1,
+     "pts": 13,
+     "gf": 37,
+     "ga": 23,
+     "diff": 14,
+     "l10": "6-2-1",
+     "strk": "W3"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -48,21 +63,6 @@
      "ga": 24,
      "diff": 3,
      "l10": "5-3-2",
-     "strk": "W2"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97090",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 5,
-     "l": 2,
-     "t": 1,
-     "pts": 11,
-     "gf": 28,
-     "ga": 20,
-     "diff": 8,
-     "l10": "5-2-1",
      "strk": "W2"
     },
     {
@@ -174,16 +174,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97327",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 2,
-     "gf": 16,
-     "ga": 33,
-     "diff": -17,
+     "gf": 19,
+     "ga": 42,
+     "diff": -23,
      "l10": "1-9",
-     "strk": "L8"
+     "strk": "L9"
     },
     {
      "team": "Stratford Warriors",

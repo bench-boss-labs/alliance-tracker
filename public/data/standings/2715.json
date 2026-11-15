@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-15T21:53:00.176Z",
+ "updatedAt": "2026-11-15T22:27:57.942Z",
  "regular": [
   {
    "name": "",
@@ -126,34 +126,34 @@
      "strk": "L2"
     },
     {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97191",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 11,
-     "w": 3,
-     "l": 6,
-     "t": 2,
-     "pts": 8,
-     "gf": 28,
-     "ga": 31,
-     "diff": -3,
-     "l10": "2-6-2",
-     "strk": "L2"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97201",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 3,
+     "gp": 9,
+     "w": 4,
      "l": 5,
      "t": 0,
-     "pts": 6,
-     "gf": 25,
-     "ga": 27,
-     "diff": -2,
-     "l10": "3-5",
-     "strk": "W2"
+     "pts": 8,
+     "gf": 31,
+     "ga": 28,
+     "diff": 3,
+     "l10": "4-5",
+     "strk": "W3"
+    },
+    {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97191",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 12,
+     "w": 3,
+     "l": 7,
+     "t": 2,
+     "pts": 8,
+     "gf": 29,
+     "ga": 37,
+     "diff": -8,
+     "l10": "1-7-2",
+     "strk": "L3"
     },
     {
      "team": "West London Hawks",
@@ -186,33 +186,33 @@
      "strk": "L4"
     },
     {
-     "team": "London Bandits",
-     "teamId": "odb-97200",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 10,
-     "w": 1,
-     "l": 9,
-     "t": 0,
-     "pts": 2,
-     "gf": 24,
-     "ga": 60,
-     "diff": -36,
-     "l10": "1-9",
-     "strk": "L4"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97195",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 10,
-     "w": 0,
+     "gp": 11,
+     "w": 1,
      "l": 9,
      "t": 1,
-     "pts": 1,
-     "gf": 10,
-     "ga": 44,
-     "diff": -34,
-     "l10": "0-9-1",
+     "pts": 3,
+     "gf": 15,
+     "ga": 45,
+     "diff": -30,
+     "l10": "1-8-1",
+     "strk": "W1"
+    },
+    {
+     "team": "London Bandits",
+     "teamId": "odb-97200",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 11,
+     "w": 1,
+     "l": 10,
+     "t": 0,
+     "pts": 2,
+     "gf": 25,
+     "ga": 65,
+     "diff": -40,
+     "l10": "1-9",
      "strk": "L5"
     }
    ]
