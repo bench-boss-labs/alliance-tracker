@@ -1619,14 +1619,17 @@
   "start": "2026-11-15T16:00:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U12BR116",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170627
+  }
  },
  {
   "id": 2377913,

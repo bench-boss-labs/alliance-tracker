@@ -760,20 +760,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2717:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2717:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2717:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2717:woodstock-jr-navy-vets",
@@ -920,6 +920,14 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
+  "id": "2718:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2718:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2718,
@@ -942,14 +950,6 @@
   "division": "U12 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/41275c8a7241.png"
- },
- {
-  "id": "2718:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2718:london-bandits",
@@ -2464,20 +2464,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2733:west-london-hawks-black",
-  "name": "West London Hawks Black",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2733:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2733:west-london-hawks-black",
+  "name": "West London Hawks Black",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2733:burlington-raiders",

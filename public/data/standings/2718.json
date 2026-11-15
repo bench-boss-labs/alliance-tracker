@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-15T22:12:46.501Z",
+ "updatedAt": "2026-11-15T22:39:00.484Z",
  "regular": [
   {
    "name": "",
@@ -129,15 +129,30 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97218",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 13,
+     "w": 3,
+     "l": 8,
+     "t": 2,
+     "pts": 8,
+     "gf": 53,
+     "ga": 59,
+     "diff": -6,
+     "l10": "2-6-2",
+     "strk": "L1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97206",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
      "gp": 12,
      "w": 3,
      "l": 7,
      "t": 2,
      "pts": 8,
-     "gf": 50,
-     "ga": 55,
-     "diff": -5,
-     "l10": "3-5-2",
+     "gf": 34,
+     "ga": 59,
+     "diff": -25,
+     "l10": "3-6-1",
      "strk": "W1"
     },
     {
@@ -184,21 +199,6 @@
      "diff": -16,
      "l10": "2-7-1",
      "strk": "L3"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97206",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 11,
-     "w": 2,
-     "l": 7,
-     "t": 2,
-     "pts": 6,
-     "gf": 30,
-     "ga": 56,
-     "diff": -26,
-     "l10": "2-7-1",
-     "strk": "L2"
     },
     {
      "team": "London Bandits",
