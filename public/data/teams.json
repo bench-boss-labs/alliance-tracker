@@ -600,20 +600,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2715:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2715:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2715:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2715:burlington-bulldogs-blue",
