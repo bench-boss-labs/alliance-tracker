@@ -1001,14 +1001,17 @@
   "start": "2026-11-15T15:00:00-05:00",
   "away": "Burlington Raiders",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U12S34",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3170437
+  }
  },
  {
   "id": 2375470,
