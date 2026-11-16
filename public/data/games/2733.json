@@ -1418,14 +1418,17 @@
   "start": "2026-11-15T19:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U18BR41",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-15/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171013
+  }
  },
  {
   "id": 2379089,

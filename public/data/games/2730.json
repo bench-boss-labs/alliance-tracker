@@ -1598,14 +1598,17 @@
   "start": "2026-11-15T19:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U16BR26",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-15/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171003
+  }
  },
  {
   "id": 2378982,

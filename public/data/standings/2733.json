@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-16T01:11:35.243Z",
+ "updatedAt": "2026-11-16T02:10:25.721Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W4"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97128",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 10,
+     "w": 6,
+     "l": 2,
+     "t": 2,
+     "pts": 14,
+     "gf": 40,
+     "ga": 20,
+     "diff": 20,
+     "l10": "6-2-2",
+     "strk": "W4"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97124",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -64,21 +79,6 @@
      "diff": 27,
      "l10": "7-3",
      "strk": "L2"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97128",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 5,
-     "l": 2,
-     "t": 2,
-     "pts": 12,
-     "gf": 35,
-     "ga": 17,
-     "diff": 18,
-     "l10": "5-2-2",
-     "strk": "W3"
     },
     {
      "team": "West London Hawks Black",
@@ -219,16 +219,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 2,
      "pts": 4,
-     "gf": 24,
-     "ga": 40,
-     "diff": -16,
-     "l10": "1-6-2",
-     "strk": "T1"
+     "gf": 27,
+     "ga": 45,
+     "diff": -18,
+     "l10": "1-7-2",
+     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",
