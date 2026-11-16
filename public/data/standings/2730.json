@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-15T21:15:04.946Z",
+ "updatedAt": "2026-11-16T00:10:55.821Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 11,
-     "w": 10,
+     "gp": 12,
+     "w": 11,
      "l": 0,
      "t": 1,
-     "pts": 21,
-     "gf": 67,
-     "ga": 14,
-     "diff": 53,
-     "l10": "9-0-1",
-     "strk": "W9"
+     "pts": 23,
+     "gf": 75,
+     "ga": 16,
+     "diff": 59,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "North London Nationals",
@@ -99,16 +99,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97276",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 10,
+     "gp": 11,
      "w": 6,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 13,
-     "gf": 34,
-     "ga": 27,
-     "diff": 7,
+     "gf": 36,
+     "ga": 35,
+     "diff": 1,
      "l10": "6-3-1",
-     "strk": "L2"
+     "strk": "L3"
     },
     {
      "team": "Waterloo Wolves",

@@ -1655,14 +1655,17 @@
   "start": "2026-11-15T17:15:00-05:00",
   "away": "Stratford Warriors",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U12BR97",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-15/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3170629
+  }
  },
  {
   "id": 2377915,
