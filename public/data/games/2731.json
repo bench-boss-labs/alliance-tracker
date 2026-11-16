@@ -866,14 +866,17 @@
   "start": "2026-11-15T19:30:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U18P137",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-15/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3171037
+  }
  },
  {
   "id": 2373369,
