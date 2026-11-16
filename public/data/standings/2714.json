@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-15T15:40:03.948Z",
+ "updatedAt": "2026-11-16T00:18:07.524Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W9"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97042",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 7,
+     "l": 2,
+     "t": 0,
+     "pts": 14,
+     "gf": 53,
+     "ga": 25,
+     "diff": 28,
+     "l10": "7-2",
+     "strk": "W5"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97286",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -33,21 +48,6 @@
      "ga": 21,
      "diff": 23,
      "l10": "6-1",
-     "strk": "W4"
-    },
-    {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97042",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 6,
-     "l": 2,
-     "t": 0,
-     "pts": 12,
-     "gf": 49,
-     "ga": 23,
-     "diff": 26,
-     "l10": "6-2",
      "strk": "W4"
     },
     {
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97047",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 10,
-     "gf": 22,
-     "ga": 17,
-     "diff": 5,
-     "l10": "5-2",
-     "strk": "W2"
+     "gf": 24,
+     "ga": 21,
+     "diff": 3,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",
