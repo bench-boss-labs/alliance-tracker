@@ -1562,14 +1562,17 @@
   "start": "2026-11-15T18:00:00-05:00",
   "away": "West London Hawks",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR59",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-15/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171001
+  }
  },
  {
   "id": 2378972,

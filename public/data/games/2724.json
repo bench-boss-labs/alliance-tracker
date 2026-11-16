@@ -1496,14 +1496,17 @@
   "start": "2026-11-15T18:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U14BR80",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171011
+  }
  },
  {
   "id": 2378198,

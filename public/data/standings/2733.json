@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-15T23:11:38.885Z",
+ "updatedAt": "2026-11-16T01:11:35.243Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Waterloo Wolves White",
      "teamId": "odb-97133",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 8,
+     "gp": 11,
+     "w": 9,
      "l": 1,
      "t": 1,
-     "pts": 17,
-     "gf": 38,
-     "ga": 14,
-     "diff": 24,
-     "l10": "8-1-1",
-     "strk": "W3"
+     "pts": 19,
+     "gf": 44,
+     "ga": 16,
+     "diff": 28,
+     "l10": "9-0-1",
+     "strk": "W4"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -189,16 +189,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 5,
-     "gf": 23,
-     "ga": 45,
-     "diff": -22,
-     "l10": "2-6-1",
-     "strk": "L2"
+     "gf": 25,
+     "ga": 51,
+     "diff": -26,
+     "l10": "2-7-1",
+     "strk": "L3"
     },
     {
      "team": "North London Nationals",

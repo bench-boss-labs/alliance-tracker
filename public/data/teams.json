@@ -1760,20 +1760,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2726:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2726:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2726:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2726:kitchener-jr-rangers-blue",
@@ -1848,20 +1848,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2727:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2727:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2727:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2727:north-london-nationals",
@@ -2136,6 +2136,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2730:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2730:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2730,
@@ -2150,14 +2158,6 @@
   "division": "U16 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2730:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-red",

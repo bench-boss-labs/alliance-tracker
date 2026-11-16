@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-16T00:39:13.561Z",
+ "updatedAt": "2026-11-16T01:09:15.043Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98140",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 10,
-     "w": 10,
+     "gp": 11,
+     "w": 11,
      "l": 0,
      "t": 0,
-     "pts": 20,
-     "gf": 72,
-     "ga": 11,
-     "diff": 61,
+     "pts": 22,
+     "gf": 77,
+     "ga": 13,
+     "diff": 64,
      "l10": "10-0",
-     "strk": "W10"
+     "strk": "W11"
     },
     {
      "team": "London Bandits",
@@ -99,16 +99,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97240",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 11,
-     "gf": 38,
-     "ga": 31,
-     "diff": 7,
-     "l10": "5-3-1",
-     "strk": "L1"
+     "gf": 40,
+     "ga": 36,
+     "diff": 4,
+     "l10": "5-4-1",
+     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",
