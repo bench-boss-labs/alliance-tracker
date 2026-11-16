@@ -1067,14 +1067,17 @@
   "start": "2026-11-15T20:15:00-05:00",
   "away": "London Jr Knights White",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16S7",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3171027
+  }
  },
  {
   "id": 2375775,
