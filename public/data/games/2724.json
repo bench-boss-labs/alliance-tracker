@@ -1478,14 +1478,17 @@
   "start": "2026-11-15T17:45:00-05:00",
   "away": "Cambridge Hawks",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U14BR115",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-15/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171009
+  }
  },
  {
   "id": 2378191,
@@ -1508,14 +1511,17 @@
   "start": "2026-11-15T18:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U14BR74",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-15/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171010
+  }
  },
  {
   "id": 2378147,

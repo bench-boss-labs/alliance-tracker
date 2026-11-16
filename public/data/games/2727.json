@@ -1205,14 +1205,17 @@
   "start": "2026-11-15T17:45:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U15BR63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-15/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3171076
+  }
  },
  {
   "id": 2378840,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-15T21:13:14.782Z",
+ "updatedAt": "2026-11-16T00:38:43.320Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96988",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 12,
-     "w": 4,
+     "gp": 13,
+     "w": 5,
      "l": 6,
      "t": 2,
-     "pts": 10,
-     "gf": 36,
+     "pts": 12,
+     "gf": 39,
      "ga": 39,
-     "diff": -3,
+     "diff": 0,
      "l10": "3-6-1",
-     "strk": "L3"
+     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -159,16 +159,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96982",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 12,
+     "gp": 13,
      "w": 2,
-     "l": 10,
+     "l": 11,
      "t": 0,
      "pts": 4,
      "gf": 15,
-     "ga": 65,
-     "diff": -50,
-     "l10": "2-8",
-     "strk": "L6"
+     "ga": 68,
+     "diff": -53,
+     "l10": "1-9",
+     "strk": "L7"
     },
     {
      "team": "Chatham-Kent Cyclones",

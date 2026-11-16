@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-15T23:40:25.062Z",
+ "updatedAt": "2026-11-16T00:40:33.654Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97258",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 10,
+     "w": 8,
+     "l": 1,
+     "t": 1,
+     "pts": 17,
+     "gf": 61,
+     "ga": 22,
+     "diff": 39,
+     "l10": "8-1-1",
+     "strk": "T1"
+    },
     {
      "team": "West London Hawks",
      "teamId": "odb-97257",
@@ -21,34 +36,19 @@
      "strk": "W1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97258",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 9,
-     "w": 8,
-     "l": 1,
-     "t": 0,
-     "pts": 16,
-     "gf": 59,
-     "ga": 20,
-     "diff": 39,
-     "l10": "8-1",
-     "strk": "W1"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 10,
+     "gp": 11,
      "w": 7,
      "l": 2,
-     "t": 1,
-     "pts": 15,
-     "gf": 41,
-     "ga": 18,
+     "t": 2,
+     "pts": 16,
+     "gf": 43,
+     "ga": 20,
      "diff": 23,
-     "l10": "7-2-1",
-     "strk": "W1"
+     "l10": "7-1-2",
+     "strk": "T1"
     },
     {
      "team": "St. Thomas Jr Stars",
