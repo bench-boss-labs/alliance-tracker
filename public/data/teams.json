@@ -136,20 +136,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2711:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:brantford-99ers",
@@ -272,20 +272,20 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2712:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
- },
- {
   "id": "2712:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2712:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2712:london-bandits",
@@ -424,20 +424,20 @@
   "logo": "logos/b0bd0d065caa.png"
  },
  {
-  "id": "2713:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2713:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2713:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2713:sarnia-lambton-jr-sting",
@@ -480,6 +480,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2714:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2714:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2714,
@@ -494,14 +502,6 @@
   "division": "U11 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2714:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2714:woodstock-jr-navy-vets",

@@ -1299,21 +1299,6 @@
   "gamesheet": null
  },
  {
-  "id": 2373352,
-  "divisionId": 2731,
-  "start": "2026-12-12T20:00:00-05:00",
-  "away": "Windsor Jr Spitfires",
-  "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Sarnia PASA (Rink 1)",
-  "code": "U18P5",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2373292,
   "divisionId": 2731,
   "start": "2026-12-13T14:15:00-05:00",
@@ -1954,6 +1939,21 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U18P108",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2373352,
+  "divisionId": 2731,
+  "start": "2027-02-02T20:15:00-05:00",
+  "away": "Windsor Jr Spitfires",
+  "home": "Sarnia-Lambton Jr Sting",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sarnia PASA (Rink 2)",
+  "code": "U18P5",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
