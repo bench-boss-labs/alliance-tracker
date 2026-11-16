@@ -1067,14 +1067,17 @@
   "start": "2026-11-15T18:45:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U15S30",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3171064
+  }
  },
  {
   "id": 2375706,
