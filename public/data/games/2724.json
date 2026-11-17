@@ -1532,14 +1532,17 @@
   "start": "2026-11-16T19:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Argyle (A)",
   "code": "U14BR87",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3174182
+  }
  },
  {
   "id": 2378123,

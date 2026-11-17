@@ -884,14 +884,17 @@
   "start": "2026-11-16T19:30:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 7,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U18P52",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3174180
+  }
  },
  {
   "id": 2373288,

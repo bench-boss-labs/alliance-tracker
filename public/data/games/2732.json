@@ -935,14 +935,17 @@
   "start": "2026-11-16T20:45:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U18S151",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3174284
+  }
  },
  {
   "id": 2376109,
