@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-16T03:14:02.207Z",
+ "updatedAt": "2026-11-17T17:44:39.862Z",
  "regular": [
   {
    "name": "",
@@ -51,17 +51,32 @@
      "strk": "W4"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97103",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 11,
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97105",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
+     "t": 1,
+     "pts": 11,
+     "gf": 34,
+     "ga": 13,
+     "diff": 21,
+     "l10": "5-1-1",
+     "strk": "W1"
+    },
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97111",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 10,
      "w": 4,
-     "l": 4,
+     "l": 3,
      "t": 3,
      "pts": 11,
-     "gf": 29,
-     "ga": 30,
-     "diff": -1,
+     "gf": 31,
+     "ga": 27,
+     "diff": 4,
      "l10": "4-3-3",
      "strk": "W1"
     },
@@ -81,19 +96,19 @@
      "strk": "W1"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97111",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 10,
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97103",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 12,
      "w": 4,
-     "l": 3,
+     "l": 5,
      "t": 3,
      "pts": 11,
-     "gf": 31,
-     "ga": 27,
-     "diff": 4,
-     "l10": "4-3-3",
-     "strk": "W1"
+     "gf": 32,
+     "ga": 35,
+     "diff": -3,
+     "l10": "3-4-3",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -124,21 +139,6 @@
      "diff": -12,
      "l10": "3-5-2",
      "strk": "L2"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97105",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 4,
-     "l": 1,
-     "t": 1,
-     "pts": 9,
-     "gf": 29,
-     "ga": 10,
-     "diff": 19,
-     "l10": "4-1-1",
-     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
