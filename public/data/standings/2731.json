@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-17T03:50:40.703Z",
+ "updatedAt": "2026-11-18T02:56:28.484Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97024",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 12,
+     "gp": 13,
      "w": 8,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 16,
-     "gf": 49,
-     "ga": 34,
-     "diff": 15,
-     "l10": "6-4-0",
-     "strk": "W1"
+     "gf": 51,
+     "ga": 37,
+     "diff": 14,
+     "l10": "5-5-0",
+     "strk": "L1"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -81,6 +81,21 @@
      "strk": "L2"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97018",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 13,
+     "w": 5,
+     "l": 8,
+     "t": 0,
+     "pts": 10,
+     "gf": 46,
+     "ga": 61,
+     "diff": -15,
+     "l10": "4-6-0",
+     "strk": "W2"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97025",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -93,21 +108,6 @@
      "ga": 51,
      "diff": -21,
      "l10": "4-6-0",
-     "strk": "W1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97018",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 12,
-     "w": 4,
-     "l": 8,
-     "t": 0,
-     "pts": 8,
-     "gf": 43,
-     "ga": 59,
-     "diff": -16,
-     "l10": "3-7-0",
      "strk": "W1"
     },
     {

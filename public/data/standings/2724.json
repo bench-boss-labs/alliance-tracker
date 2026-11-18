@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-17T03:49:40.661Z",
+ "updatedAt": "2026-11-18T02:55:08.702Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W2"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97240",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 11,
+     "w": 6,
+     "l": 4,
+     "t": 1,
+     "pts": 13,
+     "gf": 44,
+     "ga": 36,
+     "diff": 8,
+     "l10": "5-4-1",
+     "strk": "W1"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97237",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -109,21 +124,6 @@
      "diff": 6,
      "l10": "5-3-1",
      "strk": "T1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97240",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 5,
-     "l": 4,
-     "t": 1,
-     "pts": 11,
-     "gf": 40,
-     "ga": 36,
-     "diff": 4,
-     "l10": "5-4-1",
-     "strk": "L2"
     },
     {
      "team": "North London Nationals",
@@ -234,16 +234,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97433",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 13,
+     "gp": 14,
      "w": 0,
-     "l": 13,
+     "l": 14,
      "t": 0,
      "pts": 0,
      "gf": 20,
-     "ga": 103,
-     "diff": -83,
+     "ga": 107,
+     "diff": -87,
      "l10": "0-10",
-     "strk": "L13"
+     "strk": "L14"
     }
    ]
   }

@@ -1490,14 +1490,17 @@
   "start": "2026-11-17T18:00:00-05:00",
   "away": "West London Hawks",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U10BRS-23",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3176200
+  }
  },
  {
   "id": 2379513,

@@ -1550,14 +1550,17 @@
   "start": "2026-11-17T20:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U14BR12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-17/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3176193
+  }
  },
  {
   "id": 2378164,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-16T00:18:27.535Z",
+ "updatedAt": "2026-11-18T02:53:58.607Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98138",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 11,
-     "w": 9,
+     "gp": 12,
+     "w": 10,
      "l": 0,
      "t": 2,
-     "pts": 20,
-     "gf": 55,
-     "ga": 19,
-     "diff": 36,
+     "pts": 22,
+     "gf": 63,
+     "ga": 21,
+     "diff": 42,
      "l10": "9-0-1",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "team": "Burlington Bulldogs Gold",
@@ -81,6 +81,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97207",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 13,
+     "w": 8,
+     "l": 4,
+     "t": 1,
+     "pts": 17,
+     "gf": 60,
+     "ga": 45,
+     "diff": 15,
+     "l10": "7-2-1",
+     "strk": "W4"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97214",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -94,21 +109,6 @@
      "diff": 26,
      "l10": "6-2-2",
      "strk": "L1"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97207",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 12,
-     "w": 7,
-     "l": 4,
-     "t": 1,
-     "pts": 15,
-     "gf": 54,
-     "ga": 44,
-     "diff": 10,
-     "l10": "6-3-1",
-     "strk": "W3"
     },
     {
      "team": "Oakridge Aeros",
@@ -159,16 +159,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97216",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 11,
+     "gp": 12,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 4,
      "pts": 8,
-     "gf": 21,
-     "ga": 38,
-     "diff": -17,
+     "gf": 22,
+     "ga": 44,
+     "diff": -22,
      "l10": "2-5-3",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "team": "West London Hawks",
@@ -204,16 +204,16 @@
      "team": "London Bandits",
      "teamId": "odb-97211",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 11,
+     "gp": 12,
      "w": 2,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 4,
-     "gf": 33,
-     "ga": 61,
-     "diff": -28,
-     "l10": "2-8",
-     "strk": "L6"
+     "gf": 35,
+     "ga": 69,
+     "diff": -34,
+     "l10": "1-9",
+     "strk": "L7"
     },
     {
      "team": "Cambridge Hawks",

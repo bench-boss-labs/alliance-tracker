@@ -902,14 +902,17 @@
   "start": "2026-11-17T19:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18P28",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3176220
+  }
  },
  {
   "id": 2373322,

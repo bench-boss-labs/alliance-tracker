@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-16T00:38:43.320Z",
+ "updatedAt": "2026-11-18T02:54:38.515Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96990",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 12,
-     "w": 11,
+     "gp": 13,
+     "w": 12,
      "l": 1,
      "t": 0,
-     "pts": 22,
-     "gf": 70,
+     "pts": 24,
+     "gf": 80,
      "ga": 7,
-     "diff": 63,
+     "diff": 73,
      "l10": "9-1",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -129,16 +129,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 14,
+     "gp": 15,
      "w": 2,
-     "l": 10,
+     "l": 11,
      "t": 2,
      "pts": 6,
      "gf": 19,
-     "ga": 63,
-     "diff": -44,
+     "ga": 73,
+     "diff": -54,
      "l10": "0-8-2",
-     "strk": "L2"
+     "strk": "L3"
     },
     {
      "team": "Sault Major Jr Greyhounds",
