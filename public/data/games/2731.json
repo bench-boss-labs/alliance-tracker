@@ -920,14 +920,17 @@
   "start": "2026-11-17T20:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U18P10",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-17/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3176221
+  }
  },
  {
   "id": 2373414,
