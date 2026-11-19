@@ -1576,12 +1576,12 @@
   "logo": "logos/97ff93a72d6e.png"
  },
  {
-  "id": "2724:oakridge-aeros",
-  "name": "Oakridge Aeros",
+  "id": "2724:west-london-hawks",
+  "name": "West London Hawks",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2724:burlington-raiders",
@@ -1592,12 +1592,12 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2724:west-london-hawks",
-  "name": "West London Hawks",
+  "id": "2724:oakridge-aeros",
+  "name": "Oakridge Aeros",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
+  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2724:burlington-bulldogs-blue",

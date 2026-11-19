@@ -1568,14 +1568,17 @@
   "start": "2026-11-18T19:00:00-05:00",
   "away": "West London Hawks",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U14BR73",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-18/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3177608
+  }
  },
  {
   "id": 2378105,
