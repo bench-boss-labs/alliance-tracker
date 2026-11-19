@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-17T03:50:10.743Z",
+ "updatedAt": "2026-11-19T03:42:41.187Z",
  "regular": [
   {
    "name": "",
@@ -54,31 +54,31 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97015",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 13,
-     "w": 6,
+     "gp": 14,
+     "w": 7,
      "l": 7,
      "t": 0,
-     "pts": 12,
-     "gf": 52,
-     "ga": 53,
-     "diff": -1,
-     "l10": "5-5",
-     "strk": "W3"
+     "pts": 14,
+     "gf": 55,
+     "ga": 54,
+     "diff": 1,
+     "l10": "6-4",
+     "strk": "W4"
     },
     {
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-97007",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 11,
+     "gp": 12,
      "w": 4,
-     "l": 5,
+     "l": 6,
      "t": 2,
      "pts": 10,
-     "gf": 32,
-     "ga": 31,
-     "diff": 1,
-     "l10": "3-5-2",
-     "strk": "T1"
+     "gf": 33,
+     "ga": 34,
+     "diff": -1,
+     "l10": "2-6-2",
+     "strk": "L1"
     },
     {
      "team": "Huron-Perth Lakers",

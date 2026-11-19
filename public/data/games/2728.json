@@ -1049,14 +1049,17 @@
   "start": "2026-11-18T20:30:00-05:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U16P88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-18/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3177615
+  }
  },
  {
   "id": 2375127,
