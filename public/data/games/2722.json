@@ -1265,14 +1265,17 @@
   "start": "2026-11-18T20:00:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U14P127",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3177592
+  }
  },
  {
   "id": 2381541,

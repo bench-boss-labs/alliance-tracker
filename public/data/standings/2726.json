@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-18T03:12:57.867Z",
+ "updatedAt": "2026-11-19T02:42:59.456Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97094",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 7,
+     "gp": 9,
+     "w": 8,
      "l": 0,
      "t": 1,
-     "pts": 15,
-     "gf": 24,
+     "pts": 17,
+     "gf": 27,
      "ga": 8,
-     "diff": 16,
-     "l10": "7-0-1",
-     "strk": "W2"
+     "diff": 19,
+     "l10": "8-0-1",
+     "strk": "W3"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -114,16 +114,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97099",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 10,
      "gf": 20,
-     "ga": 20,
-     "diff": 0,
-     "l10": "5-3",
-     "strk": "L1"
+     "ga": 23,
+     "diff": -3,
+     "l10": "5-4",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
