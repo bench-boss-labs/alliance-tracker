@@ -1960,6 +1960,14 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
+  "id": "2728:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2728:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2728,
@@ -1974,14 +1982,6 @@
   "division": "U16 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
- },
- {
-  "id": "2728:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2728:kitchener-jr-rangers",
