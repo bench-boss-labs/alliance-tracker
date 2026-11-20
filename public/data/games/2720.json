@@ -1025,14 +1025,17 @@
   "start": "2026-11-19T19:00:00-05:00",
   "away": "London Jr Knights White",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Western Fair (Collins Clothiers)",
   "code": "U13S54",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4444/2026-11-19/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3179587
+  }
  },
  {
   "id": 2375528,

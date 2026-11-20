@@ -1037,14 +1037,17 @@
   "start": "2026-11-19T18:45:00-05:00",
   "away": "London Jr Knights Green",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U12S51",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-19/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3179352
+  }
  },
  {
   "id": 2375450,
@@ -1052,14 +1055,17 @@
   "start": "2026-11-19T19:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U12S59",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3179353
+  }
  },
  {
   "id": 2375437,

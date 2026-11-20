@@ -696,20 +696,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2716:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2716:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2716:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2716:waterloo-wolves",
@@ -752,6 +752,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2717:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2717:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2717,
@@ -766,14 +774,6 @@
   "division": "U12 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2717:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2717:woodstock-jr-navy-vets",
@@ -1552,20 +1552,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2724:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
- },
- {
   "id": "2724:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2724:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2724:lambeth-lancers",
@@ -1896,20 +1896,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2727:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
   "id": "2727:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
+  "id": "2727:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2727:lambeth-lancers",

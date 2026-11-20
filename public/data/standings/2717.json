@@ -1,6 +1,6 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-11-15T22:38:30.415Z",
+ "updatedAt": "2026-11-20T02:18:21.638Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,31 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97287",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 11,
-     "w": 8,
+     "gp": 12,
+     "w": 9,
      "l": 2,
      "t": 1,
-     "pts": 17,
-     "gf": 50,
-     "ga": 26,
-     "diff": 24,
+     "pts": 19,
+     "gf": 57,
+     "ga": 27,
+     "diff": 30,
      "l10": "7-2-1",
-     "strk": "L1"
+     "strk": "W1"
+    },
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97056",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 8,
+     "w": 7,
+     "l": 0,
+     "t": 1,
+     "pts": 15,
+     "gf": 42,
+     "ga": 8,
+     "diff": 34,
+     "l10": "7-0-1",
+     "strk": "W6"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -49,21 +64,6 @@
      "diff": 27,
      "l10": "7-2",
      "strk": "W3"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97056",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 6,
-     "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 36,
-     "ga": 8,
-     "diff": 28,
-     "l10": "6-0-1",
-     "strk": "W5"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -114,16 +114,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97059",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
+     "gp": 9,
      "w": 3,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 8,
-     "gf": 24,
-     "ga": 21,
-     "diff": 3,
-     "l10": "3-3-2",
-     "strk": "L2"
+     "gf": 25,
+     "ga": 28,
+     "diff": -3,
+     "l10": "3-4-2",
+     "strk": "L3"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -144,16 +144,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97057",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 7,
      "gf": 28,
-     "ga": 30,
-     "diff": -2,
-     "l10": "3-5-1",
-     "strk": "W1"
+     "ga": 36,
+     "diff": -8,
+     "l10": "3-6-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",

@@ -776,14 +776,17 @@
   "start": "2026-11-19T18:30:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Essex (Libro)",
   "code": "U12P18",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-11-19/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3179351
+  }
  },
  {
   "id": 2374287,

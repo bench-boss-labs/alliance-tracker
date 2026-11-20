@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-11-15T22:38:00.433Z",
+ "updatedAt": "2026-11-20T02:17:52.122Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W1"
     },
     {
+     "team": "Windsor Jr Spitfires",
+     "teamId": "odb-96967",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
+     "gp": 7,
+     "w": 3,
+     "l": 3,
+     "t": 1,
+     "pts": 7,
+     "gf": 20,
+     "ga": 22,
+     "diff": -2,
+     "l10": "3-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-96957",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -79,21 +94,6 @@
      "diff": -22,
      "l10": "3-6-1",
      "strk": "T1"
-    },
-    {
-     "team": "Windsor Jr Spitfires",
-     "teamId": "odb-96967",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
-     "w": 2,
-     "l": 3,
-     "t": 1,
-     "pts": 5,
-     "gf": 15,
-     "ga": 20,
-     "diff": -5,
-     "l10": "2-3-1",
-     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",
@@ -144,16 +144,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96965",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 2,
-     "gf": 17,
-     "ga": 67,
-     "diff": -50,
+     "gf": 19,
+     "ga": 72,
+     "diff": -53,
      "l10": "1-9",
-     "strk": "L2"
+     "strk": "L3"
     }
    ]
   }

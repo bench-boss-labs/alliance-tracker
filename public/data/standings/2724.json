@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-19T02:33:13.573Z",
+ "updatedAt": "2026-11-20T02:19:31.876Z",
  "regular": [
   {
    "name": "",
@@ -114,16 +114,31 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97237",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 11,
-     "gf": 39,
-     "ga": 33,
-     "diff": 6,
-     "l10": "5-3-1",
-     "strk": "T1"
+     "gf": 41,
+     "ga": 36,
+     "diff": 5,
+     "l10": "5-4-1",
+     "strk": "L1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97236",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 10,
+     "w": 5,
+     "l": 5,
+     "t": 0,
+     "pts": 10,
+     "gf": 26,
+     "ga": 42,
+     "diff": -16,
+     "l10": "5-5",
+     "strk": "W1"
     },
     {
      "team": "North London Nationals",
@@ -139,21 +154,6 @@
      "diff": 0,
      "l10": "4-4-2",
      "strk": "W2"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97236",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 4,
-     "l": 5,
-     "t": 0,
-     "pts": 8,
-     "gf": 23,
-     "ga": 40,
-     "diff": -17,
-     "l10": "4-5",
-     "strk": "L3"
     },
     {
      "team": "Lambeth Lancers",

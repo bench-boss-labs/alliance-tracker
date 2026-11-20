@@ -1586,14 +1586,17 @@
   "start": "2026-11-19T18:45:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U14BR88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-19/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3179451
+  }
  },
  {
   "id": 2378111,

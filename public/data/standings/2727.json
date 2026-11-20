@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-16T01:10:35.204Z",
+ "updatedAt": "2026-11-20T02:20:01.868Z",
  "regular": [
   {
    "name": "",
@@ -156,6 +156,21 @@
      "strk": "W3"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97263",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 9,
+     "w": 2,
+     "l": 5,
+     "t": 2,
+     "pts": 6,
+     "gf": 30,
+     "ga": 45,
+     "diff": -15,
+     "l10": "2-5-2",
+     "strk": "W1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -169,21 +184,6 @@
      "diff": -35,
      "l10": "1-8-1",
      "strk": "L6"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97263",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 8,
-     "w": 1,
-     "l": 5,
-     "t": 2,
-     "pts": 4,
-     "gf": 24,
-     "ga": 41,
-     "diff": -17,
-     "l10": "1-5-2",
-     "strk": "L2"
     },
     {
      "team": "Lambeth Lancers",
@@ -204,16 +204,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97261",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
-     "gf": 17,
-     "ga": 52,
-     "diff": -35,
-     "l10": "1-8",
-     "strk": "L2"
+     "gf": 21,
+     "ga": 58,
+     "diff": -37,
+     "l10": "1-9",
+     "strk": "L3"
     }
    ]
   }
