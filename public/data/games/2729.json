@@ -1103,14 +1103,17 @@
   "start": "2026-11-19T20:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Western Fair (Collins Clothiers)",
   "code": "U16S92",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4444/2026-11-19/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3179531
+  }
  },
  {
   "id": 2375769,
