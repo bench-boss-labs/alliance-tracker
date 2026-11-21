@@ -2288,20 +2288,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2731:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2731:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2731:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2731:huron-perth-lakers",
