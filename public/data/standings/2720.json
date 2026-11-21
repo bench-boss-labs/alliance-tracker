@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-21T22:39:06.777Z",
+ "updatedAt": "2026-11-21T23:09:23.208Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W10"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97072",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 9,
+     "w": 8,
+     "l": 1,
+     "t": 0,
+     "pts": 16,
+     "gf": 38,
+     "ga": 26,
+     "diff": 12,
+     "l10": "8-1",
+     "strk": "W3"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97073",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -33,21 +48,6 @@
      "ga": 25,
      "diff": 8,
      "l10": "6-2-2",
-     "strk": "W2"
-    },
-    {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97072",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
-     "w": 7,
-     "l": 1,
-     "t": 0,
-     "pts": 14,
-     "gf": 32,
-     "ga": 24,
-     "diff": 8,
-     "l10": "7-1",
      "strk": "W2"
     },
     {
@@ -144,16 +144,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97075",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 6,
-     "gf": 24,
-     "ga": 39,
-     "diff": -15,
-     "l10": "3-6",
-     "strk": "W2"
+     "gf": 26,
+     "ga": 45,
+     "diff": -19,
+     "l10": "3-7",
+     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-21T21:30:03.777Z",
+ "updatedAt": "2026-11-21T23:11:23.150Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97015",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 14,
+     "gp": 15,
      "w": 7,
      "l": 7,
-     "t": 0,
-     "pts": 14,
-     "gf": 55,
-     "ga": 54,
+     "t": 1,
+     "pts": 15,
+     "gf": 57,
+     "ga": 56,
      "diff": 1,
-     "l10": "6-4",
-     "strk": "W4"
+     "l10": "6-3-1",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97010",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
      "l": 7,
-     "t": 0,
-     "pts": 4,
-     "gf": 17,
-     "ga": 33,
+     "t": 1,
+     "pts": 5,
+     "gf": 19,
+     "ga": 35,
      "diff": -16,
-     "l10": "2-7",
-     "strk": "L4"
+     "l10": "2-7-1",
+     "strk": "T1"
     },
     {
      "team": "Cambridge Jr RedHawks",
