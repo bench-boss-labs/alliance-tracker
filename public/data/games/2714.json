@@ -917,14 +917,17 @@
   "start": "2026-11-21T13:15:00-05:00",
   "away": "London Jr Knights White",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U11S3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-21/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3182160
+  }
  },
  {
   "id": 2375361,

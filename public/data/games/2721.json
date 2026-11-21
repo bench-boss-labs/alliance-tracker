@@ -1265,14 +1265,17 @@
   "start": "2026-11-21T12:00:00-05:00",
   "away": "Brantford 99ers",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 9,
+  "status": "final",
   "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U13BR1",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-21/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3181704
+  }
  },
  {
   "id": 2378029,

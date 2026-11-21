@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-15T22:27:57.942Z",
+ "updatedAt": "2026-11-21T19:28:43.804Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97192",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
-     "w": 9,
+     "gp": 11,
+     "w": 10,
      "l": 0,
      "t": 1,
-     "pts": 19,
-     "gf": 40,
-     "ga": 13,
-     "diff": 27,
+     "pts": 21,
+     "gf": 46,
+     "ga": 15,
+     "diff": 31,
      "l10": "9-0-1",
-     "strk": "T1"
+     "strk": "W1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -39,16 +39,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97198",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 9,
+     "gp": 10,
      "w": 7,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 15,
-     "gf": 28,
-     "ga": 17,
-     "diff": 11,
-     "l10": "7-1-1",
-     "strk": "W6"
+     "gf": 30,
+     "ga": 23,
+     "diff": 7,
+     "l10": "7-2-1",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Gold",
