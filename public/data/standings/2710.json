@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-21T20:17:27.417Z",
+ "updatedAt": "2026-11-21T20:47:37.485Z",
  "regular": [
   {
    "name": "East Division",
@@ -24,16 +24,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96942",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
+     "gp": 11,
      "w": 5,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 10,
-     "gf": 33,
-     "ga": 46,
-     "diff": -13,
-     "l10": "5-5",
-     "strk": "L1"
+     "gf": 35,
+     "ga": 56,
+     "diff": -21,
+     "l10": "4-6",
+     "strk": "L2"
     },
     {
      "team": "Brantford 99ers",
@@ -104,16 +104,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97285",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 7,
-     "w": 6,
+     "gp": 8,
+     "w": 7,
      "l": 1,
      "t": 0,
-     "pts": 12,
-     "gf": 61,
-     "ga": 15,
-     "diff": 46,
-     "l10": "6-1",
-     "strk": "W3"
+     "pts": 14,
+     "gf": 71,
+     "ga": 17,
+     "diff": 54,
+     "l10": "7-1",
+     "strk": "W4"
     },
     {
      "team": "Elgin-Middlesex Canucks",
