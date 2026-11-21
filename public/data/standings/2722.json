@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-21T22:19:57.352Z",
+ "updatedAt": "2026-11-21T22:49:17.139Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 15,
-     "w": 12,
+     "gp": 16,
+     "w": 13,
      "l": 1,
      "t": 2,
-     "pts": 26,
-     "gf": 80,
-     "ga": 20,
-     "diff": 60,
+     "pts": 28,
+     "gf": 85,
+     "ga": 21,
+     "diff": 64,
      "l10": "8-1-1",
-     "strk": "W5"
+     "strk": "W6"
     },
     {
      "team": "Waterloo Wolves",
@@ -84,16 +84,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96984",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 10,
+     "gp": 11,
      "w": 6,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 13,
-     "gf": 30,
-     "ga": 21,
-     "diff": 9,
-     "l10": "6-3-1",
-     "strk": "L1"
+     "gf": 31,
+     "ga": 26,
+     "diff": 5,
+     "l10": "6-4",
+     "strk": "L2"
     },
     {
      "team": "London Jr Knights",

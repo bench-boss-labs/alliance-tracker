@@ -2368,6 +2368,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2732:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2732:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2732,
@@ -2382,14 +2390,6 @@
   "division": "U18 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2732:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2732:cambridge-hawks",

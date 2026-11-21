@@ -1355,14 +1355,17 @@
   "start": "2026-11-21T16:30:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U14P157",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-21/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3182231
+  }
  },
  {
   "id": 2381542,

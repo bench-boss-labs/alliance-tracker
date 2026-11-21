@@ -953,14 +953,17 @@
   "start": "2026-11-21T16:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U18S4",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3182205
+  }
  },
  {
   "id": 2375995,
