@@ -1888,20 +1888,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2727:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2727:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
+  "id": "2727:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2727:london-bandits",
@@ -2264,20 +2264,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2731:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2731:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
+ },
+ {
+  "id": "2731:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2731:sarnia-lambton-jr-sting",

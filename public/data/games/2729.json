@@ -1160,14 +1160,17 @@
   "start": "2026-11-21T16:45:00-05:00",
   "away": "Brantford 99ers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U16S110",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-21/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3182439
+  }
  },
  {
   "id": 2375816,
