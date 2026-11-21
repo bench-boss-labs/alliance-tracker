@@ -1301,14 +1301,17 @@
   "start": "2026-11-20T20:15:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 10,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U14P60",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3180973
+  }
  },
  {
   "id": 2381543,
