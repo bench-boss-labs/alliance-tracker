@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-21T19:09:39.349Z",
+ "updatedAt": "2026-11-21T22:18:57.419Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96969",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 11,
+     "gp": 12,
      "w": 8,
      "l": 3,
-     "t": 0,
-     "pts": 16,
-     "gf": 49,
-     "ga": 28,
+     "t": 1,
+     "pts": 17,
+     "gf": 51,
+     "ga": 30,
      "diff": 21,
-     "l10": "7-3",
-     "strk": "W3"
+     "l10": "6-3-1",
+     "strk": "T1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -81,6 +81,21 @@
      "strk": "L2"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-96976",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 11,
+     "w": 5,
+     "l": 5,
+     "t": 1,
+     "pts": 11,
+     "gf": 34,
+     "ga": 27,
+     "diff": 7,
+     "l10": "4-5-1",
+     "strk": "W1"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96974",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -94,21 +109,6 @@
      "diff": -7,
      "l10": "4-6",
      "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-96976",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 10,
-     "w": 4,
-     "l": 5,
-     "t": 1,
-     "pts": 9,
-     "gf": 29,
-     "ga": 25,
-     "diff": 4,
-     "l10": "4-5-1",
-     "strk": "L3"
     },
     {
      "team": "Waterloo Wolves",
@@ -129,31 +129,31 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96970",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
      "l": 6,
-     "t": 3,
-     "pts": 5,
-     "gf": 11,
-     "ga": 31,
+     "t": 4,
+     "pts": 6,
+     "gf": 13,
+     "ga": 33,
      "diff": -20,
-     "l10": "1-6-3",
-     "strk": "L2"
+     "l10": "0-6-4",
+     "strk": "T1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96980",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 17,
-     "ga": 45,
-     "diff": -28,
-     "l10": "2-6",
-     "strk": "L2"
+     "gf": 19,
+     "ga": 50,
+     "diff": -31,
+     "l10": "2-7",
+     "strk": "L3"
     },
     {
      "team": "Chatham-Kent Cyclones",
