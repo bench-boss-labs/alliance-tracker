@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-21T02:15:04.283Z",
+ "updatedAt": "2026-11-21T16:15:56.399Z",
  "regular": [
   {
    "name": "",
@@ -204,16 +204,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 10,
-     "w": 2,
+     "gp": 11,
+     "w": 3,
      "l": 8,
      "t": 0,
-     "pts": 4,
-     "gf": 15,
-     "ga": 33,
-     "diff": -18,
+     "pts": 6,
+     "gf": 19,
+     "ga": 36,
+     "diff": -17,
      "l10": "2-8",
-     "strk": "L6"
+     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -234,16 +234,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
+     "gp": 11,
      "w": 0,
-     "l": 9,
+     "l": 10,
      "t": 1,
      "pts": 1,
-     "gf": 13,
-     "ga": 71,
-     "diff": -58,
+     "gf": 16,
+     "ga": 75,
+     "diff": -59,
      "l10": "0-9-1",
-     "strk": "L6"
+     "strk": "L7"
     }
    ]
   }
