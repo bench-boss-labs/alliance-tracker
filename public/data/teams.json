@@ -1080,6 +1080,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2720:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2720:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2720,
@@ -1102,14 +1110,6 @@
   "division": "U13 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2720:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2720:st-thomas-jr-stars",
