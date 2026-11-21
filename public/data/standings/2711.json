@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-21T21:47:54.402Z",
+ "updatedAt": "2026-11-21T22:37:56.707Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "L1"
     },
     {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97030",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0,
+     "pts": 10,
+     "gf": 42,
+     "ga": 18,
+     "diff": 24,
+     "l10": "5-3",
+     "strk": "W1"
+    },
+    {
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97029",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -108,21 +123,6 @@
      "ga": 36,
      "diff": 6,
      "l10": "5-5",
-     "strk": "L1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97030",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
-     "pts": 8,
-     "gf": 31,
-     "ga": 18,
-     "diff": 13,
-     "l10": "4-3",
      "strk": "L1"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97303",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 40,
-     "diff": -31,
-     "l10": "0-7-1",
-     "strk": "L4"
+     "ga": 51,
+     "diff": -42,
+     "l10": "0-8-1",
+     "strk": "L5"
     }
    ]
   }
