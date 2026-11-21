@@ -944,14 +944,17 @@
   "start": "2026-11-21T10:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sports Park (2)",
   "code": "U10S1",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3181730
+  }
  },
  {
   "id": 2376163,
