@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-21T20:38:09.924Z",
+ "updatedAt": "2026-11-21T21:08:16.395Z",
  "regular": [
   {
    "name": "East Division",
@@ -101,6 +101,21 @@
      "strk": "W1"
     },
     {
+     "team": "Windsor Jr Spitfires",
+     "teamId": "odb-96956",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
+     "t": 1,
+     "pts": 11,
+     "gf": 27,
+     "ga": 14,
+     "diff": 13,
+     "l10": "5-1-1",
+     "strk": "W3"
+    },
+    {
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96949",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
@@ -116,34 +131,19 @@
      "strk": "L1"
     },
     {
-     "team": "Windsor Jr Spitfires",
-     "teamId": "odb-96956",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
-     "w": 4,
-     "l": 1,
-     "t": 1,
-     "pts": 9,
-     "gf": 20,
-     "ga": 11,
-     "diff": 9,
-     "l10": "4-1-1",
-     "strk": "W2"
-    },
-    {
      "team": "London Jr Knights",
      "teamId": "odb-96954",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 9,
-     "gf": 27,
-     "ga": 15,
-     "diff": 12,
-     "l10": "4-3-1",
-     "strk": "W2"
+     "gf": 30,
+     "ga": 22,
+     "diff": 8,
+     "l10": "4-4-1",
+     "strk": "L1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
