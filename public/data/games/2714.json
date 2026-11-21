@@ -881,14 +881,17 @@
   "start": "2026-11-21T11:45:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sports Park (2)",
   "code": "U11S5",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3181763
+  }
  },
  {
   "id": 2375382,
@@ -896,14 +899,17 @@
   "start": "2026-11-21T12:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U11S43",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3181764
+  }
  },
  {
   "id": 2375402,
