@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-21T02:12:24.337Z",
+ "updatedAt": "2026-11-21T04:42:20.231Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96973",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 10,
-     "w": 9,
+     "gp": 11,
+     "w": 10,
      "l": 0,
      "t": 1,
-     "pts": 19,
-     "gf": 55,
-     "ga": 8,
-     "diff": 47,
-     "l10": "9-0-1",
-     "strk": "W9"
+     "pts": 21,
+     "gf": 70,
+     "ga": 9,
+     "diff": 61,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "Sun County Panthers",
@@ -144,16 +144,16 @@
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96980",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 4,
-     "gf": 16,
-     "ga": 30,
-     "diff": -14,
-     "l10": "2-5",
-     "strk": "L1"
+     "gf": 17,
+     "ga": 45,
+     "diff": -28,
+     "l10": "2-6",
+     "strk": "L2"
     },
     {
      "team": "Chatham-Kent Cyclones",
