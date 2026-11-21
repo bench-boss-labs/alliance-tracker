@@ -1928,20 +1928,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2728:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2728:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
+ },
+ {
+  "id": "2728:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2728:london-jr-knights",
