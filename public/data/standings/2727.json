@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-20T02:20:01.868Z",
+ "updatedAt": "2026-11-21T21:19:31.796Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W1"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97262",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 10,
+     "w": 7,
+     "l": 1,
+     "t": 2,
+     "pts": 16,
+     "gf": 37,
+     "ga": 17,
+     "diff": 20,
+     "l10": "7-1-2",
+     "strk": "W1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -48,21 +63,6 @@
      "ga": 20,
      "diff": 23,
      "l10": "7-1-2",
-     "strk": "T1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97262",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 9,
-     "w": 6,
-     "l": 1,
-     "t": 2,
-     "pts": 14,
-     "gf": 32,
-     "ga": 15,
-     "diff": 17,
-     "l10": "6-1-2",
      "strk": "T1"
     },
     {
@@ -144,16 +144,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97259",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 12,
+     "gp": 13,
      "w": 4,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 8,
-     "gf": 34,
-     "ga": 47,
-     "diff": -13,
+     "gf": 36,
+     "ga": 52,
+     "diff": -16,
      "l10": "4-6",
-     "strk": "W3"
+     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
