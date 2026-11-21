@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-21T19:28:13.843Z",
+ "updatedAt": "2026-11-21T22:28:39.696Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97043",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 9,
+     "gp": 10,
+     "w": 10,
      "l": 0,
      "t": 0,
-     "pts": 18,
-     "gf": 66,
-     "ga": 11,
-     "diff": 55,
-     "l10": "9-0",
-     "strk": "W9"
+     "pts": 20,
+     "gf": 70,
+     "ga": 13,
+     "diff": 57,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -159,16 +159,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97297",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
-     "gf": 13,
-     "ga": 36,
-     "diff": -23,
-     "l10": "1-8",
-     "strk": "L5"
+     "gf": 15,
+     "ga": 40,
+     "diff": -25,
+     "l10": "1-9",
+     "strk": "L6"
     },
     {
      "team": "Stratford Warriors",
