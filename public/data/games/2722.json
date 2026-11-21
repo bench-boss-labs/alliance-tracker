@@ -1319,14 +1319,17 @@
   "start": "2026-11-21T13:30:00-05:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U14P8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-21/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3182229
+  }
  },
  {
   "id": 2374843,
@@ -1334,14 +1337,17 @@
   "start": "2026-11-21T14:30:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U14P138",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3182230
+  }
  },
  {
   "id": 2374717,

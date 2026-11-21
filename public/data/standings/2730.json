@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-21T20:30:18.311Z",
+ "updatedAt": "2026-11-21T21:40:40.403Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "L3"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97269",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 13,
+     "w": 4,
+     "l": 5,
+     "t": 4,
+     "pts": 12,
+     "gf": 37,
+     "ga": 38,
+     "diff": -1,
+     "l10": "4-3-3",
+     "strk": "W3"
+    },
+    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97271",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -154,21 +169,6 @@
      "diff": -9,
      "l10": "3-6-1",
      "strk": "T1"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97269",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 12,
-     "w": 3,
-     "l": 5,
-     "t": 4,
-     "pts": 10,
-     "gf": 32,
-     "ga": 37,
-     "diff": -5,
-     "l10": "3-4-3",
-     "strk": "W2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -234,16 +234,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 11,
+     "gp": 12,
      "w": 0,
-     "l": 10,
+     "l": 11,
      "t": 1,
      "pts": 1,
-     "gf": 16,
-     "ga": 75,
-     "diff": -59,
+     "gf": 17,
+     "ga": 80,
+     "diff": -63,
      "l10": "0-9-1",
-     "strk": "L7"
+     "strk": "L8"
     }
    ]
   }

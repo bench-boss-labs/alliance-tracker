@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-21T21:08:16.395Z",
+ "updatedAt": "2026-11-21T21:37:50.759Z",
  "regular": [
   {
    "name": "East Division",
@@ -24,16 +24,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96951",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 9,
+     "gp": 10,
      "w": 6,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 13,
-     "gf": 39,
-     "ga": 27,
-     "diff": 12,
-     "l10": "6-2-1",
-     "strk": "W3"
+     "gf": 40,
+     "ga": 31,
+     "diff": 9,
+     "l10": "6-3-1",
+     "strk": "L1"
     },
     {
      "team": "Waterloo Wolves",
@@ -89,16 +89,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96950",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 7,
-     "w": 5,
+     "gp": 8,
+     "w": 6,
      "l": 1,
      "t": 1,
-     "pts": 11,
-     "gf": 35,
-     "ga": 14,
-     "diff": 21,
-     "l10": "5-1-1",
-     "strk": "W1"
+     "pts": 13,
+     "gf": 39,
+     "ga": 15,
+     "diff": 24,
+     "l10": "6-1-1",
+     "strk": "W2"
     },
     {
      "team": "Windsor Jr Spitfires",
