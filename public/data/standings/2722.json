@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-19T02:42:29.683Z",
+ "updatedAt": "2026-11-21T02:42:06.961Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96989",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 13,
-     "w": 8,
+     "gp": 14,
+     "w": 9,
      "l": 5,
      "t": 0,
-     "pts": 16,
-     "gf": 53,
+     "pts": 18,
+     "gf": 56,
      "ga": 28,
-     "diff": 25,
-     "l10": "7-3",
-     "strk": "W3"
+     "diff": 28,
+     "l10": "8-2",
+     "strk": "W4"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -159,16 +159,16 @@
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96992",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 2,
      "pts": 4,
      "gf": 15,
-     "ga": 25,
-     "diff": -10,
-     "l10": "1-5-2",
-     "strk": "T1"
+     "ga": 28,
+     "diff": -13,
+     "l10": "1-6-2",
+     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",

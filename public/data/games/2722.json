@@ -1283,14 +1283,17 @@
   "start": "2026-11-20T20:00:00-05:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U14P130",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-20/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3180972
+  }
  },
  {
   "id": 2374725,

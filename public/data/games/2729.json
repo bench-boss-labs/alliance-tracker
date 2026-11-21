@@ -1124,14 +1124,17 @@
   "start": "2026-11-20T20:00:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U16S111",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3180945
+  }
  },
  {
   "id": 2375942,

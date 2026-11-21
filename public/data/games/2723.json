@@ -1088,14 +1088,17 @@
   "start": "2026-11-20T20:00:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U14S77",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3180927
+  }
  },
  {
   "id": 2375634,
