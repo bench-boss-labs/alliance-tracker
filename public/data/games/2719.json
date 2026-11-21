@@ -1073,14 +1073,17 @@
   "start": "2026-11-21T12:30:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 5,
+  "status": "final",
   "venue": "PERC (PERC)",
   "code": "U13P13",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-11-21/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3181777
+  }
  },
  {
   "id": 2374622,

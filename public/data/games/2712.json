@@ -1508,14 +1508,17 @@
   "start": "2026-11-21T12:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U10BE18",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-21/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3181705
+  }
  },
  {
   "id": 2379449,

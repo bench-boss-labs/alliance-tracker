@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-21T04:42:20.231Z",
+ "updatedAt": "2026-11-21T19:09:39.349Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96973",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 11,
-     "w": 10,
+     "gp": 12,
+     "w": 11,
      "l": 0,
      "t": 1,
-     "pts": 21,
-     "gf": 70,
+     "pts": 23,
+     "gf": 75,
      "ga": 9,
-     "diff": 61,
+     "diff": 66,
      "l10": "10-0",
-     "strk": "W10"
+     "strk": "W11"
     },
     {
      "team": "Sun County Panthers",
@@ -54,16 +54,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96979",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 10,
+     "gp": 11,
      "w": 7,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 15,
      "gf": 49,
-     "ga": 28,
-     "diff": 21,
+     "ga": 33,
+     "diff": 16,
      "l10": "7-2-1",
-     "strk": "W3"
+     "strk": "L1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
