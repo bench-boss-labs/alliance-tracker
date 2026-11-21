@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-21T19:17:19.520Z",
+ "updatedAt": "2026-11-21T19:47:27.108Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96945",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
+     "gp": 11,
      "w": 8,
      "l": 1,
-     "t": 1,
-     "pts": 17,
-     "gf": 55,
-     "ga": 17,
+     "t": 2,
+     "pts": 18,
+     "gf": 57,
+     "ga": 19,
      "diff": 38,
      "l10": "8-1-1",
-     "strk": "W2"
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -116,6 +116,21 @@
      "strk": "W3"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96940",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 55,
+     "ga": 12,
+     "diff": 43,
+     "l10": "5-2-1",
+     "strk": "T1"
+    },
+    {
      "team": "London Jr Knights",
      "teamId": "odb-96944",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -129,21 +144,6 @@
      "diff": 7,
      "l10": "5-2",
      "strk": "L1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96940",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 7,
-     "w": 5,
-     "l": 2,
-     "t": 0,
-     "pts": 10,
-     "gf": 53,
-     "ga": 10,
-     "diff": 43,
-     "l10": "5-2",
-     "strk": "W1"
     },
     {
      "team": "Chatham-Kent Cyclones",
