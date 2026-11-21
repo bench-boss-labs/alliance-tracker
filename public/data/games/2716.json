@@ -866,14 +866,17 @@
   "start": "2026-11-21T15:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Essex (Libro)",
   "code": "U12P55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-11-21/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3182640
+  }
  },
  {
   "id": 2374371,
