@@ -794,14 +794,17 @@
   "start": "2026-11-20T18:30:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U12P106",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3180956
+  }
  },
  {
   "id": 2374268,
@@ -809,14 +812,17 @@
   "start": "2026-11-20T19:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U12P50",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3180957
+  }
  },
  {
   "id": 2374370,

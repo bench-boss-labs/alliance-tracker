@@ -704,20 +704,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2716:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2716:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2716:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2716:huron-perth-lakers",
@@ -1680,20 +1680,20 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2725:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": null,
-  "logo": "logos/91cb455aba29.png"
- },
- {
   "id": "2725:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2725:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": null,
+  "logo": "logos/91cb455aba29.png"
  },
  {
   "id": "2725:waterloo-wolves",
@@ -2176,20 +2176,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2730:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
- },
- {
   "id": "2730:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2730:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-blue",

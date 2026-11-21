@@ -1037,14 +1037,17 @@
   "start": "2026-11-20T19:30:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U13P16",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3180968
+  }
  },
  {
   "id": 2374683,
