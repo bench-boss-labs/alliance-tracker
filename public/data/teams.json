@@ -2168,20 +2168,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2730:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2730:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2730:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2730:oakridge-aeros",
