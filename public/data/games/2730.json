@@ -1652,14 +1652,17 @@
   "start": "2026-11-20T20:15:00-05:00",
   "away": "Burlington Raiders",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U16BR85",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3180871
+  }
  },
  {
   "id": 2379024,

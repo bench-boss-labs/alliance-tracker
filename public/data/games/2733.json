@@ -1436,14 +1436,17 @@
   "start": "2026-11-20T19:45:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U18BR7",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-20/19:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3180955
+  }
  },
  {
   "id": 2379268,
