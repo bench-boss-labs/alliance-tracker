@@ -1,6 +1,6 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-11-21T21:38:40.294Z",
+ "updatedAt": "2026-11-21T21:58:46.800Z",
  "regular": [
   {
    "name": "",
@@ -39,31 +39,31 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97055",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
-     "w": 7,
+     "gp": 11,
+     "w": 8,
      "l": 2,
      "t": 1,
-     "pts": 15,
-     "gf": 40,
-     "ga": 17,
-     "diff": 23,
+     "pts": 17,
+     "gf": 43,
+     "ga": 18,
+     "diff": 25,
      "l10": "7-2-1",
-     "strk": "W3"
+     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves",
      "teamId": "odb-97060",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 7,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 14,
-     "gf": 44,
-     "ga": 17,
-     "diff": 27,
-     "l10": "7-2",
-     "strk": "W3"
+     "gf": 45,
+     "ga": 20,
+     "diff": 25,
+     "l10": "7-3",
+     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
