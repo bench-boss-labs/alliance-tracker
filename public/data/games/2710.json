@@ -860,14 +860,17 @@
   "start": "2026-11-21T12:00:00-05:00",
   "away": "Brantford 99ers",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U10P75",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-21/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3181566
+  }
  },
  {
   "id": 2374030,

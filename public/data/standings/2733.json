@@ -1,10 +1,25 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-21T03:24:12.136Z",
+ "updatedAt": "2026-11-21T18:39:31.885Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves White",
+     "teamId": "odb-97133",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 12,
+     "w": 9,
+     "l": 1,
+     "t": 2,
+     "pts": 20,
+     "gf": 46,
+     "ga": 18,
+     "diff": 28,
+     "l10": "8-0-2",
+     "strk": "T1"
+    },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-97123",
@@ -34,21 +49,6 @@
      "diff": 32,
      "l10": "8-0-2",
      "strk": "T1"
-    },
-    {
-     "team": "Waterloo Wolves White",
-     "teamId": "odb-97133",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 11,
-     "w": 9,
-     "l": 1,
-     "t": 1,
-     "pts": 19,
-     "gf": 44,
-     "ga": 16,
-     "diff": 28,
-     "l10": "9-0-1",
-     "strk": "W4"
     },
     {
      "team": "Brantford 99ers",
@@ -81,6 +81,21 @@
      "strk": "L2"
     },
     {
+     "team": "Waterloo Wolves Gold",
+     "teamId": "odb-97130",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 12,
+     "w": 4,
+     "l": 5,
+     "t": 3,
+     "pts": 11,
+     "gf": 26,
+     "ga": 34,
+     "diff": -8,
+     "l10": "2-5-3",
+     "strk": "T1"
+    },
+    {
      "team": "West London Hawks Black",
      "teamId": "odb-97129",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -109,21 +124,6 @@
      "diff": 2,
      "l10": "4-4-2",
      "strk": "L1"
-    },
-    {
-     "team": "Waterloo Wolves Gold",
-     "teamId": "odb-97130",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 11,
-     "w": 4,
-     "l": 5,
-     "t": 2,
-     "pts": 10,
-     "gf": 24,
-     "ga": 32,
-     "diff": -8,
-     "l10": "3-5-2",
-     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs Blue",
