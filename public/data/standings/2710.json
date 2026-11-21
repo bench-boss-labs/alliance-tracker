@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-21T19:47:27.108Z",
+ "updatedAt": "2026-11-21T20:17:27.417Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,34 +51,34 @@
      "strk": "L1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-96938",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
-     "w": 1,
-     "l": 8,
-     "t": 0,
-     "pts": 2,
-     "gf": 16,
-     "ga": 69,
-     "diff": -53,
-     "l10": "1-8",
-     "strk": "L6"
-    },
-    {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96941",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 9,
-     "w": 1,
+     "gp": 10,
+     "w": 2,
      "l": 8,
      "t": 0,
+     "pts": 4,
+     "gf": 34,
+     "ga": 62,
+     "diff": -28,
+     "l10": "2-8",
+     "strk": "W1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-96938",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 10,
+     "w": 1,
+     "l": 9,
+     "t": 0,
      "pts": 2,
-     "gf": 29,
-     "ga": 58,
-     "diff": -29,
-     "l10": "1-8",
-     "strk": "L3"
+     "gf": 20,
+     "ga": 74,
+     "diff": -54,
+     "l10": "1-9",
+     "strk": "L7"
     }
    ]
   },

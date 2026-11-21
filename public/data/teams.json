@@ -24,20 +24,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2710:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2710:huron-perth-lakers",
   "name": "Huron-Perth Lakers",
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
+ },
+ {
+  "id": "2710:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2710:sarnia-lambton-jr-sting",
