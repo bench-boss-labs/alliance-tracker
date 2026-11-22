@@ -1298,14 +1298,17 @@
   "start": "2026-11-22T13:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U11BR12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-22/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184646
+  }
  },
  {
   "id": 2379382,
