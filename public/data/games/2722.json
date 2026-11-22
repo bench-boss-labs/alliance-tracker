@@ -1373,14 +1373,17 @@
   "start": "2026-11-21T19:00:00-05:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U14P74",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-21/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3183099
+  }
  },
  {
   "id": 2374711,

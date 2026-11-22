@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-21T22:49:17.139Z",
+ "updatedAt": "2026-11-22T03:04:07.281Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 13,
-     "w": 9,
+     "gp": 14,
+     "w": 10,
      "l": 3,
      "t": 1,
-     "pts": 19,
-     "gf": 50,
+     "pts": 21,
+     "gf": 53,
      "ga": 26,
-     "diff": 24,
+     "diff": 27,
      "l10": "7-2-1",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "team": "Sun County Panthers",
@@ -129,16 +129,16 @@
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96992",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 2,
      "pts": 6,
      "gf": 22,
-     "ga": 30,
-     "diff": -8,
-     "l10": "2-6-2",
-     "strk": "W1"
+     "ga": 33,
+     "diff": -11,
+     "l10": "2-7-1",
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",

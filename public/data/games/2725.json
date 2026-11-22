@@ -1229,14 +1229,17 @@
   "start": "2026-11-21T19:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 11,
+  "status": "final",
   "venue": "Nature Fresh RC (Unico)",
   "code": "U15P101",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4525/2026-11-21/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3183084
+  }
  },
  {
   "id": 2374900,

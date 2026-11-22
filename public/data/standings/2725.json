@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-22T00:55:32.422Z",
+ "updatedAt": "2026-11-22T03:04:37.159Z",
  "regular": [
   {
    "name": "",
@@ -114,31 +114,31 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 13,
-     "w": 3,
+     "gp": 14,
+     "w": 4,
      "l": 7,
      "t": 3,
-     "pts": 9,
-     "gf": 24,
-     "ga": 46,
-     "diff": -22,
-     "l10": "1-7-2",
-     "strk": "L2"
+     "pts": 11,
+     "gf": 35,
+     "ga": 47,
+     "diff": -12,
+     "l10": "2-6-2",
+     "strk": "W1"
     },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 12,
+     "gp": 13,
      "w": 3,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 7,
-     "gf": 22,
-     "ga": 48,
-     "diff": -26,
+     "gf": 23,
+     "ga": 59,
+     "diff": -36,
      "l10": "3-6-1",
-     "strk": "W2"
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",

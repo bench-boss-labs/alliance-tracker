@@ -1,6 +1,6 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-11-21T21:58:46.800Z",
+ "updatedAt": "2026-11-22T03:03:17.604Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97058",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
      "l": 3,
-     "t": 1,
-     "pts": 9,
-     "gf": 24,
-     "ga": 16,
+     "t": 2,
+     "pts": 10,
+     "gf": 29,
+     "ga": 21,
      "diff": 8,
-     "l10": "4-3-1",
-     "strk": "T1"
+     "l10": "4-3-2",
+     "strk": "T2"
     },
     {
      "team": "Brantford 99ers",
@@ -114,16 +114,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97059",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
      "l": 4,
-     "t": 2,
-     "pts": 8,
-     "gf": 25,
-     "ga": 28,
+     "t": 3,
+     "pts": 9,
+     "gf": 30,
+     "ga": 33,
      "diff": -3,
-     "l10": "3-4-2",
-     "strk": "L3"
+     "l10": "3-4-3",
+     "strk": "T1"
     },
     {
      "team": "St. Thomas Jr Stars",
