@@ -128,6 +128,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2711:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2711,
@@ -142,14 +150,6 @@
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:brantford-99ers",
@@ -424,20 +424,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2713:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
- },
- {
   "id": "2713:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2713:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
  },
  {
   "id": "2713:sarnia-lambton-jr-sting",
@@ -1016,20 +1016,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2719:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2719:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2719:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2719:waterloo-wolves",
@@ -1224,20 +1224,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2721:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2721:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2721:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2721:oakridge-aeros",
@@ -2208,6 +2208,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2730:lambeth-lancers",
+  "name": "Lambeth Lancers",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
+ },
+ {
   "id": "2730:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2730,
@@ -2222,14 +2230,6 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2730:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2730:burlington-bulldogs-blue",

@@ -1706,14 +1706,17 @@
   "start": "2026-11-22T16:30:00-05:00",
   "away": "Lambeth Lancers",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U16BR55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-22/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184932
+  }
  },
  {
   "id": 2379006,

@@ -1334,14 +1334,17 @@
   "start": "2026-11-22T17:00:00-05:00",
   "away": "Brantford 99ers",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U13BR5",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-22/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184737
+  }
  },
  {
   "id": 2378021,
