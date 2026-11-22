@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-22T03:43:09.794Z",
+ "updatedAt": "2026-11-22T21:10:54.453Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97109",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 12,
-     "w": 10,
+     "gp": 13,
+     "w": 11,
      "l": 1,
      "t": 1,
-     "pts": 21,
-     "gf": 60,
-     "ga": 17,
-     "diff": 43,
+     "pts": 23,
+     "gf": 65,
+     "ga": 19,
+     "diff": 46,
      "l10": "8-1-1",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -54,16 +54,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97105",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
+     "gp": 9,
      "w": 6,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 13,
-     "gf": 38,
-     "ga": 14,
-     "diff": 24,
-     "l10": "6-1-1",
-     "strk": "W2"
+     "gf": 40,
+     "ga": 19,
+     "diff": 21,
+     "l10": "6-2-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

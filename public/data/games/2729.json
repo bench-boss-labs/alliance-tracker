@@ -1196,14 +1196,17 @@
   "start": "2026-11-22T14:00:00-05:00",
   "away": "London Jr Knights Green",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U16S107",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3184685
+  }
  },
  {
   "id": 2375761,
