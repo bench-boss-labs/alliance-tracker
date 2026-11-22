@@ -2096,20 +2096,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2729:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2729:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2729:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2729:woodstock-jr-navy-vets",

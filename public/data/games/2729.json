@@ -1178,14 +1178,17 @@
   "start": "2026-11-21T20:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 9,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U16S53",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3183076
+  }
  },
  {
   "id": 2375943,
