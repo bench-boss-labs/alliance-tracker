@@ -968,14 +968,17 @@
   "start": "2026-11-22T13:45:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U10P2",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184518
+  }
  },
  {
   "id": 2373917,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-22T19:37:54.039Z",
+ "updatedAt": "2026-11-22T19:57:59.098Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,16 +54,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96941",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 4,
-     "gf": 34,
-     "ga": 62,
-     "diff": -28,
+     "gf": 36,
+     "ga": 68,
+     "diff": -32,
      "l10": "2-8",
-     "strk": "W1"
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",
@@ -116,6 +116,21 @@
      "strk": "W4"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96940",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 9,
+     "w": 6,
+     "l": 2,
+     "t": 1,
+     "pts": 13,
+     "gf": 61,
+     "ga": 14,
+     "diff": 47,
+     "l10": "6-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "London Jr Knights",
      "teamId": "odb-96944",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -127,21 +142,6 @@
      "gf": 32,
      "ga": 25,
      "diff": 7,
-     "l10": "5-2-1",
-     "strk": "T1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96940",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 8,
-     "w": 5,
-     "l": 2,
-     "t": 1,
-     "pts": 11,
-     "gf": 55,
-     "ga": 12,
-     "diff": 43,
      "l10": "5-2-1",
      "strk": "T1"
     },

@@ -1181,14 +1181,17 @@
   "start": "2026-11-22T12:45:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Sault Major Jr Greyhounds",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U13P106",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184017
+  }
  },
  {
   "id": 2374609,
