@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-21T19:29:53.954Z",
+ "updatedAt": "2026-11-22T21:49:52.289Z",
  "regular": [
   {
    "name": "",
@@ -159,31 +159,31 @@
      "team": "London Bandits",
      "teamId": "odb-97225",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 12,
-     "w": 2,
+     "gp": 13,
+     "w": 3,
      "l": 10,
      "t": 0,
-     "pts": 4,
-     "gf": 19,
-     "ga": 63,
-     "diff": -44,
-     "l10": "2-8",
-     "strk": "L1"
+     "pts": 6,
+     "gf": 21,
+     "ga": 64,
+     "diff": -43,
+     "l10": "3-7",
+     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97221",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 3,
-     "gf": 18,
-     "ga": 50,
-     "diff": -32,
+     "gf": 19,
+     "ga": 52,
+     "diff": -33,
      "l10": "1-8-1",
-     "strk": "L1"
+     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",
