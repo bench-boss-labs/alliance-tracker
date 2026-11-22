@@ -1,10 +1,25 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-11-22T03:03:17.604Z",
+ "updatedAt": "2026-11-22T18:29:34.599Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97056",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 10,
+     "w": 9,
+     "l": 0,
+     "t": 1,
+     "pts": 19,
+     "gf": 61,
+     "ga": 11,
+     "diff": 50,
+     "l10": "9-0-1",
+     "strk": "W8"
+    },
     {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97287",
@@ -19,21 +34,6 @@
      "diff": 30,
      "l10": "7-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97056",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 8,
-     "l": 0,
-     "t": 1,
-     "pts": 17,
-     "gf": 51,
-     "ga": 9,
-     "diff": 42,
-     "l10": "8-0-1",
-     "strk": "W7"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -69,16 +69,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97061",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 12,
-     "gf": 27,
-     "ga": 19,
-     "diff": 8,
-     "l10": "5-2-2",
-     "strk": "W1"
+     "gf": 29,
+     "ga": 29,
+     "diff": 0,
+     "l10": "5-3-2",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",

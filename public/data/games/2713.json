@@ -935,14 +935,17 @@
   "start": "2026-11-22T11:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U11P5",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3183848
+  }
  },
  {
   "id": 2373698,

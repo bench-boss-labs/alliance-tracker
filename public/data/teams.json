@@ -688,20 +688,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2716:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2716:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2716:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2716:waterloo-wolves",
@@ -744,20 +744,20 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2717:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2717:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2717:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2717:kitchener-jr-rangers-red",
