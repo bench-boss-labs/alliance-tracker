@@ -1334,14 +1334,17 @@
   "start": "2026-11-22T14:15:00-05:00",
   "away": "Burlington Bulldogs White",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U11BR82",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-22/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184648
+  }
  },
  {
   "id": 2379337,
@@ -1349,14 +1352,17 @@
   "start": "2026-11-22T15:15:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U11BR71",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-22/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184649
+  }
  },
  {
   "id": 2379369,
