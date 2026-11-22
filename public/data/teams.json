@@ -88,20 +88,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2711:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2711:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2711:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2711:waterloo-wolves",
@@ -1048,6 +1048,14 @@
   "logo": "logos/e0787358df89.png"
  },
  {
+  "id": "2719:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2719:sault-major-jr-greyhounds",
   "name": "Sault Major Jr Greyhounds",
   "divisionId": 2719,
@@ -1062,14 +1070,6 @@
   "division": "U13 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
- },
- {
-  "id": "2719:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2720:london-jr-knights-green",
@@ -1568,14 +1568,6 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2724:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
- },
- {
   "id": "2724:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2724,
@@ -1584,12 +1576,12 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2724:burlington-raiders",
-  "name": "Burlington Raiders",
+  "id": "2724:lambeth-lancers",
+  "name": "Lambeth Lancers",
   "divisionId": 2724,
   "division": "U14 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2724:oakridge-aeros",
@@ -1598,6 +1590,14 @@
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2724:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2724:burlington-bulldogs-blue",

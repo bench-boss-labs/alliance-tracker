@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-21T03:22:32.170Z",
+ "updatedAt": "2026-11-22T00:15:57.849Z",
  "regular": [
   {
    "name": "",
@@ -114,16 +114,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97237",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
+     "gp": 11,
      "w": 5,
      "l": 4,
-     "t": 1,
-     "pts": 11,
-     "gf": 41,
-     "ga": 36,
+     "t": 2,
+     "pts": 12,
+     "gf": 46,
+     "ga": 41,
      "diff": 5,
-     "l10": "5-4-1",
-     "strk": "L1"
+     "l10": "4-4-2",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -156,6 +156,21 @@
      "strk": "W2"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97244",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 12,
+     "w": 3,
+     "l": 7,
+     "t": 2,
+     "pts": 8,
+     "gf": 38,
+     "ga": 54,
+     "diff": -16,
+     "l10": "3-6-1",
+     "strk": "T1"
+    },
+    {
      "team": "Lambeth Lancers",
      "teamId": "odb-97249",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
@@ -167,36 +182,6 @@
      "gf": 38,
      "ga": 64,
      "diff": -26,
-     "l10": "3-6-1",
-     "strk": "L2"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97244",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 11,
-     "w": 3,
-     "l": 7,
-     "t": 1,
-     "pts": 7,
-     "gf": 33,
-     "ga": 49,
-     "diff": -16,
-     "l10": "3-7",
-     "strk": "W1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97247",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 12,
-     "w": 3,
-     "l": 8,
-     "t": 1,
-     "pts": 7,
-     "gf": 23,
-     "ga": 47,
-     "diff": -24,
      "l10": "3-6-1",
      "strk": "L2"
     },
@@ -214,6 +199,21 @@
      "diff": -22,
      "l10": "3-6-1",
      "strk": "L1"
+    },
+    {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97247",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 12,
+     "w": 3,
+     "l": 8,
+     "t": 1,
+     "pts": 7,
+     "gf": 23,
+     "ga": 47,
+     "diff": -24,
+     "l10": "3-6-1",
+     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs Blue",

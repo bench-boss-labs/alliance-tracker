@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-21T23:08:53.317Z",
+ "updatedAt": "2026-11-22T00:14:47.802Z",
  "regular": [
   {
    "name": "",
@@ -141,19 +141,34 @@
      "strk": "T1"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96972",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 11,
+     "w": 1,
+     "l": 8,
+     "t": 2,
+     "pts": 4,
+     "gf": 20,
+     "ga": 46,
+     "diff": -26,
+     "l10": "1-7-2",
+     "strk": "W1"
+    },
+    {
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96980",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
-     "gf": 19,
-     "ga": 50,
-     "diff": -31,
-     "l10": "2-7",
-     "strk": "L3"
+     "gf": 21,
+     "ga": 55,
+     "diff": -34,
+     "l10": "2-8",
+     "strk": "L4"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -168,21 +183,6 @@
      "ga": 59,
      "diff": -44,
      "l10": "1-8-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96972",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 10,
-     "w": 0,
-     "l": 8,
-     "t": 2,
-     "pts": 2,
-     "gf": 15,
-     "ga": 44,
-     "diff": -29,
-     "l10": "0-8-2",
      "strk": "L1"
     }
    ]
