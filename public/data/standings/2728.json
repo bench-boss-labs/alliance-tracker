@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-22T20:40:36.364Z",
+ "updatedAt": "2026-11-22T23:11:02.532Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "T1"
     },
     {
+     "team": "Chatham-Kent Cyclones",
+     "teamId": "odb-97007",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+     "gp": 13,
+     "w": 5,
+     "l": 6,
+     "t": 2,
+     "pts": 12,
+     "gf": 38,
+     "ga": 36,
+     "diff": 2,
+     "l10": "3-5-2",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97005",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -77,21 +92,6 @@
      "gf": 34,
      "ga": 44,
      "diff": -10,
-     "l10": "2-6-2",
-     "strk": "L1"
-    },
-    {
-     "team": "Chatham-Kent Cyclones",
-     "teamId": "odb-97007",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 12,
-     "w": 4,
-     "l": 6,
-     "t": 2,
-     "pts": 10,
-     "gf": 33,
-     "ga": 34,
-     "diff": -1,
      "l10": "2-6-2",
      "strk": "L1"
     },
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97010",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 5,
-     "gf": 19,
-     "ga": 35,
-     "diff": -16,
+     "gf": 21,
+     "ga": 40,
+     "diff": -19,
      "l10": "2-7-1",
-     "strk": "T1"
+     "strk": "L1"
     },
     {
      "team": "Cambridge Jr RedHawks",

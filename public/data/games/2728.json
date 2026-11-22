@@ -1175,14 +1175,17 @@
   "start": "2026-11-22T15:00:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U16P125",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-22/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184729
+  }
  },
  {
   "id": 2375147,
