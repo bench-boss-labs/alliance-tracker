@@ -1720,6 +1720,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2726:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2726:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2726,
@@ -1742,14 +1750,6 @@
   "division": "U15 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2726:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2726:sarnia-jr-sting",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-21T22:51:07.064Z",
+ "updatedAt": "2026-11-22T00:26:45.647Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97115",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 13,
-     "w": 11,
+     "gp": 14,
+     "w": 12,
      "l": 0,
      "t": 2,
-     "pts": 24,
-     "gf": 66,
-     "ga": 24,
-     "diff": 42,
+     "pts": 26,
+     "gf": 73,
+     "ga": 25,
+     "diff": 48,
      "l10": "9-0-1",
-     "strk": "W7"
+     "strk": "W8"
     },
     {
      "team": "Stratford Warriors",
@@ -144,16 +144,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97120",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 7,
-     "gf": 22,
-     "ga": 35,
-     "diff": -13,
-     "l10": "3-5-1",
-     "strk": "W1"
+     "gf": 23,
+     "ga": 42,
+     "diff": -19,
+     "l10": "3-6-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

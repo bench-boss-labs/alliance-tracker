@@ -1121,14 +1121,17 @@
   "start": "2026-11-21T17:15:00-05:00",
   "away": "London Jr Knights Green",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U15S78",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-21/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3182698
+  }
  },
  {
   "id": 2375687,

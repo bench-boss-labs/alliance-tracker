@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-21T19:28:43.804Z",
+ "updatedAt": "2026-11-22T00:24:05.569Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97196",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 10,
-     "w": 8,
+     "gp": 11,
+     "w": 9,
      "l": 2,
      "t": 0,
-     "pts": 16,
-     "gf": 51,
-     "ga": 19,
-     "diff": 32,
+     "pts": 18,
+     "gf": 57,
+     "ga": 22,
+     "diff": 35,
      "l10": "8-2",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Burlington Bulldogs White",
@@ -129,16 +129,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97201",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 8,
-     "gf": 31,
-     "ga": 28,
-     "diff": 3,
-     "l10": "4-5",
-     "strk": "W3"
+     "gf": 34,
+     "ga": 34,
+     "diff": 0,
+     "l10": "4-6",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",
