@@ -1,10 +1,25 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-11-22T19:38:43.515Z",
+ "updatedAt": "2026-11-22T20:29:17.405Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96960",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 13,
+     "w": 11,
+     "l": 0,
+     "t": 2,
+     "pts": 24,
+     "gf": 71,
+     "ga": 19,
+     "diff": 52,
+     "l10": "9-0-1",
+     "strk": "W9"
+    },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96962",
@@ -19,21 +34,6 @@
      "diff": 47,
      "l10": "7-1-2",
      "strk": "L1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96960",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 12,
-     "w": 10,
-     "l": 0,
-     "t": 2,
-     "pts": 22,
-     "gf": 61,
-     "ga": 13,
-     "diff": 48,
-     "l10": "8-0-2",
-     "strk": "W8"
     },
     {
      "team": "London Jr Knights",
@@ -144,16 +144,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96965",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 12,
+     "gp": 13,
      "w": 1,
-     "l": 11,
+     "l": 12,
      "t": 0,
      "pts": 2,
-     "gf": 19,
-     "ga": 82,
-     "diff": -63,
+     "gf": 25,
+     "ga": 92,
+     "diff": -67,
      "l10": "1-9",
-     "strk": "L4"
+     "strk": "L5"
     }
    ]
   }

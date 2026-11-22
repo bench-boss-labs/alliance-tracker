@@ -1199,14 +1199,17 @@
   "start": "2026-11-22T13:30:00-05:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 8,
+  "status": "final",
   "venue": "WFCU (Bowl)",
   "code": "U13P83",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184677
+  }
  },
  {
   "id": 2374521,

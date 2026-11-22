@@ -956,14 +956,17 @@
   "start": "2026-11-22T13:45:00-05:00",
   "away": "Sun County Panthers",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 10,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U12P110",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-22/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184449
+  }
  },
  {
   "id": 2374286,
