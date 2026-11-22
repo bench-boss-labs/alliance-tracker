@@ -1624,20 +1624,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
- },
- {
   "id": "2725:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
+ },
+ {
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2725:kitchener-jr-rangers",

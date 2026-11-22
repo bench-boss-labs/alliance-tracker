@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-22T16:22:47.003Z",
+ "updatedAt": "2026-11-22T20:40:36.364Z",
  "regular": [
   {
    "name": "",
@@ -129,31 +129,31 @@
      "team": "Cambridge Jr RedHawks",
      "teamId": "odb-97006",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
-     "w": 1,
+     "gp": 11,
+     "w": 2,
      "l": 9,
      "t": 0,
-     "pts": 2,
-     "gf": 23,
-     "ga": 74,
-     "diff": -51,
-     "l10": "1-9",
-     "strk": "L6"
+     "pts": 4,
+     "gf": 28,
+     "ga": 76,
+     "diff": -48,
+     "l10": "2-8",
+     "strk": "W1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-97011",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 47,
-     "diff": -42,
-     "l10": "0-8",
-     "strk": "L8"
+     "gf": 7,
+     "ga": 52,
+     "diff": -45,
+     "l10": "0-9",
+     "strk": "L9"
     }
    ]
   }
