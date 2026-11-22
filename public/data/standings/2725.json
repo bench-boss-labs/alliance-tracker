@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-22T03:04:37.159Z",
+ "updatedAt": "2026-11-22T20:09:50.683Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96993",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 13,
-     "w": 12,
+     "gp": 14,
+     "w": 13,
      "l": 1,
      "t": 0,
-     "pts": 24,
-     "gf": 50,
+     "pts": 26,
+     "gf": 54,
      "ga": 16,
-     "diff": 34,
+     "diff": 38,
      "l10": "9-1",
-     "strk": "W2"
+     "strk": "W3"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -69,16 +69,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96997",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 14,
+     "gp": 15,
      "w": 7,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 15,
      "gf": 40,
-     "ga": 34,
-     "diff": 6,
-     "l10": "5-4-1",
-     "strk": "L1"
+     "ga": 38,
+     "diff": 2,
+     "l10": "4-5-1",
+     "strk": "L2"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",

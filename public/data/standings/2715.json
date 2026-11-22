@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-22T19:17:56.272Z",
+ "updatedAt": "2026-11-22T20:08:50.547Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97196",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 11,
-     "w": 9,
+     "gp": 12,
+     "w": 10,
      "l": 2,
      "t": 0,
-     "pts": 18,
-     "gf": 57,
-     "ga": 22,
-     "diff": 35,
-     "l10": "8-2",
-     "strk": "W3"
+     "pts": 20,
+     "gf": 63,
+     "ga": 24,
+     "diff": 39,
+     "l10": "9-1",
+     "strk": "W4"
     },
     {
      "team": "Burlington Bulldogs Gold",
@@ -99,16 +99,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97190",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 11,
-     "gf": 25,
-     "ga": 15,
-     "diff": 10,
-     "l10": "5-3-1",
-     "strk": "W2"
+     "gf": 27,
+     "ga": 21,
+     "diff": 6,
+     "l10": "5-4-1",
+     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
