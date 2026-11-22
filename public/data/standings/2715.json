@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-22T00:54:02.521Z",
+ "updatedAt": "2026-11-22T19:17:56.272Z",
  "regular": [
   {
    "name": "",
@@ -129,16 +129,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97201",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 4,
+     "gp": 11,
+     "w": 5,
      "l": 6,
      "t": 0,
-     "pts": 8,
-     "gf": 34,
-     "ga": 34,
-     "diff": 0,
-     "l10": "4-6",
-     "strk": "L1"
+     "pts": 10,
+     "gf": 39,
+     "ga": 36,
+     "diff": 3,
+     "l10": "5-5",
+     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -174,16 +174,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97199",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 3,
-     "gf": 24,
-     "ga": 47,
-     "diff": -23,
+     "gf": 26,
+     "ga": 52,
+     "diff": -26,
      "l10": "1-8-1",
-     "strk": "L5"
+     "strk": "L6"
     },
     {
      "team": "Oakridge Aeros",
