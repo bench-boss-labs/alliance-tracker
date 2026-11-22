@@ -1409,14 +1409,17 @@
   "start": "2026-11-22T15:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "WFCU (Bowl)",
   "code": "U14P111",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184756
+  }
  },
  {
   "id": 2374715,
@@ -1424,14 +1427,17 @@
   "start": "2026-11-22T15:15:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U14P102",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-22/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184757
+  }
  },
  {
   "id": 2374814,

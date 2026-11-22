@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-22T00:44:37.119Z",
+ "updatedAt": "2026-11-22T21:41:12.446Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W1"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97087",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 12,
+     "w": 7,
+     "l": 5,
+     "t": 0,
+     "pts": 14,
+     "gf": 47,
+     "ga": 31,
+     "diff": 16,
+     "l10": "5-5",
+     "strk": "W2"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97088",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -64,21 +79,6 @@
      "diff": 10,
      "l10": "4-1-5",
      "strk": "T1"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97087",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 11,
-     "w": 6,
-     "l": 5,
-     "t": 0,
-     "pts": 12,
-     "gf": 42,
-     "ga": 29,
-     "diff": 13,
-     "l10": "5-5",
-     "strk": "W1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -159,16 +159,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97078",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 4,
-     "gf": 21,
-     "ga": 35,
-     "diff": -14,
+     "gf": 23,
+     "ga": 40,
+     "diff": -17,
      "l10": "2-8",
-     "strk": "L4"
+     "strk": "L5"
     },
     {
      "team": "Waterloo Wolves",
