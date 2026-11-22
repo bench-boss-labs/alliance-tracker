@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-21T18:39:31.885Z",
+ "updatedAt": "2026-11-22T00:07:28.546Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,16 @@
      "team": "West London Hawks Black",
      "teamId": "odb-97129",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 10,
-     "gf": 29,
-     "ga": 20,
-     "diff": 9,
-     "l10": "4-2-2",
-     "strk": "W2"
+     "gf": 30,
+     "ga": 23,
+     "diff": 7,
+     "l10": "4-3-2",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -186,6 +186,21 @@
      "strk": "L1"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97125",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 11,
+     "w": 2,
+     "l": 7,
+     "t": 2,
+     "pts": 6,
+     "gf": 30,
+     "ga": 46,
+     "diff": -16,
+     "l10": "2-6-2",
+     "strk": "W1"
+    },
+    {
      "team": "Lambeth Lancers",
      "teamId": "odb-98279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
@@ -213,21 +228,6 @@
      "ga": 41,
      "diff": -22,
      "l10": "2-8",
-     "strk": "L1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97125",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 10,
-     "w": 1,
-     "l": 7,
-     "t": 2,
-     "pts": 4,
-     "gf": 27,
-     "ga": 45,
-     "diff": -18,
-     "l10": "1-7-2",
      "strk": "L1"
     },
     {
