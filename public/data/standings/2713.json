@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-22T18:28:15.062Z",
+ "updatedAt": "2026-11-22T18:58:04.720Z",
  "regular": [
   {
    "name": "East Division",
@@ -89,16 +89,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96950",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 39,
-     "ga": 15,
-     "diff": 24,
-     "l10": "6-1-1",
-     "strk": "W2"
+     "pts": 15,
+     "gf": 46,
+     "ga": 18,
+     "diff": 28,
+     "l10": "7-1-1",
+     "strk": "W3"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -119,16 +119,16 @@
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96949",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 10,
+     "gp": 11,
      "w": 5,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 11,
-     "gf": 38,
-     "ga": 40,
-     "diff": -2,
-     "l10": "5-4-1",
-     "strk": "T1"
+     "gf": 41,
+     "ga": 47,
+     "diff": -6,
+     "l10": "4-5-1",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights",

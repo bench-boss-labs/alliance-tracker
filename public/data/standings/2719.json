@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-22T00:14:47.802Z",
+ "updatedAt": "2026-11-22T18:59:44.173Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96973",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 12,
-     "w": 11,
+     "gp": 13,
+     "w": 12,
      "l": 0,
      "t": 1,
-     "pts": 23,
-     "gf": 75,
+     "pts": 25,
+     "gf": 87,
      "ga": 9,
-     "diff": 66,
+     "diff": 78,
      "l10": "10-0",
-     "strk": "W11"
+     "strk": "W12"
     },
     {
      "team": "Sun County Panthers",
@@ -144,16 +144,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96972",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 11,
+     "gp": 12,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 2,
      "pts": 4,
      "gf": 20,
-     "ga": 46,
-     "diff": -26,
+     "ga": 58,
+     "diff": -38,
      "l10": "1-7-2",
-     "strk": "W1"
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",

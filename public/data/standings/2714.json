@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-21T22:28:39.696Z",
+ "updatedAt": "2026-11-22T18:58:34.078Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97286",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 9,
-     "w": 8,
+     "gp": 10,
+     "w": 9,
      "l": 1,
      "t": 0,
-     "pts": 16,
-     "gf": 60,
-     "ga": 24,
-     "diff": 36,
-     "l10": "8-1",
-     "strk": "W6"
+     "pts": 18,
+     "gf": 66,
+     "ga": 26,
+     "diff": 40,
+     "l10": "9-1",
+     "strk": "W7"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -99,16 +99,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97048",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 10,
+     "gp": 11,
      "w": 4,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 9,
-     "gf": 34,
-     "ga": 41,
-     "diff": -7,
+     "gf": 36,
+     "ga": 47,
+     "diff": -11,
      "l10": "4-5-1",
-     "strk": "W1"
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

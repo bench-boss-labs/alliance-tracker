@@ -953,14 +953,17 @@
   "start": "2026-11-22T12:15:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U11S8",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3183898
+  }
  },
  {
   "id": 2375393,
