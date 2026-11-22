@@ -992,14 +992,17 @@
   "start": "2026-11-22T15:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U18P31",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184424
+  }
  },
  {
   "id": 2373404,
