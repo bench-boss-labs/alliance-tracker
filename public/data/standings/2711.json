@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-22T00:13:38.002Z",
+ "updatedAt": "2026-11-22T16:15:28.228Z",
  "regular": [
   {
    "name": "",
@@ -159,16 +159,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97033",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
-     "w": 1,
+     "gp": 10,
+     "w": 2,
      "l": 8,
      "t": 0,
-     "pts": 2,
-     "gf": 15,
+     "pts": 4,
+     "gf": 19,
      "ga": 39,
-     "diff": -24,
-     "l10": "1-8",
-     "strk": "L6"
+     "diff": -20,
+     "l10": "2-8",
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97303",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 51,
-     "diff": -42,
-     "l10": "0-8-1",
-     "strk": "L5"
+     "ga": 55,
+     "diff": -46,
+     "l10": "0-9-1",
+     "strk": "L6"
     }
    ]
   }

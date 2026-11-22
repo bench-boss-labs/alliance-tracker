@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-21T20:47:37.485Z",
+ "updatedAt": "2026-11-22T16:15:02.321Z",
  "regular": [
   {
    "name": "East Division",
@@ -116,6 +116,21 @@
      "strk": "W4"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-96944",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 32,
+     "ga": 25,
+     "diff": 7,
+     "l10": "5-2-1",
+     "strk": "T1"
+    },
+    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96940",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -129,21 +144,6 @@
      "diff": 43,
      "l10": "5-2-1",
      "strk": "T1"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-96944",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 5,
-     "l": 2,
-     "t": 0,
-     "pts": 10,
-     "gf": 29,
-     "ga": 22,
-     "diff": 7,
-     "l10": "5-2",
-     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -164,16 +164,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96946",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
      "l": 8,
-     "t": 0,
-     "pts": 4,
-     "gf": 35,
-     "ga": 64,
+     "t": 1,
+     "pts": 5,
+     "gf": 38,
+     "ga": 67,
      "diff": -29,
-     "l10": "2-8",
-     "strk": "L7"
+     "l10": "1-8-1",
+     "strk": "T1"
     }
    ]
   }

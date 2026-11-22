@@ -1034,14 +1034,17 @@
   "start": "2026-11-22T10:00:00-05:00",
   "away": "Kitchener Jr Rangers Blue",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U10S33",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-11-22/10:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3183831
+  }
  },
  {
   "id": 2390713,
