@@ -1432,6 +1432,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2723:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "logos/51ff29ef905f.png"
+ },
+ {
   "id": "2723:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2723,
@@ -1446,14 +1454,6 @@
   "division": "U14 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2723:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "logos/51ff29ef905f.png"
  },
  {
   "id": "2723:kitchener-jr-rangers-blue",

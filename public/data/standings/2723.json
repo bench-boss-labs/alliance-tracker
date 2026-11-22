@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-21T22:40:16.566Z",
+ "updatedAt": "2026-11-22T00:44:37.119Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W4"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97085",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 10,
+     "w": 4,
+     "l": 4,
+     "t": 2,
+     "pts": 10,
+     "gf": 22,
+     "ga": 18,
+     "diff": 4,
+     "l10": "4-4-2",
+     "strk": "W2"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97289",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -126,21 +141,6 @@
      "strk": "L3"
     },
     {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97085",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
-     "w": 3,
-     "l": 4,
-     "t": 2,
-     "pts": 8,
-     "gf": 18,
-     "ga": 17,
-     "diff": 1,
-     "l10": "3-4-2",
-     "strk": "W1"
-    },
-    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97300",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -159,16 +159,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97078",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
-     "gf": 20,
-     "ga": 31,
-     "diff": -11,
-     "l10": "2-7",
-     "strk": "L3"
+     "gf": 21,
+     "ga": 35,
+     "diff": -14,
+     "l10": "2-8",
+     "strk": "L4"
     },
     {
      "team": "Waterloo Wolves",
