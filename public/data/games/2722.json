@@ -1391,14 +1391,17 @@
   "start": "2026-11-22T12:00:00-05:00",
   "away": "Sun County Panthers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Blenheim (Blenheim)",
   "code": "U14P93",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-22/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3183803
+  }
  },
  {
   "id": 2374791,

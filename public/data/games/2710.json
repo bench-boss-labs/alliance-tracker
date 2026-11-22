@@ -950,14 +950,17 @@
   "start": "2026-11-22T12:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 5,
+  "status": "final",
   "venue": "WFCU (Bowl)",
   "code": "U10P107",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3184010
+  }
  },
  {
   "id": 2373930,

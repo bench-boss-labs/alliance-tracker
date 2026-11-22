@@ -1097,14 +1097,17 @@
   "start": "2026-11-22T12:00:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U13S40",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-22/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3183938
+  }
  },
  {
   "id": 2375518,

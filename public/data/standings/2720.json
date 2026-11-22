@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-21T23:09:23.208Z",
+ "updatedAt": "2026-11-22T18:40:09.925Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "W1"
     },
     {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97288",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 9,
+     "w": 5,
+     "l": 4,
+     "t": 0,
+     "pts": 10,
+     "gf": 24,
+     "ga": 22,
+     "diff": 2,
+     "l10": "5-4",
+     "strk": "W1"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97076",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -93,21 +108,6 @@
      "ga": 29,
      "diff": 1,
      "l10": "4-4-2",
-     "strk": "L1"
-    },
-    {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97288",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 8,
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 19,
-     "ga": 18,
-     "diff": 1,
-     "l10": "4-4",
      "strk": "L1"
     },
     {
@@ -174,16 +174,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97065",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
-     "gf": 16,
-     "ga": 32,
-     "diff": -16,
-     "l10": "2-7",
-     "strk": "L4"
+     "gf": 20,
+     "ga": 37,
+     "diff": -17,
+     "l10": "2-8",
+     "strk": "L5"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
