@@ -1211,14 +1211,17 @@
   "start": "2026-11-21T18:15:00-05:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 3,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U15P98",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3183083
+  }
  },
  {
   "id": 2375102,
