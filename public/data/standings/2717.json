@@ -1,6 +1,6 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-11-22T18:29:34.599Z",
+ "updatedAt": "2026-11-22T20:49:32.644Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97060",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 7,
+     "gp": 11,
+     "w": 8,
      "l": 3,
      "t": 0,
-     "pts": 14,
-     "gf": 45,
+     "pts": 16,
+     "gf": 51,
      "ga": 20,
-     "diff": 25,
+     "diff": 31,
      "l10": "7-3",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97062",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
+     "gp": 11,
      "w": 0,
-     "l": 10,
+     "l": 11,
      "t": 0,
      "pts": 0,
      "gf": 7,
-     "ga": 77,
-     "diff": -70,
+     "ga": 83,
+     "diff": -76,
      "l10": "0-10",
-     "strk": "L10"
+     "strk": "L11"
     }
    ]
   }
