@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-22T18:58:34.078Z",
+ "updatedAt": "2026-11-22T22:29:39.253Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,36 @@
      "strk": "W5"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97044",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 10,
+     "w": 6,
+     "l": 4,
+     "t": 0,
+     "pts": 12,
+     "gf": 32,
+     "ga": 23,
+     "diff": 9,
+     "l10": "6-4",
+     "strk": "W1"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97047",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 9,
+     "w": 6,
+     "l": 3,
+     "t": 0,
+     "pts": 12,
+     "gf": 28,
+     "ga": 21,
+     "diff": 7,
+     "l10": "6-3",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97038",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -64,36 +94,6 @@
      "diff": 4,
      "l10": "6-4",
      "strk": "W3"
-    },
-    {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97044",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 5,
-     "l": 4,
-     "t": 0,
-     "pts": 10,
-     "gf": 29,
-     "ga": 22,
-     "diff": 7,
-     "l10": "5-4",
-     "strk": "L1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97047",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 10,
-     "gf": 24,
-     "ga": 21,
-     "diff": 3,
-     "l10": "5-3",
-     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -114,16 +114,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97049",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 2,
      "pts": 6,
      "gf": 25,
-     "ga": 49,
-     "diff": -24,
-     "l10": "2-5-2",
-     "strk": "L3"
+     "ga": 53,
+     "diff": -28,
+     "l10": "2-6-2",
+     "strk": "L4"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -144,16 +144,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97045",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 5,
-     "gf": 14,
-     "ga": 41,
-     "diff": -27,
-     "l10": "2-6-1",
-     "strk": "W1"
+     "gf": 15,
+     "ga": 44,
+     "diff": -29,
+     "l10": "2-7-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
