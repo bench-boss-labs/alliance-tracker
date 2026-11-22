@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-11-22T18:39:19.923Z",
+ "updatedAt": "2026-11-22T19:38:43.515Z",
  "regular": [
   {
    "name": "",
@@ -66,49 +66,34 @@
      "strk": "W2"
     },
     {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96963",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 9,
-     "w": 4,
-     "l": 5,
-     "t": 0,
-     "pts": 8,
-     "gf": 32,
-     "ga": 30,
-     "diff": 2,
-     "l10": "4-5",
-     "strk": "L1"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-96966",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 3,
+     "gp": 10,
+     "w": 4,
      "l": 5,
      "t": 1,
-     "pts": 7,
-     "gf": 25,
+     "pts": 9,
+     "gf": 27,
      "ga": 33,
-     "diff": -8,
-     "l10": "3-5-1",
-     "strk": "W2"
+     "diff": -6,
+     "l10": "4-5-1",
+     "strk": "W3"
     },
     {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96961",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 15,
-     "w": 3,
-     "l": 11,
-     "t": 1,
-     "pts": 7,
-     "gf": 28,
-     "ga": 57,
-     "diff": -29,
-     "l10": "3-7",
-     "strk": "L1"
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96963",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 10,
+     "w": 4,
+     "l": 6,
+     "t": 0,
+     "pts": 8,
+     "gf": 32,
+     "ga": 32,
+     "diff": 0,
+     "l10": "4-6",
+     "strk": "L2"
     },
     {
      "team": "Brantford 99ers",
@@ -124,6 +109,21 @@
      "diff": -22,
      "l10": "3-6-1",
      "strk": "T1"
+    },
+    {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96961",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 15,
+     "w": 3,
+     "l": 11,
+     "t": 1,
+     "pts": 7,
+     "gf": 28,
+     "ga": 57,
+     "diff": -29,
+     "l10": "3-7",
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",

@@ -1316,14 +1316,17 @@
   "start": "2026-11-22T13:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U11BR47",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184647
+  }
  },
  {
   "id": 2379326,

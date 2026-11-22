@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-22T03:05:07.341Z",
+ "updatedAt": "2026-11-22T19:39:43.484Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97094",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 8,
      "l": 0,
-     "t": 1,
-     "pts": 17,
-     "gf": 27,
-     "ga": 8,
+     "t": 2,
+     "pts": 18,
+     "gf": 30,
+     "ga": 11,
      "diff": 19,
-     "l10": "8-0-1",
-     "strk": "W3"
+     "l10": "8-0-2",
+     "strk": "T1"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -171,6 +171,21 @@
      "strk": "W1"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97098",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 10,
+     "w": 1,
+     "l": 8,
+     "t": 1,
+     "pts": 3,
+     "gf": 18,
+     "ga": 42,
+     "diff": -24,
+     "l10": "1-8-1",
+     "strk": "T1"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-97327",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -184,21 +199,6 @@
      "diff": -27,
      "l10": "0-10",
      "strk": "L10"
-    },
-    {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97098",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
-     "w": 1,
-     "l": 8,
-     "t": 0,
-     "pts": 2,
-     "gf": 15,
-     "ga": 39,
-     "diff": -24,
-     "l10": "1-8",
-     "strk": "W1"
     }
    ]
   }
