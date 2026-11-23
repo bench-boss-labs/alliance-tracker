@@ -1319,14 +1319,17 @@
   "start": "2026-11-22T16:00:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U13BR65",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-22/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3184736
+  }
  },
  {
   "id": 2378026,

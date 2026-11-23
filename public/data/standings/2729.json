@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-23T00:10:55.311Z",
+ "updatedAt": "2026-11-23T20:17:44.418Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W3"
     },
     {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97291",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 12,
+     "w": 8,
+     "l": 1,
+     "t": 3,
+     "pts": 19,
+     "gf": 40,
+     "ga": 21,
+     "diff": 19,
+     "l10": "6-1-3",
+     "strk": "T1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97102",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -34,21 +49,6 @@
      "diff": 21,
      "l10": "7-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97291",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 11,
-     "w": 8,
-     "l": 1,
-     "t": 2,
-     "pts": 18,
-     "gf": 39,
-     "ga": 20,
-     "diff": 19,
-     "l10": "7-1-2",
-     "strk": "L1"
     },
     {
      "team": "London Jr Knights Green",
@@ -81,21 +81,6 @@
      "strk": "W1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97107",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 11,
-     "w": 5,
-     "l": 5,
-     "t": 1,
-     "pts": 11,
-     "gf": 41,
-     "ga": 43,
-     "diff": -2,
-     "l10": "5-4-1",
-     "strk": "W1"
-    },
-    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97111",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -114,15 +99,30 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97104",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
      "l": 3,
-     "t": 2,
-     "pts": 10,
-     "gf": 30,
-     "ga": 30,
+     "t": 3,
+     "pts": 11,
+     "gf": 31,
+     "ga": 31,
      "diff": 0,
-     "l10": "4-3-2",
+     "l10": "4-3-3",
+     "strk": "T1"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97107",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 11,
+     "w": 5,
+     "l": 5,
+     "t": 1,
+     "pts": 11,
+     "gf": 41,
+     "ga": 43,
+     "diff": -2,
+     "l10": "5-4-1",
      "strk": "W1"
     },
     {

@@ -1010,14 +1010,17 @@
   "start": "2026-11-22T19:30:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U18P19",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-22/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3185372
+  }
  },
  {
   "id": 2373413,
@@ -1025,14 +1028,17 @@
   "start": "2026-11-22T20:00:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 2,
+  "status": "final",
   "venue": "WFCU (Bowl)",
   "code": "U18P17",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3185373
+  }
  },
  {
   "id": 2373363,

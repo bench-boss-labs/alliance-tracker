@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-22T23:40:29.679Z",
+ "updatedAt": "2026-11-23T20:13:25.528Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96969",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 12,
+     "gp": 13,
      "w": 8,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 17,
-     "gf": 51,
-     "ga": 30,
-     "diff": 21,
-     "l10": "6-3-1",
-     "strk": "T1"
+     "gf": 52,
+     "ga": 34,
+     "diff": 18,
+     "l10": "5-4-1",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -81,6 +81,21 @@
      "strk": "W2"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-96976",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 12,
+     "w": 6,
+     "l": 5,
+     "t": 1,
+     "pts": 13,
+     "gf": 38,
+     "ga": 28,
+     "diff": 10,
+     "l10": "5-5",
+     "strk": "W2"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96974",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -94,21 +109,6 @@
      "diff": -6,
      "l10": "5-5",
      "strk": "W2"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-96976",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 11,
-     "w": 5,
-     "l": 5,
-     "t": 1,
-     "pts": 11,
-     "gf": 34,
-     "ga": 27,
-     "diff": 7,
-     "l10": "4-5-1",
-     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves",

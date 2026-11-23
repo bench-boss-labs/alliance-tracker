@@ -1463,14 +1463,17 @@
   "start": "2026-11-22T20:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P132",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-22/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3185377
+  }
  },
  {
   "id": 2374834,

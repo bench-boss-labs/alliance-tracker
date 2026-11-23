@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-22T23:59:02.426Z",
+ "updatedAt": "2026-11-23T20:13:51.531Z",
  "regular": [
   {
    "name": "",
@@ -9,31 +9,31 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97069",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 10,
+     "gp": 11,
      "w": 10,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 20,
-     "gf": 53,
-     "ga": 10,
-     "diff": 43,
-     "l10": "10-0",
-     "strk": "W10"
+     "gf": 55,
+     "ga": 14,
+     "diff": 41,
+     "l10": "9-1",
+     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",
      "teamId": "odb-97072",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
-     "w": 8,
+     "gp": 10,
+     "w": 9,
      "l": 1,
      "t": 0,
-     "pts": 16,
-     "gf": 38,
-     "ga": 26,
-     "diff": 12,
-     "l10": "8-1",
-     "strk": "W3"
+     "pts": 18,
+     "gf": 42,
+     "ga": 28,
+     "diff": 14,
+     "l10": "9-1",
+     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves",
