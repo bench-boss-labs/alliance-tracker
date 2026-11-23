@@ -2336,14 +2336,6 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2732:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2732:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2732,
@@ -2358,6 +2350,14 @@
   "division": "U18 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2732:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2732:mt-brydges-cougars",
