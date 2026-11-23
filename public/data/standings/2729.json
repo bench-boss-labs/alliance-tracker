@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-22T21:10:54.453Z",
+ "updatedAt": "2026-11-23T00:10:55.311Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W3"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97102",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 12,
+     "w": 9,
+     "l": 2,
+     "t": 1,
+     "pts": 19,
+     "gf": 51,
+     "ga": 30,
+     "diff": 21,
+     "l10": "7-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97291",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -33,21 +48,6 @@
      "ga": 20,
      "diff": 19,
      "l10": "7-1-2",
-     "strk": "L1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97102",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 11,
-     "w": 8,
-     "l": 2,
-     "t": 1,
-     "pts": 17,
-     "gf": 46,
-     "ga": 28,
-     "diff": 18,
-     "l10": "7-2-1",
      "strk": "L1"
     },
     {
@@ -129,16 +129,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97108",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 13,
+     "gp": 14,
      "w": 4,
-     "l": 7,
+     "l": 8,
      "t": 2,
      "pts": 10,
-     "gf": 38,
-     "ga": 56,
-     "diff": -18,
-     "l10": "3-5-2",
-     "strk": "L4"
+     "gf": 40,
+     "ga": 61,
+     "diff": -21,
+     "l10": "2-6-2",
+     "strk": "L5"
     },
     {
      "team": "London Jr Knights White",
