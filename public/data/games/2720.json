@@ -1115,14 +1115,17 @@
   "start": "2026-11-22T17:15:00-05:00",
   "away": "Burlington Raiders",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U13S29",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-22/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3184570
+  }
  },
  {
   "id": 2375515,

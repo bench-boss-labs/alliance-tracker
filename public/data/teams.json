@@ -1136,20 +1136,20 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
-  "id": "2720:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2720:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2720:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2720:woodstock-jr-navy-vets",

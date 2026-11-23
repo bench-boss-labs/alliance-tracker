@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-22T18:40:09.925Z",
+ "updatedAt": "2026-11-22T23:59:02.426Z",
  "regular": [
   {
    "name": "",
@@ -126,34 +126,34 @@
      "strk": "L2"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97070",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 3,
-     "l": 5,
-     "t": 1,
-     "pts": 7,
-     "gf": 21,
-     "ga": 34,
-     "diff": -13,
-     "l10": "3-5-1",
-     "strk": "L1"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-97075",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
-     "w": 3,
+     "gp": 11,
+     "w": 4,
      "l": 7,
      "t": 0,
-     "pts": 6,
-     "gf": 26,
-     "ga": 45,
-     "diff": -19,
-     "l10": "3-7",
-     "strk": "L1"
+     "pts": 8,
+     "gf": 31,
+     "ga": 47,
+     "diff": -16,
+     "l10": "4-6",
+     "strk": "W1"
+    },
+    {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97070",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 10,
+     "w": 3,
+     "l": 6,
+     "t": 1,
+     "pts": 7,
+     "gf": 23,
+     "ga": 39,
+     "diff": -16,
+     "l10": "3-6-1",
+     "strk": "L2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
