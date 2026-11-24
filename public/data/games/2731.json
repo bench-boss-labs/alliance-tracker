@@ -1046,14 +1046,17 @@
   "start": "2026-11-23T19:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U18P89",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3188975
+  }
  },
  {
   "id": 2373276,

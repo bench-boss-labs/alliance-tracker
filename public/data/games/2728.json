@@ -1229,14 +1229,17 @@
   "start": "2026-11-23T20:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P82",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-23/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3188973
+  }
  },
  {
   "id": 2375152,

@@ -1250,14 +1250,17 @@
   "start": "2026-11-23T19:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 11,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16S30",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-23/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3188905
+  }
  },
  {
   "id": 2375892,

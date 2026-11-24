@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-23T20:18:36.197Z",
+ "updatedAt": "2026-11-24T19:38:25.594Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97021",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 15,
+     "gp": 16,
      "w": 14,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 28,
-     "gf": 82,
-     "ga": 21,
-     "diff": 61,
-     "l10": "10-0-0",
-     "strk": "W13"
+     "gf": 83,
+     "ga": 27,
+     "diff": 56,
+     "l10": "9-1-0",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights",
@@ -54,16 +54,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97024",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 13,
-     "w": 8,
+     "gp": 14,
+     "w": 9,
      "l": 5,
      "t": 0,
-     "pts": 16,
-     "gf": 51,
-     "ga": 37,
-     "diff": 14,
-     "l10": "5-5-0",
-     "strk": "L1"
+     "pts": 18,
+     "gf": 57,
+     "ga": 38,
+     "diff": 19,
+     "l10": "6-4-0",
+     "strk": "W1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
