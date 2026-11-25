@@ -12,6 +12,8 @@ export default defineConfig({
     // On GitHub the machine's preinstalled Chrome is used (PW_CHANNEL=chrome),
     // so tests don't depend on downloading a browser and its system packages.
     ...(process.env.PW_CHANNEL ? { channel: process.env.PW_CHANNEL } : {}),
+    // Or a specific browser binary (handy when a workspace's browser differs from Playwright's).
+    ...(process.env.PW_EXECUTABLE ? { launchOptions: { executablePath: process.env.PW_EXECUTABLE } } : {}),
     baseURL: 'http://localhost:4173',
     serviceWorkers: 'block', // test the app itself, not a cached copy
   },

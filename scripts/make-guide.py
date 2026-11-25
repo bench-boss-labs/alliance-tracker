@@ -16,8 +16,8 @@ from reportlab.lib.utils import ImageReader
 ROOT = Path(__file__).resolve().parent.parent
 SHOTS = Path(sys.argv[1])
 OUT = Path(sys.argv[2])
-URL = "https://scalisec.github.io/alliance-tracker/"
-URL_SHORT = "scalisec.github.io/alliance-tracker"
+URL = "https://bench-boss-labs.github.io/alliance-tracker/"
+URL_SHORT = "bench-boss-labs.github.io/alliance-tracker"
 
 F = "/usr/share/fonts/truetype/crosextra/"
 pdfmetrics.registerFont(TTFont("Body", F + "Carlito-Regular.ttf"))

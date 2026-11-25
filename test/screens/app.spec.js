@@ -94,3 +94,14 @@ test('a live game opens GameSheet live scoring automatically', async ({ page }) 
   await expect(page.locator('.gs-embed iframe')).toBeVisible();
   await expect(page.getByRole('button', { name: /Refresh score/ })).toBeVisible();
 });
+
+test('saved teams forwarded from the old address are kept', async ({ page }) => {
+  const d = { saved: ['2712:burlington-bulldogs-blue', 'bad id <script>'], theme: 'light', division: '2712' };
+  await page.goto(`./#/import?d=${encodeURIComponent(JSON.stringify(d))}&to=${encodeURIComponent('#/standings')}`);
+  await expect(page).toHaveURL(/#\/standings$/);
+  const ls = await page.evaluate(() => ({ saved: localStorage.getItem('at.saved'), theme: localStorage.getItem('at.theme') }));
+  expect(JSON.parse(ls.saved)).toEqual(['2712:burlington-bulldogs-blue']);
+  expect(ls.theme).toBe('light');
+  await page.goto('./#/');
+  await expect(page.locator('.team-card .name').first()).toHaveText('Burlington Bulldogs Blue');
+});

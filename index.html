@@ -15,6 +15,27 @@
     <link rel="apple-touch-icon" href="icons/icon-192.png" />
     <title>Alliance Tracker</title>
     <script>
+      // Moving from the old address: the old site forwards here with the phone's
+      // saved teams and settings in the link (#/import?d=...). Merge them in, then
+      // carry on to the screen the person was opening. The link part after # never
+      // leaves the phone.
+      try {
+        var h = location.hash, m = /^#\/import\?d=([^&]*)(?:&to=(.*))?$/.exec(h);
+        if (m) {
+          var d = JSON.parse(decodeURIComponent(m[1]) || '{}');
+          var ok = function (x) { return typeof x === 'string' && /^\d{1,6}:[a-z0-9-]{1,80}$/.test(x); };
+          if (Array.isArray(d.saved)) {
+            var have = []; try { have = JSON.parse(localStorage.getItem('at.saved')) || []; } catch (e) {}
+            var all = have.concat(d.saved.filter(ok)).filter(function (x, i, a) { return a.indexOf(x) === i; }).slice(0, 50);
+            localStorage.setItem('at.saved', JSON.stringify(all));
+          }
+          if (d.theme === 'dark' || d.theme === 'light') localStorage.setItem('at.theme', d.theme);
+          if (/^\d{1,6}$/.test(String(d.division || ''))) localStorage.setItem('at.division', String(Number(d.division)));
+          if (d.installed) localStorage.setItem('at.installed', '1');
+          var to = m[2] ? decodeURIComponent(m[2]) : '#/';
+          history.replaceState(null, '', location.pathname + (/^#\/[\w\/-]*$/.test(to) ? to : '#/'));
+        }
+      } catch (e) { history.replaceState(null, '', location.pathname + '#/'); }
       try {
         var t = localStorage.getItem('at.theme') || 'dark';
         document.documentElement.dataset.theme = t;
