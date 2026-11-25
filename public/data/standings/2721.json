@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-23T20:14:17.319Z",
+ "updatedAt": "2026-11-25T04:12:17.379Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W3"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97233",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 11,
+     "w": 7,
+     "l": 3,
+     "t": 1,
+     "pts": 15,
+     "gf": 43,
+     "ga": 25,
+     "diff": 18,
+     "l10": "6-3-1",
+     "strk": "T1"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97222",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -81,19 +96,19 @@
      "strk": "W3"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97233",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 10,
-     "w": 7,
-     "l": 3,
-     "t": 0,
-     "pts": 14,
-     "gf": 42,
-     "ga": 24,
-     "diff": 18,
-     "l10": "7-3",
-     "strk": "L2"
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97230",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 12,
+     "w": 5,
+     "l": 5,
+     "t": 2,
+     "pts": 12,
+     "gf": 33,
+     "ga": 33,
+     "diff": 0,
+     "l10": "4-4-2",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -109,21 +124,6 @@
      "diff": 4,
      "l10": "6-4",
      "strk": "W1"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97230",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 11,
-     "w": 5,
-     "l": 5,
-     "t": 1,
-     "pts": 11,
-     "gf": 32,
-     "ga": 32,
-     "diff": 0,
-     "l10": "4-5-1",
-     "strk": "L1"
     },
     {
      "team": "Oakridge Aeros",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-22T22:29:39.253Z",
+ "updatedAt": "2026-11-25T04:10:07.830Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97043",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 10,
-     "w": 10,
+     "gp": 11,
+     "w": 11,
      "l": 0,
      "t": 0,
-     "pts": 20,
-     "gf": 70,
+     "pts": 22,
+     "gf": 76,
      "ga": 13,
-     "diff": 57,
+     "diff": 63,
      "l10": "10-0",
-     "strk": "W10"
+     "strk": "W11"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -129,16 +129,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97050",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 2,
      "pts": 6,
      "gf": 13,
-     "ga": 29,
-     "diff": -16,
-     "l10": "2-4-2",
-     "strk": "T1"
+     "ga": 35,
+     "diff": -22,
+     "l10": "2-5-2",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",

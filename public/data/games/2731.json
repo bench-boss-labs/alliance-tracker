@@ -1064,14 +1064,17 @@
   "start": "2026-11-24T19:45:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18P103",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3191793
+  }
  },
  {
   "id": 2373321,
@@ -1079,14 +1082,17 @@
   "start": "2026-11-24T20:00:00-05:00",
   "away": "London Jr Knights",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U18P21",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-24/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3191794
+  }
  },
  {
   "id": 2373293,

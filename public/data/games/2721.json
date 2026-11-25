@@ -1355,14 +1355,17 @@
   "start": "2026-11-24T20:00:00-05:00",
   "away": "Burlington Raiders",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U13BR71",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-24/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3191795
+  }
  },
  {
   "id": 2378082,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-23T20:13:51.531Z",
+ "updatedAt": "2026-11-25T04:11:37.443Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,31 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97072",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 10,
+     "gp": 11,
      "w": 9,
      "l": 1,
-     "t": 0,
-     "pts": 18,
-     "gf": 42,
-     "ga": 28,
+     "t": 1,
+     "pts": 19,
+     "gf": 44,
+     "ga": 30,
      "diff": 14,
-     "l10": "9-1",
-     "strk": "W4"
+     "l10": "8-1-1",
+     "strk": "T1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97064",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 10,
+     "w": 6,
+     "l": 2,
+     "t": 2,
+     "pts": 14,
+     "gf": 40,
+     "ga": 25,
+     "diff": 15,
+     "l10": "6-2-2",
+     "strk": "W2"
     },
     {
      "team": "Waterloo Wolves",
@@ -66,34 +81,19 @@
      "strk": "W4"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97064",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 5,
-     "l": 2,
-     "t": 2,
-     "pts": 12,
-     "gf": 34,
-     "ga": 23,
-     "diff": 11,
-     "l10": "5-2-2",
-     "strk": "W1"
-    },
-    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97288",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 9,
+     "gp": 10,
      "w": 5,
      "l": 4,
-     "t": 0,
-     "pts": 10,
-     "gf": 24,
-     "ga": 22,
+     "t": 1,
+     "pts": 11,
+     "gf": 26,
+     "ga": 24,
      "diff": 2,
-     "l10": "5-4",
-     "strk": "W1"
+     "l10": "5-4-1",
+     "strk": "T1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -174,16 +174,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97065",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
+     "gp": 11,
      "w": 2,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 4,
-     "gf": 20,
-     "ga": 37,
-     "diff": -17,
-     "l10": "2-8",
-     "strk": "L5"
+     "gf": 22,
+     "ga": 43,
+     "diff": -21,
+     "l10": "1-9",
+     "strk": "L6"
     },
     {
      "team": "Kitchener Jr Rangers Blue",

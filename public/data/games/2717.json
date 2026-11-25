@@ -1217,14 +1217,17 @@
   "start": "2026-11-24T19:00:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U12S17",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-24/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3191818
+  }
  },
  {
   "id": 2375419,

@@ -1658,14 +1658,17 @@
   "start": "2026-11-24T18:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U14BR18",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-24/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3191832
+  }
  },
  {
   "id": 2378224,

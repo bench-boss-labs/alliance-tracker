@@ -1253,14 +1253,17 @@
   "start": "2026-11-24T19:00:00-05:00",
   "away": "Brantford 99ers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "The Aud (Kinsmen)",
   "code": "U13P44",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3191843
+  }
  },
  {
   "id": 2374613,
