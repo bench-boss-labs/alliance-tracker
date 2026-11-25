@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-22T19:57:59.098Z",
+ "updatedAt": "2026-11-25T18:37:54.732Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96937",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 4,
+     "gp": 9,
+     "w": 5,
      "l": 4,
      "t": 0,
-     "pts": 8,
-     "gf": 31,
-     "ga": 26,
-     "diff": 5,
-     "l10": "4-4",
-     "strk": "L1"
+     "pts": 10,
+     "gf": 37,
+     "ga": 27,
+     "diff": 10,
+     "l10": "5-4",
+     "strk": "W1"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -69,16 +69,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96938",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 9,
+     "l": 10,
      "t": 0,
      "pts": 2,
-     "gf": 20,
-     "ga": 74,
-     "diff": -54,
+     "gf": 21,
+     "ga": 80,
+     "diff": -59,
      "l10": "1-9",
-     "strk": "L7"
+     "strk": "L8"
     }
    ]
   },

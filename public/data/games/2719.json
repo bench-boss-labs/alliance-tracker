@@ -1701,6 +1701,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374601,
+  "divisionId": 2719,
+  "start": "2026-12-18T18:00:00-05:00",
+  "away": "Huron-Perth Lakers",
+  "home": "Waterloo Wolves",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "RIM Park (Lions)",
+  "code": "U13P18",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2374560,
   "divisionId": 2719,
   "start": "2026-12-18T19:00:00-05:00",
@@ -2151,21 +2166,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374652,
-  "divisionId": 2719,
-  "start": "2027-01-16T16:00:00-05:00",
-  "away": "Waterloo Wolves",
-  "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Nichols (A)",
-  "code": "U13P120",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2374620,
   "divisionId": 2719,
   "start": "2027-01-17T13:00:00-05:00",
@@ -2176,21 +2176,6 @@
   "status": "scheduled",
   "venue": "Civic Centre",
   "code": "U13P37",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374601,
-  "divisionId": 2719,
-  "start": "2027-01-17T18:30:00-05:00",
-  "away": "Huron-Perth Lakers",
-  "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "RIM Park (Lions)",
-  "code": "U13P18",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -2356,6 +2341,21 @@
   "status": "scheduled",
   "venue": "Western Fair (Major Appliances)",
   "code": "U13P159",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374672,
+  "divisionId": 2719,
+  "start": "2027-01-25T19:30:00-05:00",
+  "away": "Sun County Panthers",
+  "home": "Windsor Jr Spitfires",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Central Park (North)",
+  "code": "U13P123",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -2721,21 +2721,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374672,
-  "divisionId": 2719,
-  "start": "2027-02-12T19:00:00-05:00",
-  "away": "Sun County Panthers",
-  "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Central Park (North)",
-  "code": "U13P123",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2383456,
   "divisionId": 2719,
   "start": "2027-02-12T19:30:00-05:00",
@@ -2776,6 +2761,21 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U13P77",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374652,
+  "divisionId": 2719,
+  "start": "2027-02-13T17:50:00-05:00",
+  "away": "Waterloo Wolves",
+  "home": "London Jr Knights",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Nichols (C)",
+  "code": "U13P120",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
