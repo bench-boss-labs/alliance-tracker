@@ -1124,14 +1124,17 @@
   "start": "2026-11-25T18:30:00-05:00",
   "away": "Cambridge Hawks",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 16,
+  "status": "final",
   "venue": "Western Fair (Collins Clothiers)",
   "code": "U10S75",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4444/2026-11-25/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3193190
+  }
  },
  {
   "id": 2376159,

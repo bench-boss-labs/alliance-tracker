@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-22T23:39:09.646Z",
+ "updatedAt": "2026-11-26T03:32:37.829Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 29,
      "l10": "8-1-1",
      "strk": "L1"
+    },
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97030",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 10,
+     "w": 7,
+     "l": 3,
+     "t": 0,
+     "pts": 14,
+     "gf": 60,
+     "ga": 18,
+     "diff": 42,
+     "l10": "7-3",
+     "strk": "W3"
     },
     {
      "team": "Waterloo Wolves",
@@ -79,21 +94,6 @@
      "diff": 6,
      "l10": "6-3-1",
      "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97030",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 6,
-     "l": 3,
-     "t": 0,
-     "pts": 12,
-     "gf": 44,
-     "ga": 18,
-     "diff": 26,
-     "l10": "6-3",
-     "strk": "W2"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97036",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
      "gf": 16,
-     "ga": 68,
-     "diff": -52,
-     "l10": "2-7",
-     "strk": "W1"
+     "ga": 84,
+     "diff": -68,
+     "l10": "2-8",
+     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",

@@ -104,6 +104,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2711:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2711,
@@ -126,14 +134,6 @@
   "division": "U10 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:mt-brydges-cougars",
@@ -2056,22 +2056,6 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2729:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2729:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2729:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2729,
@@ -2080,12 +2064,28 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2729:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
+ },
+ {
   "id": "2729:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2729:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2729:stratford-warriors",
