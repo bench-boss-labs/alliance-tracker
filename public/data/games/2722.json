@@ -1551,21 +1551,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374728,
-  "divisionId": 2722,
-  "start": "2026-12-04T19:00:00-05:00",
-  "away": "Kitchener Jr Rangers",
-  "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Rotary Complex (Rink A)",
-  "code": "U14P27",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2374732,
   "divisionId": 2722,
   "start": "2026-12-05T12:30:00-05:00",
@@ -1861,21 +1846,6 @@
   "status": "scheduled",
   "venue": "RIM Park (Lions)",
   "code": "U14P172",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374731,
-  "divisionId": 2722,
-  "start": "2026-12-20T16:30:00-05:00",
-  "away": "Sun County Panthers",
-  "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Zurich",
-  "code": "U14P140",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -2301,6 +2271,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374731,
+  "divisionId": 2722,
+  "start": "2027-01-23T15:30:00-05:00",
+  "away": "Sun County Panthers",
+  "home": "Huron-Perth Lakers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "PERC",
+  "code": "U14P140",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2374783,
   "divisionId": 2722,
   "start": "2027-01-23T16:30:00-05:00",
@@ -2431,6 +2416,21 @@
   "status": "scheduled",
   "venue": "Rec Complex",
   "code": "U14P115",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374728,
+  "divisionId": 2722,
+  "start": "2027-01-30T14:00:00-05:00",
+  "away": "Kitchener Jr Rangers",
+  "home": "Huron-Perth Lakers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "PERC",
+  "code": "U14P27",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

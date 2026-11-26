@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-22T16:15:54.234Z",
+ "updatedAt": "2026-11-26T18:24:55.183Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,16 +54,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97175",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
-     "w": 6,
+     "gp": 10,
+     "w": 7,
      "l": 3,
      "t": 0,
-     "pts": 12,
-     "gf": 33,
-     "ga": 16,
-     "diff": 17,
-     "l10": "6-3",
-     "strk": "W1"
+     "pts": 14,
+     "gf": 40,
+     "ga": 17,
+     "diff": 23,
+     "l10": "7-3",
+     "strk": "W2"
     },
     {
      "team": "Waterloo Wolves",
@@ -99,16 +99,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97186",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 2,
-     "gf": 9,
-     "ga": 36,
-     "diff": -27,
-     "l10": "1-7",
-     "strk": "L6"
+     "gf": 10,
+     "ga": 43,
+     "diff": -33,
+     "l10": "1-8",
+     "strk": "L7"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-25T04:10:07.830Z",
+ "updatedAt": "2026-11-26T18:25:47.038Z",
  "regular": [
   {
    "name": "",
@@ -188,5 +188,101 @@
    ]
   }
  ],
- "playoffs": null
+ "playoffs": [
+  {
+   "name": "Constellation",
+   "rows": [
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97038",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97042",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97043",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97044",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97286",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97047",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    }
+   ]
+  }
+ ]
 }

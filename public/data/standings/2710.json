@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-25T18:37:54.732Z",
+ "updatedAt": "2026-11-26T18:24:03.511Z",
  "regular": [
   {
    "name": "East Division",
@@ -104,16 +104,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97285",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 8,
-     "w": 7,
+     "gp": 9,
+     "w": 8,
      "l": 1,
      "t": 0,
-     "pts": 14,
-     "gf": 71,
-     "ga": 17,
-     "diff": 54,
-     "l10": "7-1",
-     "strk": "W4"
+     "pts": 16,
+     "gf": 77,
+     "ga": 18,
+     "diff": 59,
+     "l10": "8-1",
+     "strk": "W5"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -134,16 +134,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96944",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
+     "gp": 9,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 11,
-     "gf": 32,
-     "ga": 25,
-     "diff": 7,
-     "l10": "5-2-1",
-     "strk": "T1"
+     "gf": 33,
+     "ga": 31,
+     "diff": 2,
+     "l10": "5-3-1",
+     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",
