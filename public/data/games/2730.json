@@ -1742,14 +1742,17 @@
   "start": "2026-11-26T19:00:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U16BR75",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-26/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3195174
+  }
  },
  {
   "id": 2378971,

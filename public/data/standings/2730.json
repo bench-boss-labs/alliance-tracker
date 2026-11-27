@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-23T20:18:10.307Z",
+ "updatedAt": "2026-11-27T01:43:25.941Z",
  "regular": [
   {
    "name": "",
@@ -49,6 +49,21 @@
      "diff": 9,
      "l10": "7-2-1",
      "strk": "W4"
+    },
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97276",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 13,
+     "w": 8,
+     "l": 4,
+     "t": 1,
+     "pts": 17,
+     "gf": 47,
+     "ga": 42,
+     "diff": 5,
+     "l10": "6-3-1",
+     "strk": "W2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -108,21 +123,6 @@
      "ga": 21,
      "diff": 13,
      "l10": "5-4-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97276",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 12,
-     "w": 7,
-     "l": 4,
-     "t": 1,
-     "pts": 15,
-     "gf": 42,
-     "ga": 38,
-     "diff": 4,
-     "l10": "6-3-1",
      "strk": "W1"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98142",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 11,
+     "gp": 12,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 2,
      "pts": 6,
-     "gf": 29,
-     "ga": 46,
-     "diff": -17,
+     "gf": 33,
+     "ga": 51,
+     "diff": -18,
      "l10": "2-6-2",
-     "strk": "L4"
+     "strk": "L5"
     },
     {
      "team": "West London Hawks",
