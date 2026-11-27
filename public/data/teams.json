@@ -1728,6 +1728,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2726:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2726:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2726,
@@ -1742,14 +1750,6 @@
   "division": "U15 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2726:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2726:sarnia-jr-sting",
