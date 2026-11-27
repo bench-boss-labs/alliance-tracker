@@ -120,6 +120,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2711:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2711:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2711,
@@ -134,14 +142,6 @@
   "division": "U10 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2711:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-red",
