@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-23T01:10:30.360Z",
+ "updatedAt": "2026-11-27T03:13:25.605Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W2"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97114",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 6,
+     "l": 3,
+     "t": 0,
+     "pts": 12,
+     "gf": 41,
+     "ga": 16,
+     "diff": 25,
+     "l10": "6-3",
+     "strk": "W4"
+    },
+    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97118",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -49,21 +64,6 @@
      "diff": -7,
      "l10": "5-4-1",
      "strk": "L1"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97114",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 10,
-     "gf": 34,
-     "ga": 14,
-     "diff": 20,
-     "l10": "5-3",
-     "strk": "W3"
     },
     {
      "team": "Waterloo Wolves",
@@ -129,16 +129,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97121",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 3,
      "pts": 7,
-     "gf": 22,
-     "ga": 33,
-     "diff": -11,
-     "l10": "2-4-3",
-     "strk": "L2"
+     "gf": 24,
+     "ga": 40,
+     "diff": -16,
+     "l10": "2-5-3",
+     "strk": "L3"
     },
     {
      "team": "London Jr Knights White",

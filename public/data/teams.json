@@ -2328,20 +2328,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2732:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2732:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2732:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2732:waterloo-wolves",
