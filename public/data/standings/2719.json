@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-25T04:11:07.649Z",
+ "updatedAt": "2026-11-28T01:38:18.931Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96979",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 12,
+     "gp": 13,
      "w": 8,
      "l": 3,
-     "t": 1,
-     "pts": 17,
-     "gf": 57,
-     "ga": 39,
+     "t": 2,
+     "pts": 18,
+     "gf": 59,
+     "ga": 41,
      "diff": 18,
-     "l10": "8-1-1",
-     "strk": "W1"
+     "l10": "7-1-2",
+     "strk": "T1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -84,16 +84,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96976",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 12,
+     "gp": 13,
      "w": 6,
      "l": 5,
-     "t": 1,
-     "pts": 13,
-     "gf": 38,
-     "ga": 28,
+     "t": 2,
+     "pts": 14,
+     "gf": 40,
+     "ga": 30,
      "diff": 10,
-     "l10": "5-5",
-     "strk": "W2"
+     "l10": "5-4-1",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",

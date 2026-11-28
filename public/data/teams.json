@@ -1488,20 +1488,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2724:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2724:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
+ },
+ {
+  "id": "2724:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2724:london-bandits",
