@@ -1760,14 +1760,17 @@
   "start": "2026-11-27T20:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U16BR30",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3197146
+  }
  },
  {
   "id": 2378999,
