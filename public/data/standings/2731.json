@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-28T03:26:28.978Z",
+ "updatedAt": "2026-11-28T04:23:20.281Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-97022",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 19,
+     "gp": 20,
      "w": 7,
-     "l": 11,
+     "l": 12,
      "t": 0,
      "pts": 15,
-     "gf": 62,
-     "ga": 85,
-     "diff": -23,
+     "gf": 67,
+     "ga": 91,
+     "diff": -24,
      "l10": "4-5-1",
-     "strk": "OT1"
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",
@@ -99,16 +99,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97025",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 14,
-     "w": 5,
+     "gp": 15,
+     "w": 6,
      "l": 9,
      "t": 0,
-     "pts": 10,
-     "gf": 41,
-     "ga": 68,
-     "diff": -27,
-     "l10": "4-6-0",
-     "strk": "L2"
+     "pts": 12,
+     "gf": 47,
+     "ga": 73,
+     "diff": -26,
+     "l10": "5-5-0",
+     "strk": "W1"
     },
     {
      "team": "Huron-Perth Lakers",
