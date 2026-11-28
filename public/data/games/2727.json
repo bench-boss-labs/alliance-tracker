@@ -1367,14 +1367,17 @@
   "start": "2026-11-27T20:15:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U15BR36",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3197011
+  }
  },
  {
   "id": 2378897,

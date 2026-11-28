@@ -1100,14 +1100,17 @@
   "start": "2026-11-27T20:15:00-05:00",
   "away": "London Jr Knights",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U18P84",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-27/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3197271
+  }
  },
  {
   "id": 2373379,
