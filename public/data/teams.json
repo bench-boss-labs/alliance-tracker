@@ -688,20 +688,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2716:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
- },
- {
   "id": "2716:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2716:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2716:sarnia-lambton-jr-sting",
@@ -1432,20 +1432,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2723:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2723:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2723:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2723:stratford-warriors",

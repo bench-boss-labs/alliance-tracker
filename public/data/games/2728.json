@@ -1470,36 +1470,6 @@
   "gamesheet": null
  },
  {
-  "id": 2375151,
-  "divisionId": 2728,
-  "start": "2026-12-12T16:00:00-05:00",
-  "away": "Brantford 99ers",
-  "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Activa (PJD)",
-  "code": "U16P4",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2375240,
-  "divisionId": 2728,
-  "start": "2026-12-13T12:15:00-05:00",
-  "away": "Kitchener Jr Rangers",
-  "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Komoka CW&RC (1 - Molson)",
-  "code": "U16P144",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2375184,
   "divisionId": 2728,
   "start": "2026-12-14T20:00:00-05:00",
@@ -1800,6 +1770,21 @@
   "gamesheet": null
  },
  {
+  "id": 2375151,
+  "divisionId": 2728,
+  "start": "2027-01-08T20:30:00-05:00",
+  "away": "Brantford 99ers",
+  "home": "Kitchener Jr Rangers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Activa (PJD)",
+  "code": "U16P4",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2375203,
   "divisionId": 2728,
   "start": "2027-01-08T20:30:00-05:00",
@@ -2005,6 +1990,21 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U16P70",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2375240,
+  "divisionId": 2728,
+  "start": "2027-01-24T13:45:00-05:00",
+  "away": "Kitchener Jr Rangers",
+  "home": "Elgin-Middlesex Canucks",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Komoka CW&RC (1 - Molson)",
+  "code": "U16P144",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

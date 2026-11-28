@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-25T04:11:37.443Z",
+ "updatedAt": "2026-11-28T09:02:20.669Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97288",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 10,
-     "w": 5,
+     "gp": 11,
+     "w": 6,
      "l": 4,
      "t": 1,
-     "pts": 11,
-     "gf": 26,
-     "ga": 24,
-     "diff": 2,
-     "l10": "5-4-1",
-     "strk": "T1"
+     "pts": 13,
+     "gf": 31,
+     "ga": 26,
+     "diff": 5,
+     "l10": "6-3-1",
+     "strk": "W1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -144,16 +144,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97070",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 10,
+     "gp": 11,
      "w": 3,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 7,
-     "gf": 23,
-     "ga": 39,
-     "diff": -16,
-     "l10": "3-6-1",
-     "strk": "L2"
+     "gf": 25,
+     "ga": 44,
+     "diff": -19,
+     "l10": "2-7-1",
+     "strk": "L3"
     },
     {
      "team": "Woodstock Jr Navy Vets",

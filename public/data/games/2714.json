@@ -1123,5 +1123,20 @@
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-29/15:45",
   "type": "regular",
   "gamesheet": null
+ },
+ {
+  "id": 2468907,
+  "divisionId": 2714,
+  "start": "2026-12-05T11:45:00-05:00",
+  "away": "Sarnia Jr. Sting",
+  "home": "Cambridge Hawks",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sports Park (2)",
+  "code": "U11B2",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
  }
 ]

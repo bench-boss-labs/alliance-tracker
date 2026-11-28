@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-25T04:12:47.537Z",
+ "updatedAt": "2026-11-28T09:03:38.610Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97082",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 11,
+     "gp": 12,
      "w": 10,
      "l": 0,
-     "t": 1,
-     "pts": 21,
-     "gf": 60,
-     "ga": 17,
+     "t": 2,
+     "pts": 22,
+     "gf": 61,
+     "ga": 18,
      "diff": 43,
-     "l10": "9-0-1",
-     "strk": "W1"
+     "l10": "8-0-2",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -96,6 +96,21 @@
      "strk": "W1"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97084",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 11,
+     "w": 5,
+     "l": 4,
+     "t": 2,
+     "pts": 12,
+     "gf": 28,
+     "ga": 26,
+     "diff": 2,
+     "l10": "5-3-2",
+     "strk": "T1"
+    },
+    {
      "team": "London Jr Knights White",
      "teamId": "odb-97083",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -109,21 +124,6 @@
      "diff": 3,
      "l10": "5-4-1",
      "strk": "W1"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97084",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 10,
-     "w": 5,
-     "l": 4,
-     "t": 1,
-     "pts": 11,
-     "gf": 27,
-     "ga": 25,
-     "diff": 2,
-     "l10": "5-4-1",
-     "strk": "W4"
     },
     {
      "team": "Stratford Warriors",
