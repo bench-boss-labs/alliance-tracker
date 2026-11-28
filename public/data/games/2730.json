@@ -1775,14 +1775,17 @@
   "start": "2026-11-27T20:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Stronach (A)",
   "code": "U16BR25",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3197147
+  }
  },
  {
   "id": 2379036,
@@ -1790,14 +1793,17 @@
   "start": "2026-11-27T20:00:00-05:00",
   "away": "Oakridge Aeros",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U16BR38",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-27/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3197145
+  }
  },
  {
   "id": 2379028,

@@ -1229,14 +1229,17 @@
   "start": "2026-11-27T20:00:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U15S51",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-27/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3197020
+  }
  },
  {
   "id": 2375727,

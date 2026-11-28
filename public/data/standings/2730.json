@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-27T01:43:25.941Z",
+ "updatedAt": "2026-11-28T02:37:35.188Z",
  "regular": [
   {
    "name": "",
@@ -9,31 +9,46 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 12,
+     "gp": 13,
      "w": 11,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 23,
-     "gf": 75,
-     "ga": 16,
-     "diff": 59,
-     "l10": "10-0",
-     "strk": "W10"
+     "gf": 77,
+     "ga": 19,
+     "diff": 58,
+     "l10": "9-1",
+     "strk": "L1"
     },
     {
      "team": "North London Nationals",
      "teamId": "odb-97273",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 11,
-     "w": 7,
+     "gp": 12,
+     "w": 8,
      "l": 0,
      "t": 4,
-     "pts": 18,
-     "gf": 49,
-     "ga": 19,
-     "diff": 30,
+     "pts": 20,
+     "gf": 52,
+     "ga": 21,
+     "diff": 31,
      "l10": "7-0-3",
-     "strk": "W2"
+     "strk": "W3"
+    },
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97276",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 14,
+     "w": 9,
+     "l": 4,
+     "t": 1,
+     "pts": 19,
+     "gf": 56,
+     "ga": 43,
+     "diff": 13,
+     "l10": "7-3",
+     "strk": "W3"
     },
     {
      "team": "Burlington Bulldogs Gold",
@@ -49,21 +64,6 @@
      "diff": 9,
      "l10": "7-2-1",
      "strk": "W4"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97276",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 13,
-     "w": 8,
-     "l": 4,
-     "t": 1,
-     "pts": 17,
-     "gf": 47,
-     "ga": 42,
-     "diff": 5,
-     "l10": "6-3-1",
-     "strk": "W2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -204,16 +204,16 @@
      "team": "West London Hawks",
      "teamId": "odb-97282",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 13,
+     "gp": 14,
      "w": 3,
-     "l": 10,
+     "l": 11,
      "t": 0,
      "pts": 6,
-     "gf": 32,
-     "ga": 59,
-     "diff": -27,
+     "gf": 33,
+     "ga": 68,
+     "diff": -35,
      "l10": "3-7",
-     "strk": "L2"
+     "strk": "L3"
     },
     {
      "team": "Burlington Bulldogs Blue",

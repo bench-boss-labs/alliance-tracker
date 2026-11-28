@@ -1214,14 +1214,17 @@
   "start": "2026-11-27T20:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U14S57",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3197285
+  }
  },
  {
   "id": 2375614,
